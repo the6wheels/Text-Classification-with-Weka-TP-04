@@ -1,0 +1,368 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.functions.SimpleLogistic -I 0 -M 500 -H 50 -W 0.0
+Relation:     tweet_emotions-weka.filters.unsupervised.attribute.StringToWordVector-R1-W1000-prune-rate-1.0-N0-stemmerweka.core.stemmers.NullStemmer-stopwords-handlerweka.core.stopwords.Null-M1-tokenizerweka.core.tokenizers.WordTokenizer -delimiters " \r\n\t.,;:\'\"()?!"
+Instances:    1000
+Attributes:   3949
+              [list of attributes omitted]
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+SimpleLogistic:
+
+Class empty :
+-2.12 + 
+[&quotany] * 2.78 +
+[0] * 2.67 +
+[@TheTombert] * 5.59 +
+[@allyycase] * 2.8  +
+[@creyes] * 2.78 +
+[@djmicdamn] * 5.6  +
+[@exortabreedoll] * 2.8  +
+[@msz_rockstar] * 2.78 +
+[@softtouchme] * 2.79 +
+[ANYBODY] * 2.82 +
+[Goodnight] * 2.79 +
+[Im] * 1.22 +
+[Needs] * 2.74 +
+[ONCE] * 5.59 +
+[Should] * 2.79 +
+[bored] * 2.13 +
+[com/p/wxom8] * 2.81 +
+[off] * 2.05 +
+[started] * 3.09 +
+[to] * 0.92 +
+[wut] * 5.61 +
+[my] * -1.03
+
+Class sadness :
+0.93 + 
+[Have] * 1.8  +
+[I] * 0.42 +
+[a] * -0.42 +
+[there] * 1.08 +
+[Everyone] * 2.78 +
+[Were] * 2.78 +
+[Wishes] * 2.78 +
+[asleep] * 1.53 +
+[care] * 2.78 +
+[day] * 0.98 +
+[empty] * 2.31 +
+[feel] * 1.44 +
+[hate] * 1.07 +
+[laptop] * 2.78 +
+[least] * 1.8  +
+[misses] * 2.78 +
+[missing] * 2.14 +
+[out] * -0.91 +
+[rob] * 2.78 +
+[sad] * 1.25 +
+[sick] * 1.22 +
+[sorry] * 1.42 +
+[text] * 2.78 +
+[wanted] * 1.73 +
+[whole] * 1.51 +
+[hope] * -1.46
+
+Class worry :
+0.98 + 
+[I] * 0.47 +
+[Im] * 0.54 +
+[do] * 1.02 +
+[know] * 1.01 +
+[lol] * -2.42 +
+[My] * 1.7  +
+[by] * 1.53 +
+[feeling] * 1.71 +
+[first] * 1.32 +
+[job] * 2.09 +
+[like] * 0.86 +
+[or] * 1.08 +
+[He] * 2.21 +
+[On] * 2.6  +
+[aww] * 2.78 +
+[body] * 2.09 +
+[flu] * 2.67 +
+[flying] * 2.78 +
+[homework] * 2.55 +
+[hoping] * 2.06 +
+[mad] * 2.27 +
+[making] * 1.98 +
+[person] * 2.2  +
+[poor] * 2.54 +
+[save] * 2.78 +
+[watched] * 2.78
+
+Class fun :
+-2.72 + 
+[because] * 1.83 +
+[out] * 1.77 +
+[should] * 1.87 +
+[such] * 5.11 +
+[twitter] * 2    +
+[Thats] * 2.63 +
+[You] * 2.79 +
+[amazing] * 2.52 +
+[anything] * 2.42 +
+[7am] * 5.61 +
+[@IdleThumbs] * 2.8  +
+[@JessiJaeJoplin] * 5.62 +
+[@JetWolf] * 5.6  +
+[@NKOTB] * 5.61 +
+[@plantweb] * 5.65 +
+[DVR] * 2.78 +
+[IV] * 5.6  +
+[crab] * 2.82 +
+[drawing] * 2.83
+
+Class neutral :
+1.51 + 
+[//plurk] * 1.32 +
+[the] * -0.57 +
+[to] * -0.36 +
+[3] * 2.05 +
+[6] * 1.48 +
+[@] * 1.36 +
+[absolutely] * 2.23 +
+[all] * -0.9 +
+[my] * -0.72 +
+[or] * 1.25 +
+[really] * -1.07 +
+[sad] * -2.2 +
+[wanna] * -1.29 +
+[bus] * 2.54 +
+[dad] * 1.91 +
+[stay] * 2.08 +
+[6am] * 2.78 +
+[A] * 1.54 +
+[bday] * 2.78 +
+[bummer] * 2.78 +
+[emotional] * 2.6  +
+[happening] * 2.78 +
+[nite] * 2.78 +
+[ok] * 2.47 +
+[radio] * 2.76 +
+[whats] * 2.78
+
+Class hate :
+-1.1 + 
+[be] * -1.04 +
+[sooo] * 2.32 +
+[the] * 0.75 +
+[tired] * 1.39 +
+[broke] * 2.21 +
+[buy] * 2.13 +
+[food] * 1.83 +
+[has] * 1.39 +
+[hate] * 3.05 +
+[out] * 1.13 +
+[sucks] * 1.73 +
+[sure] * 1.76 +
+[try] * 1.86 +
+[Thats] * 2.32 +
+[shit] * 2.49 +
+[vacation] * 2.33 +
+[while] * 2.2  +
+[A] * 1.76 +
+[fucking] * 2.45 +
+[10mins] * 2.8  +
+[@IamYeTe] * 2.78 +
+[@abguerraartist] * 2.79 +
+[@all_is_one84] * 2.78 +
+[@britblackbird] * 2.78 +
+[@mrgenius23] * 2.78
+
+Class enthusiasm :
+-3.2 + 
+[to] * 0.94 +
+[here] * 1.88 +
+[look] * 1.95 +
+[lot] * 2.62 +
+[or] * 2.03 +
+[should] * 1.83 +
+[tomorrow] * 1.71 +
+[@drewseeley] * 2.83 +
+[@leopardqueen] * 2.79 +
+[Angelina] * 5.68 +
+[Leno] * 5.64 +
+[Q] * 2.85 +
+[block] * 5.61 +
+[dads] * 5.63 +
+[fill] * 5.61 +
+[hang] * 6.44 +
+[taekwando] * 5.61 +
+[tatt] * 5.62
+
+Class love :
+-2.28 + 
+[2] * 1.98 +
+[The] * 2.15 +
+[an] * 1.63 +
+[haha] * 2.35 +
+[love] * 3.6  +
+[still] * 1.61 +
+[then] * 2.19 +
+[this] * 1.42 +
+[wait] * 2    +
+[woke] * 2.52 +
+[yet] * 2.57 +
+[thanks] * 2.6  +
+[sounds] * 2.63 +
+[&quotjust-baked&quot] * 2.79 +
+[@annarosekerr] * 2.78 +
+[@bobbyedner] * 2.78 +
+[@jamasweetie06] * 2.78 +
+[@mattpro13] * 2.78 +
+[Cake] * 2.79 +
+[Hahaha] * 5.67 +
+[Peru] * 2.79 +
+[Tweeties] * 2.78 +
+[com/p/wxnwa] * 5.64
+
+Class surprise :
+-0.7 + 
+[to] * -0.53 +
+[was] * 1.08 +
+[=] * 2.14 +
+[ass] * 2.55 +
+[let] * 1.71 +
+[than] * 1.66 +
+[when] * 1.14 +
+[where] * 1.46 +
+[Got] * 2.56 +
+[supposed] * 2.56 +
+[*hugs*] * 2.78 +
+[400MB] * 2.78 +
+[7500] * 2.78 +
+[@MyCakesRock] * 2.79 +
+[@freshypanda] * 2.79 +
+[@future_perfect] * 2.78 +
+[Bris] * 3.12 +
+[Extremly] * 2.79 +
+[Josh] * 2.79 +
+[Nighty] * 2.79 +
+[bill] * 5.18 +
+[blackberry] * 2.78 +
+[churchill] * 2.79 +
+[completing] * 2.79 +
+[dream] * 2.77
+
+Class happiness :
+-1.56 + 
+[Its] * 1.68 +
+[it] * -0.99 +
+[me] * 0.9  +
+[Cant] * 2.53 +
+[already] * 2.34 +
+[first] * 1.69 +
+[little] * 2.1  +
+[say] * 1.97 +
+[take] * 1.7  +
+[also] * 2.43 +
+[amazing] * 2.2  +
+[big] * 1.93 +
+[hi] * 2.52 +
+[cute] * 2.77 +
+[#uds] * 2.78 +
+[*-*] * 2.78 +
+[2morrow] * 2.78 +
+[@PandaMayhem] * 2.8  +
+[@Sashairene] * 2.82 +
+[@UniqueMakis] * 2.77 +
+[@celldweller] * 2.79 +
+[@mrssunshine96] * 2.78 +
+[Athough] * 2.78 +
+[Day] * 2.78 +
+[interactive] * 2.78 +
+[test] * 3.36
+
+Class boredom :
+-4.67 + 
+[and] * -1.21 +
+[bed] * 1.95 +
+[bored] * 2.65 +
+[for] * -2.48 +
+[im] * 2.28 +
+[tired] * 3.19 +
+[will] * 1.23 +
+[guess] * 2.73 +
+[so] * 1.26 +
+[BEEN] * 9.98 +
+[double] * 8.24 +
+[priecing] * 8.11 +
+[tryst] * 10
+
+Class relief :
+-3.43 + 
+[Im] * 1.27 +
+[work] * 1.48 +
+[home] * 1.8  +
+[moving] * 5.03 +
+[@AnthonyLucas] * 2.22 +
+[@charlieboy808] * 8.18 +
+[@colstewart] * 5.62 +
+[@kaseypoteet] * 8.22 +
+[@nawid] * 7.69 +
+[Bac] * 5.11 +
+[CE] * 5.65 +
+[Haha] * 6.18 +
+[Uggh] * 2.82 +
+[safely] * 5.41
+
+Class anger :
+-8.3 + 
+[Fridaaaayyyyy] * 16.18 +
+[Packing] * 16.4 +
+[fuckinm] * 15.42
+
+
+Time taken to build model: 134.16 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         335               33.5    %
+Incorrectly Classified Instances       665               66.5    %
+Kappa statistic                          0.1154
+Mean absolute error                      0.1166
+Root mean squared error                  0.2494
+Relative absolute error                 95.3049 %
+Root relative squared error            100.9371 %
+Total Number of Instances             1000     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.000    0.003    0.000      0.000    0.000      -0.008   0.646     0.036     empty
+                 0.260    0.111    0.432      0.260    0.325      0.180    0.586     0.340     sadness
+                 0.510    0.400    0.340      0.510    0.408      0.101    0.552     0.357     worry
+                 0.000    0.004    0.000      0.000    0.000      -0.008   0.440     0.015     fun
+                 0.506    0.319    0.328      0.506    0.398      0.165    0.650     0.309     neutral
+                 0.056    0.020    0.136      0.056    0.079      0.055    0.580     0.095     hate
+                 0.000    0.001    0.000      0.000    0.000      -0.004   0.460     0.018     enthusiasm
+                 0.034    0.004    0.200      0.034    0.059      0.072    0.653     0.135     love
+                 0.021    0.005    0.167      0.021    0.037      0.043    0.534     0.076     surprise
+                 0.000    0.010    0.000      0.000    0.000      -0.017   0.457     0.027     happiness
+                 0.000    0.005    0.000      0.000    0.000      -0.006   0.497     0.008     boredom
+                 0.000    0.001    0.000      0.000    0.000      -0.003   0.426     0.011     relief
+                 0.000    0.000    ?          0.000    ?          ?        0.365     0.003     anger
+Weighted Avg.    0.335    0.220    ?          0.335    ?          ?        0.581     0.274     
+
+=== Confusion Matrix ===
+
+   a   b   c   d   e   f   g   h   i   j   k   l   m   <-- classified as
+   0   1   9   0   9   1   0   0   0   0   1   0   0 |   a = empty
+   0  64  98   1  72   6   0   2   2   1   0   0   0 |   b = sadness
+   0  41 147   2  82   9   0   1   1   4   1   0   0 |   c = worry
+   0   2   6   0   6   0   0   0   0   1   0   1   0 |   d = fun
+   2  18  88   0 119   3   0   1   1   2   1   0   0 |   e = neutral
+   1   8  23   1  17   3   0   0   0   0   1   0   0 |   f = hate
+   0   2   6   0   5   0   0   0   0   1   0   0   0 |   g = enthusiasm
+   0   4  10   0  12   0   0   1   1   1   0   0   0 |   h = love
+   0   2  22   0  23   0   0   0   1   0   0   0   0 |   i = surprise
+   0   4  16   0   7   0   1   0   0   0   1   0   0 |   j = happiness
+   0   1   2   0   3   0   0   0   0   0   0   0   0 |   k = boredom
+   0   1   4   0   6   0   0   0   0   0   0   0   0 |   l = relief
+   0   0   1   0   2   0   0   0   0   0   0   0   0 |   m = anger
+

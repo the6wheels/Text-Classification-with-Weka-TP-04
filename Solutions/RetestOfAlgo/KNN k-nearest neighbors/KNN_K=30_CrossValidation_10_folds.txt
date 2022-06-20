@@ -1,0 +1,64 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.lazy.IBk -K 30 -W 0 -A "weka.core.neighboursearch.LinearNNSearch -A \"weka.core.EuclideanDistance -R first-last\""
+Relation:     tweet_emotions-weka.filters.unsupervised.attribute.StringToWordVector-R1-W1000-prune-rate-1.0-T-N0-L-stemmerweka.core.stemmers.NullStemmer-stopwords-handlerweka.core.stopwords.Null-M3-tokenizerweka.core.tokenizers.WordTokenizer -delimiters " \r\n\t.,;:\'\"()?!"
+Instances:    1000
+Attributes:   376
+              [list of attributes omitted]
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+IB1 instance-based classifier
+using 30 nearest neighbour(s) for classification
+
+
+Time taken to build model: 0 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         272               27.2    %
+Incorrectly Classified Instances       728               72.8    %
+Kappa statistic                          0.0465
+Mean absolute error                      0.1235
+Root mean squared error                  0.2517
+Relative absolute error                100.9826 %
+Root relative squared error            101.8885 %
+Total Number of Instances             1000     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.000    0.000    ?          0.000    ?          ?        0.478     0.023     empty
+                 0.171    0.082    0.404      0.171    0.240      0.125    0.574     0.309     sadness
+                 0.010    0.006    0.429      0.010    0.020      0.026    0.544     0.346     worry
+                 0.000    0.000    ?          0.000    ?          ?        0.458     0.019     fun
+                 0.966    0.865    0.255      0.966    0.404      0.136    0.593     0.280     neutral
+                 0.000    0.000    ?          0.000    ?          ?        0.404     0.044     hate
+                 0.000    0.000    ?          0.000    ?          ?        0.456     0.020     enthusiasm
+                 0.000    0.000    ?          0.000    ?          ?        0.532     0.038     love
+                 0.000    0.000    ?          0.000    ?          ?        0.509     0.050     surprise
+                 0.000    0.000    ?          0.000    ?          ?        0.508     0.040     happiness
+                 0.000    0.000    ?          0.000    ?          ?        0.455     0.007     boredom
+                 0.000    0.000    ?          0.000    ?          ?        0.526     0.015     relief
+                 0.000    0.000    ?          0.000    ?          ?        0.269     0.003     anger
+Weighted Avg.    0.272    0.225    ?          0.272    ?          ?        0.547     0.250     
+
+=== Confusion Matrix ===
+
+   a   b   c   d   e   f   g   h   i   j   k   l   m   <-- classified as
+   0   0   0   0  21   0   0   0   0   0   0   0   0 |   a = empty
+   0  42   2   0 202   0   0   0   0   0   0   0   0 |   b = sadness
+   0  33   3   0 252   0   0   0   0   0   0   0   0 |   c = worry
+   0   1   0   0  15   0   0   0   0   0   0   0   0 |   d = fun
+   0   6   2   0 227   0   0   0   0   0   0   0   0 |   e = neutral
+   0   6   0   0  48   0   0   0   0   0   0   0   0 |   f = hate
+   0   1   0   0  13   0   0   0   0   0   0   0   0 |   g = enthusiasm
+   0   6   0   0  23   0   0   0   0   0   0   0   0 |   h = love
+   0   5   0   0  43   0   0   0   0   0   0   0   0 |   i = surprise
+   0   3   0   0  26   0   0   0   0   0   0   0   0 |   j = happiness
+   0   0   0   0   6   0   0   0   0   0   0   0   0 |   k = boredom
+   0   1   0   0  10   0   0   0   0   0   0   0   0 |   l = relief
+   0   0   0   0   3   0   0   0   0   0   0   0   0 |   m = anger
+

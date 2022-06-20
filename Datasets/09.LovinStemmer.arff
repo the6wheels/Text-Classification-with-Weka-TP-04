@@ -1,0 +1,3956 @@
+@relation 'tweet_emotions-weka.filters.unsupervised.attribute.StringToWordVector-R1-W1000-prune-rate-1.0-N0-stemmerweka.core.stemmers.LovinsStemmer-stopwords-handlerweka.core.stopwords.Null-M1-tokenizerweka.core.tokenizers.WordTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\"'
+
+@attribute sentiment {empty,sadness,worry,fun,neutral,hate,enthusiasm,love,surprise,happiness,boredom,relief,anger}
+@attribute &quot numeric
+@attribute &quotan numeric
+@attribute //plurk numeric
+@attribute 0 numeric
+@attribute 10 numeric
+@attribute 2 numeric
+@attribute 4 numeric
+@attribute =[ numeric
+@attribute @allyycas numeric
+@attribute @crey numeric
+@attribute @djmicdamn numeric
+@attribute @dymediva23 numeric
+@attribute @exortabreedol numeric
+@attribute @msz_rockstar numeric
+@attribute @softtouchm numeric
+@attribute @tarng numeric
+@attribute @thetombers numeric
+@attribute @tiffanylu numeric
+@attribute a numeric
+@attribute ag numeric
+@attribute again numeric
+@attribute aint numeric
+@attribute almost numeric
+@attribute and numeric
+@attribute anoth numeric
+@attribute answer numeric
+@attribute anybod numeric
+@attribute as numeric
+@attribute at numeric
+@attribute b numeric
+@attribute bad numeric
+@attribute bas numeric
+@attribute be numeric
+@attribute beach numeric
+@attribute bed numeric
+@attribute bor numeric
+@attribute bout numeric
+@attribute brok numeric
+@attribute burnet numeric
+@attribute but numeric
+@attribute cal numeric
+@attribute cam numeric
+@attribute com/p/wxom8 numeric
+@attribute credit numeric
+@attribute d numeric
+@attribute da numeric
+@attribute damn numeric
+@attribute dey numeric
+@attribute do numeric
+@attribute du numeric
+@attribute ear numeric
+@attribute earl numeric
+@attribute eg numeric
+@attribute elem numeric
+@attribute em numeric
+@attribute even numeric
+@attribute everyon numeric
+@attribute fl numeric
+@attribute for numeric
+@attribute freakin numeric
+@attribute french- numeric
+@attribute frm numeric
+@attribute fucker numeric
+@attribute gam numeric
+@attribute ges numeric
+@attribute go numeric
+@attribute going numeric
+@attribute gon numeric
+@attribute goodnight numeric
+@attribute got numeric
+@attribute gradu numeric
+@attribute guessin numeric
+@attribute habit numeric
+@attribute hairdresser numeric
+@attribute hap numeric
+@attribute harper numeric
+@attribute hav numeric
+@attribute headach numeric
+@attribute hey numeric
+@attribute hi numeric
+@attribute high numeric
+@attribute how numeric
+@attribute http numeric
+@attribute i numeric
+@attribute im numeric
+@attribute in numeric
+@attribute intentand numeric
+@attribute intentarl numeric
+@attribute involut numeric
+@attribute is numeric
+@attribute island numeric
+@attribute it numeric
+@attribute just numeric
+@attribute know numeric
+@attribute learn numeric
+@attribute lebron numeric
+@attribute lil numeric
+@attribute lin numeric
+@attribute listenin numeric
+@attribute lol numeric
+@attribute maid numeric
+@attribute me numeric
+@attribute middl numeric
+@attribute min numeric
+@attribute morn numeric
+@attribute n numeric
+@attribute need numeric
+@attribute never numeric
+@attribute new numeric
+@attribute nit numeric
+@attribute no numeric
+@attribute north numeric
+@attribute not numeric
+@attribute notin numeric
+@attribute now numeric
+@attribute of numeric
+@attribute off numeric
+@attribute on numeric
+@attribute onc numeric
+@attribute open numeric
+@attribute oppos numeric
+@attribute other numeric
+@attribute part numeric
+@attribute phon numeric
+@attribute q numeric
+@attribute quit numeric
+@attribute r numeric
+@attribute rain numeric
+@attribute recommens numeric
+@attribute remain numeric
+@attribute say numeric
+@attribute school numeric
+@attribute se numeric
+@attribute ser numeric
+@attribute should numeric
+@attribute sleep numeric
+@attribute soo numeric
+@attribute start numeric
+@attribute stuff- numeric
+@attribute suggest numeric
+@attribute surviv numeric
+@attribute talk numeric
+@attribute tedtalk numeric
+@attribute textd numeric
+@attribute th numeric
+@attribute that numeric
+@attribute the numeric
+@attribute ther numeric
+@attribute thos numeric
+@attribute tir numeric
+@attribute to numeric
+@attribute trudy numeric
+@attribute try numeric
+@attribute u numeric
+@attribute um numeric
+@attribute up numeric
+@attribute vodk numeric
+@attribute wa numeric
+@attribute watch numeric
+@attribute went numeric
+@attribute wh numeric
+@attribute what numeric
+@attribute wil numeric
+@attribute with numeric
+@attribute work numeric
+@attribute writ numeric
+@attribute wut numeric
+@attribute you numeric
+@attribute you- numeric
+@attribute your numeric
+@attribute yu numeric
+@attribute #jonaswebcast numeric
+@attribute #s numeric
+@attribute &amp numeric
+@attribute &lt/3 numeric
+@attribute &lt3 numeric
+@attribute &lt=====8@8=====&gt numeric
+@attribute &quotadorable&quot numeric
+@attribute &quotearly&quot numeric
+@attribute &quotlong numeric
+@attribute &quotma numeric
+@attribute &quotpelzer numeric
+@attribute &quotravenclaw&quot numeric
+@attribute &quotsubject numeric
+@attribute &quottiger&quot numeric
+@attribute *sigh* numeric
+@attribute + numeric
+@attribute - numeric
+@attribute -chan numeric
+@attribute / numeric
+@attribute //bit numeric
+@attribute //twitp numeric
+@attribute //yfrog numeric
+@attribute 00 numeric
+@attribute 000 numeric
+@attribute 1 numeric
+@attribute 1+-$# numeric
+@attribute 11-830 numeric
+@attribute 209-205 numeric
+@attribute 2ghz numeric
+@attribute 3 numeric
+@attribute 3war numeric
+@attribute 3x numeric
+@attribute 42nd numeric
+@attribute 4gb numeric
+@attribute 4rom numeric
+@attribute 5405 numeric
+@attribute 6 numeric
+@attribute 70mpg numeric
+@attribute 8 numeric
+@attribute 80 numeric
+@attribute 800mhz numeric
+@attribute 90 numeric
+@attribute 9650s numeric
+@attribute 9am numeric
+@attribute 9pm numeric
+@attribute = numeric
+@attribute @ numeric
+@attribute @alexandergwhit numeric
+@attribute @amandamallard numeric
+@attribute @angelica_y numeric
+@attribute @artfuldodg numeric
+@attribute @askeg numeric
+@attribute @barbschaefer numeric
+@attribute @bloomsday16 numeric
+@attribute @brianshead numeric
+@attribute @brodyjenner numeric
+@attribute @cayog numeric
+@attribute @charvira numeric
+@attribute @chocolover numeric
+@attribute @chrisontv88 numeric
+@attribute @cmontecil numeric
+@attribute @cocktailch numeric
+@attribute @cynthiashere numeric
+@attribute @dakshinamurt numeric
+@attribute @ddlovat numeric
+@attribute @dhughes numeric
+@attribute @electrac numeric
+@attribute @ether_radi numeric
+@attribute @fairyfroggi numeric
+@attribute @gcrush numeric
+@attribute @guykawasak numeric
+@attribute @half_a_mind numeric
+@attribute @hammes numeric
+@attribute @heavenlyriot numeric
+@attribute @hello_jodi numeric
+@attribute @heresmyhello92 numeric
+@attribute @hobosexu numeric
+@attribute @imjustlalayon numeric
+@attribute @isaacmascot numeric
+@attribute @ivan numeric
+@attribute @jarewolf numeric
+@attribute @joannaangel numeric
+@attribute @joek949 numeric
+@attribute @johneast numeric
+@attribute @johnpopham numeric
+@attribute @joiskol numeric
+@attribute @judyre numeric
+@attribute @justinodom numeric
+@attribute @jwray12 numeric
+@attribute @kaliyahpjon numeric
+@attribute @kateisbor numeric
+@attribute @katiefreez numeric
+@attribute @kelcouch numeric
+@attribute @kenyaimag numeric
+@attribute @larilync numeric
+@attribute @lenj numeric
+@attribute @lesleyboud numeric
+@attribute @lozzyx numeric
+@attribute @lucyown numeric
+@attribute @lunafact numeric
+@attribute @maczombierawr numeric
+@attribute @maliciousmandy1 numeric
+@attribute @mariuslt numeric
+@attribute @maternitytee numeric
+@attribute @meldibias numeric
+@attribute @meljachin numeric
+@attribute @mindykal numeric
+@attribute @moggy99 numeric
+@attribute @mona26 numeric
+@attribute @narain numeric
+@attribute @neesabear numeric
+@attribute @nickkk_ numeric
+@attribute @nopantsd numeric
+@attribute @nothinbutsin numeric
+@attribute @nzdean numeric
+@attribute @penguin_j numeric
+@attribute @pokinatch numeric
+@attribute @prncsztal numeric
+@attribute @queenbmakeup numeric
+@attribute @rachellock22 numeric
+@attribute @ravel numeric
+@attribute @razitl numeric
+@attribute @realblackwidow numeric
+@attribute @rscheuer numeric
+@attribute @samuelasander numeric
+@attribute @sfannah numeric
+@attribute @staronmainest numeric
+@attribute @stefanyng numeric
+@attribute @stormyamores numeric
+@attribute @suzydunkle numeric
+@attribute @sweeetnspic numeric
+@attribute @t_isfortam numeric
+@attribute @thevowel numeric
+@attribute @turnitgre numeric
+@attribute @vincew numeric
+@attribute @willynorthpol numeric
+@attribute @wir numeric
+@attribute @xdji numeric
+@attribute @xmylifesastoryx numeric
+@attribute @xoshayzer numeric
+@attribute @yuki_him numeric
+@attribute @yumifuji numeric
+@attribute abl numeric
+@attribute about numeric
+@attribute abov numeric
+@attribute absolut numeric
+@attribute acces numeric
+@attribute accomod numeric
+@attribute account numeric
+@attribute ach numeric
+@attribute act numeric
+@attribute actu numeric
+@attribute ad numeric
+@attribute adam numeric
+@attribute adaptec numeric
+@attribute adn numeric
+@attribute afraid numeric
+@attribute after numeric
+@attribute agreed numeric
+@attribute ahar numeric
+@attribute ahh numeric
+@attribute ahhhhh numeric
+@attribute ahol numeric
+@attribute al numeric
+@attribute album numeric
+@attribute allerg numeric
+@attribute allowd numeric
+@attribute alltop numeric
+@attribute alon numeric
+@attribute alread numeric
+@attribute alway numeric
+@attribute am numeric
+@attribute amf numeric
+@attribute an numeric
+@attribute andrew numeric
+@attribute angel numeric
+@attribute anim numeric
+@attribute annnnnndd numeric
+@attribute anno numeric
+@attribute another numeric
+@attribute any numeric
+@attribute anymor numeric
+@attribute anywa numeric
+@attribute ap numeric
+@attribute appl numeric
+@attribute ar numeric
+@attribute arrest numeric
+@attribute ask numeric
+@attribute asleep numeric
+@attribute attens numeric
+@attribute aussi numeric
+@attribute austral numeric
+@attribute avail numeric
+@attribute aw numeric
+@attribute awa numeric
+@attribute awak numeric
+@attribute award numeric
+@attribute awesom numeric
+@attribute aww numeric
+@attribute bab numeric
+@attribute back numeric
+@attribute backach numeric
+@attribute bahah numeric
+@attribute bal numeric
+@attribute balbo numeric
+@attribute band numeric
+@attribute bankruptc numeric
+@attribute bar numeric
+@attribute bat numeric
+@attribute bath numeric
+@attribute bathroom numeric
+@attribute beat numeric
+@attribute beaut numeric
+@attribute becaus numeric
+@attribute been numeric
+@attribute befor numeric
+@attribute begin numeric
+@attribute being numeric
+@attribute belief numeric
+@attribute bes numeric
+@attribute best numeric
+@attribute bestfriens numeric
+@attribute better numeric
+@attribute birth numeric
+@attribute bit numeric
+@attribute blackout numeric
+@attribute blam numeric
+@attribute blech numeric
+@attribute blog numeric
+@attribute blow numeric
+@attribute boo numeric
+@attribute book numeric
+@attribute boooo numeric
+@attribute boooooo numeric
+@attribute box numeric
+@attribute break numeric
+@attribute bril numeric
+@attribute bs numeric
+@attribute bsd numeric
+@attribute btw numeric
+@attribute buy numeric
+@attribute by numeric
+@attribute bz numeric
+@attribute caant numeric
+@attribute cabl numeric
+@attribute callback numeric
+@attribute camer numeric
+@attribute can numeric
+@attribute cancel numeric
+@attribute cant numeric
+@attribute car numeric
+@attribute card numeric
+@attribute carson numeric
+@attribute cas numeric
+@attribute cat numeric
+@attribute caus numeric
+@attribute cauz numeric
+@attribute cd numeric
+@attribute centur numeric
+@attribute ceremon numeric
+@attribute chang numeric
+@attribute chaper numeric
+@attribute charg numeric
+@attribute charl numeric
+@attribute chaser numeric
+@attribute chaseton numeric
+@attribute chat numeric
+@attribute cheat numeric
+@attribute check numeric
+@attribute cheer numeric
+@attribute chef numeric
+@attribute chin numeric
+@attribute chr numeric
+@attribute christ numeric
+@attribute cit numeric
+@attribute citiz numeric
+@attribute clash numeric
+@attribute clos numeric
+@attribute co-op numeric
+@attribute coach numeric
+@attribute com numeric
+@attribute com/3o3zxoj numeric
+@attribute com/663vr numeric
+@attribute com/664b7 numeric
+@attribute com/p/wxiux numeric
+@attribute com/p/wxj54 numeric
+@attribute comes numeric
+@attribute comfort numeric
+@attribute coming- numeric
+@attribute commerc numeric
+@attribute compar numeric
+@attribute complec numeric
+@attribute comples numeric
+@attribute computer numeric
+@attribute confus numeric
+@attribute contact numeric
+@attribute convinc numeric
+@attribute cop numeric
+@attribute could numeric
+@attribute coupl numeric
+@attribute cour numeric
+@attribute cousin numeric
+@attribute coz numeric
+@attribute cr numeric
+@attribute crap numeric
+@attribute crash numeric
+@attribute cream numeric
+@attribute creep numeric
+@attribute cros numeric
+@attribute cry numeric
+@attribute cut numeric
+@attribute daaammmnnnn numeric
+@attribute dachshund numeric
+@attribute danc numeric
+@attribute darn numeric
+@attribute dawg numeric
+@attribute dawn numeric
+@attribute day numeric
+@attribute dbl numeric
+@attribute dead numeric
+@attribute deal numeric
+@attribute decis numeric
+@attribute deep numeric
+@attribute defin numeric
+@attribute definit numeric
+@attribute defl numeric
+@attribute deliver numeric
+@attribute dent numeric
+@attribute depres numeric
+@attribute developm numeric
+@attribute devil numeric
+@attribute di numeric
+@attribute diar numeric
+@attribute did numeric
+@attribute didnt numeric
+@attribute dies numeric
+@attribute diesel numeric
+@attribute difficult numeric
+@attribute disappoint numeric
+@attribute disappointm numeric
+@attribute discour numeric
+@attribute dish numeric
+@attribute dislik numeric
+@attribute displeas numeric
+@attribute dj numeric
+@attribute dl numeric
+@attribute dmp numeric
+@attribute dmv numeric
+@attribute doct numeric
+@attribute doesnt numeric
+@attribute dog numeric
+@attribute doing numeric
+@attribute don numeric
+@attribute dont numeric
+@attribute doubt numeric
+@attribute down numeric
+@attribute downloadfestiv numeric
+@attribute drag numeric
+@attribute dread numeric
+@attribute drink numeric
+@attribute driv numeric
+@attribute ds numeric
+@attribute duck numeric
+@attribute dun numeric
+@attribute dust numeric
+@attribute e1 numeric
+@attribute eas numeric
+@attribute ebtter numeric
+@attribute edinburgh numeric
+@attribute either numeric
+@attribute electr numeric
+@attribute elev numeric
+@attribute els numeric
+@attribute email numeric
+@attribute employe numeric
+@attribute empt numeric
+@attribute enough numeric
+@attribute ens numeric
+@attribute enuff numeric
+@attribute er numeric
+@attribute erick numeric
+@attribute ev numeric
+@attribute ever numeric
+@attribute everyth numeric
+@attribute everytim numeric
+@attribute eww numeric
+@attribute exam numeric
+@attribute excit numeric
+@attribute exhaust numeric
+@attribute experi numeric
+@attribute explos numeric
+@attribute f*ck numeric
+@attribute fac numeric
+@attribute fail numeric
+@attribute fal numeric
+@attribute fam numeric
+@attribute fan numeric
+@attribute farewel numeric
+@attribute fast numeric
+@attribute fav numeric
+@attribute feb numeric
+@attribute feel numeric
+@attribute fel numeric
+@attribute felt numeric
+@attribute festiv numeric
+@attribute fever numeric
+@attribute fic numeric
+@attribute fil numeric
+@attribute fin numeric
+@attribute find numeric
+@attribute finish numeric
+@attribute finsh numeric
+@attribute first numeric
+@attribute fixd numeric
+@attribute fjdsk numeric
+@attribute flat numeric
+@attribute flippin numeric
+@attribute flyer numeric
+@attribute follow numeric
+@attribute follower numeric
+@attribute food numeric
+@attribute forbid numeric
+@attribute forgot numeric
+@attribute foster numeric
+@attribute found numeric
+@attribute free- numeric
+@attribute frida numeric
+@attribute friens numeric
+@attribute from numeric
+@attribute fruit numeric
+@attribute frustr numeric
+@attribute fucccccck numeric
+@attribute fuck numeric
+@attribute fuck- numeric
+@attribute fuckkk numeric
+@attribute fudg numeric
+@attribute fun numeric
+@attribute fund numeric
+@attribute funer numeric
+@attribute fuuudg numeric
+@attribute ga numeric
+@attribute gag numeric
+@attribute gard numeric
+@attribute gav numeric
+@attribute gear numeric
+@attribute gir numeric
+@attribute girl numeric
+@attribute giv numeric
+@attribute glasgow numeric
+@attribute gloom numeric
+@attribute glow numeric
+@attribute gn numeric
+@attribute goal numeric
+@attribute god numeric
+@attribute godfather numeric
+@attribute goin numeric
+@attribute gold numeric
+@attribute good numeric
+@attribute goodby numeric
+@attribute grandm numeric
+@attribute great numeric
+@attribute grump numeric
+@attribute gues numeric
+@attribute gut numeric
+@attribute guy numeric
+@attribute guyfreind numeric
+@attribute ha numeric
+@attribute had numeric
+@attribute hadnt numeric
+@attribute hah numeric
+@attribute hangover numeric
+@attribute happen numeric
+@attribute hat numeric
+@attribute havent numeric
+@attribute he numeric
+@attribute head numeric
+@attribute hear numeric
+@attribute heard numeric
+@attribute heart numeric
+@attribute heartburn numeric
+@attribute heat numeric
+@attribute heehe numeric
+@attribute hel numeric
+@attribute herp numeric
+@attribute hes numeric
+@attribute hii numeric
+@attribute hil numeric
+@attribute him numeric
+@attribute hm numeric
+@attribute hmm numeric
+@attribute hom numeric
+@attribute honest numeric
+@attribute hop numeric
+@attribute hor numeric
+@attribute hot numeric
+@attribute hour numeric
+@attribute however numeric
+@attribute hpt numeric
+@attribute hurt numeric
+@attribute husband numeric
+@attribute i&quotm numeric
+@attribute ic numeric
+@attribute icant numeric
+@attribute id numeric
+@attribute ide numeric
+@attribute idk numeric
+@attribute idkk numeric
+@attribute if numeric
+@attribute ignor numeric
+@attribute iht numeric
+@attribute il numeric
+@attribute imag numeric
+@attribute impres numeric
+@attribute in&quot numeric
+@attribute infect numeric
+@attribute injustic numeric
+@attribute insid numeric
+@attribute instead numeric
+@attribute int numeric
+@attribute internet numeric
+@attribute interwebz numeric
+@attribute iop numeric
+@attribute ipod numeric
+@attribute iron numeric
+@attribute isaac numeric
+@attribute ish numeric
+@attribute isnt numeric
+@attribute itl numeric
+@attribute itonlinelol numeric
+@attribute itsake numeric
+@attribute iv numeric
+@attribute jay numeric
+@attribute jen numeric
+@attribute jo numeric
+@attribute job numeric
+@attribute john numeric
+@attribute jon numeric
+@attribute journ numeric
+@attribute karm numeric
+@attribute keep numeric
+@attribute kel numeric
+@attribute kick numeric
+@attribute kid numeric
+@attribute kil numeric
+@attribute kind numeric
+@attribute kit numeric
+@attribute kn numeric
+@attribute knew numeric
+@attribute knoww numeric
+@attribute knw numeric
+@attribute lacroic numeric
+@attribute laker numeric
+@attribute lam numeric
+@attribute lamb numeric
+@attribute laptop numeric
+@attribute last numeric
+@attribute lat numeric
+@attribute later numeric
+@attribute latter numeric
+@attribute lay numeric
+@attribute layin numeric
+@attribute lead numeric
+@attribute least numeric
+@attribute leav numeric
+@attribute left numeric
+@attribute len numeric
+@attribute les numeric
+@attribute lewd numeric
+@attribute lif numeric
+@attribute lik numeric
+@attribute line&quot numeric
+@attribute lineup numeric
+@attribute link numeric
+@attribute lip numeric
+@attribute list numeric
+@attribute littl numeric
+@attribute liv numeric
+@attribute lma numeric
+@attribute lo numeric
+@attribute lon numeric
+@attribute london numeric
+@attribute lonel numeric
+@attribute long numeric
+@attribute longer numeric
+@attribute look numeric
+@attribute los numeric
+@attribute lost numeric
+@attribute lot numeric
+@attribute lov numeric
+@attribute luck numeric
+@attribute lunch numeric
+@attribute ly/3w9w1 numeric
+@attribute ly/ykksu numeric
+@attribute lyrically_m numeric
+@attribute mac numeric
+@attribute mak numeric
+@attribute mala numeric
+@attribute malfunct numeric
+@attribute man numeric
+@attribute manner numeric
+@attribute mar numeric
+@attribute marathon numeric
+@attribute mas numeric
+@attribute mat numeric
+@attribute matter numeric
+@attribute mayb numeric
+@attribute mcdonald numeric
+@attribute mean numeric
+@attribute med numeric
+@attribute medicin numeric
+@attribute mem numeric
+@attribute mes numeric
+@attribute metal numeric
+@attribute might numeric
+@attribute mis numeric
+@attribute miser numeric
+@attribute mislead numeric
+@attribute misshu numeric
+@attribute mj numeric
+@attribute mom numeric
+@attribute moment numeric
+@attribute mone numeric
+@attribute month numeric
+@attribute moon numeric
+@attribute mor numeric
+@attribute most numeric
+@attribute mous numeric
+@attribute mov numeric
+@attribute movi numeric
+@attribute msg numeric
+@attribute much numeric
+@attribute muffin numeric
+@attribute mum numeric
+@attribute munch numeric
+@attribute must numeric
+@attribute my numeric
+@attribute myself numeric
+@attribute myspac numeric
+@attribute nam numeric
+@attribute nearb numeric
+@attribute newish numeric
+@attribute news- numeric
+@attribute news-dont numeric
+@attribute next numeric
+@attribute nic numeric
+@attribute night numeric
+@attribute nod numeric
+@attribute noic numeric
+@attribute noisy&quot numeric
+@attribute non numeric
+@attribute non-touch numeric
+@attribute nooo numeric
+@attribute nothin numeric
+@attribute nut numeric
+@attribute o numeric
+@attribute occas numeric
+@attribute od numeric
+@attribute offens numeric
+@attribute offic numeric
+@attribute oh numeric
+@attribute ohh numeric
+@attribute ok numeric
+@attribute oklahomaaaa numeric
+@attribute old numeric
+@attribute omg numeric
+@attribute onl numeric
+@attribute optim numeric
+@attribute or numeric
+@attribute order numeric
+@attribute orland numeric
+@attribute our numeric
+@attribute out numeric
+@attribute over numeric
+@attribute overturn numeric
+@attribute owner numeric
+@attribute pack numeric
+@attribute paid numeric
+@attribute pain numeric
+@attribute pal numeric
+@attribute palomino numeric
+@attribute pan numeric
+@attribute paper numeric
+@attribute paper-bound numeric
+@attribute parent numeric
+@attribute partner numeric
+@attribute pas numeric
+@attribute passenger numeric
+@attribute past numeric
+@attribute paw numeric
+@attribute peac numeric
+@attribute peep numeric
+@attribute peopl numeric
+@attribute person numeric
+@attribute pes numeric
+@attribute philip numeric
+@attribute phot numeric
+@attribute physi numeric
+@attribute pic numeric
+@attribute pictur numeric
+@attribute pis numeric
+@attribute pit numeric
+@attribute pizz numeric
+@attribute pla numeric
+@attribute plac numeric
+@attribute plant numeric
+@attribute play numeric
+@attribute pleas numeric
+@attribute pm numeric
+@attribute point numeric
+@attribute poor numeric
+@attribute post numeric
+@attribute practic numeric
+@attribute present&quot numeric
+@attribute problem numeric
+@attribute project numeric
+@attribute prop numeric
+@attribute pup numeric
+@attribute put numeric
+@attribute quick numeric
+@attribute quies numeric
+@attribute raid5 numeric
+@attribute ravel numeric
+@attribute read numeric
+@attribute real numeric
+@attribute realis numeric
+@attribute red numeric
+@attribute regard numeric
+@attribute rent numeric
+@attribute repop numeric
+@attribute rescu numeric
+@attribute return numeric
+@attribute rich numeric
+@attribute right numeric
+@attribute rip numeric
+@attribute rly numeric
+@attribute rob numeric
+@attribute rock numeric
+@attribute room numeric
+@attribute rus numeric
+@attribute s numeric
+@attribute sad numeric
+@attribute sadfac numeric
+@attribute sam numeric
+@attribute samberg numeric
+@attribute same numeric
+@attribute saw numeric
+@attribute saying numeric
+@attribute scandal numeric
+@attribute screen numeric
+@attribute search numeric
+@attribute seat numeric
+@attribute secons numeric
+@attribute seeing numeric
+@attribute seem numeric
+@attribute seen numeric
+@attribute sens numeric
+@attribute sent numeric
+@attribute sh numeric
+@attribute sham numeric
+@attribute shan-e-punjab numeric
+@attribute shift numeric
+@attribute shin numeric
+@attribute shit numeric
+@attribute shitest numeric
+@attribute shop numeric
+@attribute shortstack numeric
+@attribute sick numeric
+@attribute sigh numeric
+@attribute sign numeric
+@attribute silver numeric
+@attribute sinc numeric
+@attribute sing numeric
+@attribute sisser numeric
+@attribute sit numeric
+@attribute siz numeric
+@attribute slap numeric
+@attribute sleppytim numeric
+@attribute slept numeric
+@attribute smal numeric
+@attribute smel numeric
+@attribute sniff numeric
+@attribute so numeric
+@attribute solis numeric
+@attribute som numeric
+@attribute someth numeric
+@attribute sometim numeric
+@attribute song numeric
+@attribute soon numeric
+@attribute sooooo numeric
+@attribute sor numeric
+@attribute sound numeric
+@attribute spam numeric
+@attribute span numeric
+@attribute spel numeric
+@attribute spens numeric
+@attribute ssd numeric
+@attribute st numeric
+@attribute sta numeric
+@attribute stand numeric
+@attribute standb numeric
+@attribute stick numeric
+@attribute stil numeric
+@attribute stol numeric
+@attribute stomach numeric
+@attribute stop numeric
+@attribute stor numeric
+@attribute storm numeric
+@attribute strict numeric
+@attribute stuck numeric
+@attribute stuff numeric
+@attribute stupid numeric
+@attribute such numeric
+@attribute suck numeric
+@attribute suffer numeric
+@attribute summer numeric
+@attribute sun numeric
+@attribute sunscreen numeric
+@attribute suppos numeric
+@attribute sur numeric
+@attribute sux numeric
+@attribute swift numeric
+@attribute tak numeric
+@attribute tast numeric
+@attribute taylor numeric
+@attribute teaches numeric
+@attribute teas numeric
+@attribute techi numeric
+@attribute techn numeric
+@attribute teeth numeric
+@attribute term numeric
+@attribute text numeric
+@attribute than numeric
+@attribute thank numeric
+@attribute thanksgiv numeric
+@attribute thatd numeric
+@attribute their numeric
+@attribute them numeric
+@attribute then numeric
+@attribute therap numeric
+@attribute theyr numeric
+@attribute thing numeric
+@attribute think numeric
+@attribute thirst numeric
+@attribute though numeric
+@attribute thought numeric
+@attribute throat numeric
+@attribute through numeric
+@attribute throw numeric
+@attribute thrown numeric
+@attribute thumb numeric
+@attribute thursda numeric
+@attribute ti numeric
+@attribute til numeric
+@attribute tim numeric
+@attribute tinytwitter numeric
+@attribute tmrw numeric
+@attribute tmwr numeric
+@attribute to-d numeric
+@attribute toda numeric
+@attribute together numeric
+@attribute tom numeric
+@attribute tomat numeric
+@attribute tomorrow numeric
+@attribute tonight numeric
+@attribute took numeric
+@attribute tooooth numeric
+@attribute tot numeric
+@attribute tourtur numeric
+@attribute trailor numeric
+@attribute trash numeric
+@attribute travel numeric
+@attribute tree numeric
+@attribute trip numeric
+@attribute tripo numeric
+@attribute tum numeric
+@attribute turn numeric
+@attribute tv numeric
+@attribute tw numeric
+@attribute twees numeric
+@attribute tweet-up numeric
+@attribute tweetdeck numeric
+@attribute twiddl numeric
+@attribute twitter numeric
+@attribute ugh numeric
+@attribute ughhhh numeric
+@attribute umm numeric
+@attribute un numeric
+@attribute unfortun numeric
+@attribute unintent numeric
+@attribute unit numeric
+@attribute until numeric
+@attribute upload numeric
+@attribute upsidedown numeric
+@attribute upward numeric
+@attribute us numeric
+@attribute usb numeric
+@attribute using numeric
+@attribute usu numeric
+@attribute van numeric
+@attribute ver numeric
+@attribute vers numeric
+@attribute vil numeric
+@attribute visit numeric
+@attribute voic numeric
+@attribute vommm numeric
+@attribute voodo numeric
+@attribute vot numeric
+@attribute waah numeric
+@attribute wack numeric
+@attribute wait numeric
+@attribute waitin numeric
+@attribute walk numeric
+@attribute wan numeric
+@attribute want numeric
+@attribute war numeric
+@attribute warn numeric
+@attribute wasnt numeric
+@attribute water numeric
+@attribute way numeric
+@attribute wayn numeric
+@attribute we numeric
+@attribute web numeric
+@attribute wednesda numeric
+@attribute weed numeric
+@attribute week numeric
+@attribute weekens numeric
+@attribute weird numeric
+@attribute wel numeric
+@attribute wer numeric
+@attribute when numeric
+@attribute whenever numeric
+@attribute whes numeric
+@attribute which numeric
+@attribute whol numeric
+@attribute why numeric
+@attribute wimp numeric
+@attribute win numeric
+@attribute wish numeric
+@attribute wit numeric
+@attribute without numeric
+@attribute wok numeric
+@attribute wonder numeric
+@attribute wont numeric
+@attribute world numeric
+@attribute wors numeric
+@attribute would numeric
+@attribute wow numeric
+@attribute wrong numeric
+@attribute x25-m numeric
+@attribute xbox numeric
+@attribute ya numeric
+@attribute yal numeric
+@attribute yar numeric
+@attribute yay numeric
+@attribute ye numeric
+@attribute yeah numeric
+@attribute year numeric
+@attribute yearl numeric
+@attribute yes numeric
+@attribute yesterda numeric
+@attribute youl numeric
+@attribute younger numeric
+@attribute yself numeric
+@attribute zit numeric
+@attribute zombi numeric
+@attribute #beer numeric
+@attribute #cbd numeric
+@attribute #cmon numeric
+@attribute #fb numeric
+@attribute #frida numeric
+@attribute #liesgirlstel numeric
+@attribute #linux numeric
+@attribute #lupus numeric
+@attribute #melbourn numeric
+@attribute #min numeric
+@attribute #mtub numeric
+@attribute #ubuntu numeric
+@attribute $#@ numeric
+@attribute $100 numeric
+@attribute $20 numeric
+@attribute &quotconfirmed&quot numeric
+@attribute &quotles numeric
+@attribute &quotyour numeric
+@attribute *cries* numeric
+@attribute -- numeric
+@attribute -_- numeric
+@attribute //blip numeric
+@attribute //cl numeric
+@attribute //myloc numeric
+@attribute //twees numeric
+@attribute //www numeric
+@attribute 11 numeric
+@attribute 15 numeric
+@attribute 16y numeric
+@attribute 18 numeric
+@attribute 1st numeric
+@attribute 2+ numeric
+@attribute 22 numeric
+@attribute 30 numeric
+@attribute 3am numeric
+@attribute 3pm numeric
+@attribute 5/6 numeric
+@attribute 60 numeric
+@attribute 7 numeric
+@attribute 7+ numeric
+@attribute 8am numeric
+@attribute 9 numeric
+@attribute @- numeric
+@attribute @4evaafanofpaul numeric
+@attribute @__sugar numeric
+@attribute @a_la numeric
+@attribute @aannniiee numeric
+@attribute @alyssainescruz numeric
+@attribute @anime81 numeric
+@attribute @anticipationsf numeric
+@attribute @ashleighryder numeric
+@attribute @ashleyprat numeric
+@attribute @badtwin numeric
+@attribute @bethbabe4 numeric
+@attribute @bigyahu numeric
+@attribute @blood_rain numeric
+@attribute @brianlimons numeric
+@attribute @buzzedit numeric
+@attribute @carrotmadman6 numeric
+@attribute @charleyboorman numeric
+@attribute @charlor numeric
+@attribute @cosmiclagoon numeric
+@attribute @crispynoodl numeric
+@attribute @damohop numeric
+@attribute @davidcooklov numeric
+@attribute @debbylovespr numeric
+@attribute @desert_star95 numeric
+@attribute @deziree_div numeric
+@attribute @djvinceadam numeric
+@attribute @donperignon numeric
+@attribute @dravenreborn numeric
+@attribute @elephantgrav numeric
+@attribute @emilyyy16 numeric
+@attribute @emmarler numeric
+@attribute @ghostridah14 numeric
+@attribute @goddessfleur numeric
+@attribute @gqbound numeric
+@attribute @harishk numeric
+@attribute @hisheid numeric
+@attribute @hot30 numeric
+@attribute @ingridker numeric
+@attribute @itsgabbith numeric
+@attribute @janesas_mom numeric
+@attribute @jarekpast numeric
+@attribute @jaychuck numeric
+@attribute @jaydz numeric
+@attribute @jertron numeric
+@attribute @jessicaduncan numeric
+@attribute @jmoriart numeric
+@attribute @jonasbrother numeric
+@attribute @jordskkk numeric
+@attribute @jose3030 numeric
+@attribute @jpreston numeric
+@attribute @justd numeric
+@attribute @keytar numeric
+@attribute @kimberly625 numeric
+@attribute @kirsten613 numeric
+@attribute @krist0ph3r numeric
+@attribute @laurelexmachin numeric
+@attribute @letsgeticecream numeric
+@attribute @mayor numeric
+@attribute @meghanwong numeric
+@attribute @melissalynnet numeric
+@attribute @moss1982 numeric
+@attribute @munchkinhug numeric
+@attribute @nolaevol numeric
+@attribute @omfgisel numeric
+@attribute @omgjoker numeric
+@attribute @onscrn numeric
+@attribute @pb_and_ja numeric
+@attribute @perezhilt numeric
+@attribute @pickleybab numeric
+@attribute @poinktoinkdoink numeric
+@attribute @prime8507 numeric
+@attribute @professor12 numeric
+@attribute @raaaaaaek numeric
+@attribute @rachelash numeric
+@attribute @rbuerckner numeric
+@attribute @rderozari numeric
+@attribute @ritikakar numeric
+@attribute @roasterbo numeric
+@attribute @rockedbypickler numeric
+@attribute @saurabh numeric
+@attribute @scotty_mcc numeric
+@attribute @seemouserun numeric
+@attribute @sharonhay numeric
+@attribute @shondarhim numeric
+@attribute @skyduke478 numeric
+@attribute @soverpeck numeric
+@attribute @stephanieel numeric
+@attribute @superjer numeric
+@attribute @syo_of_the_dead numeric
+@attribute @taylorswift13 numeric
+@attribute @telstr numeric
+@attribute @thedailysurve numeric
+@attribute @thelastdoct numeric
+@attribute @tiff_tiff_mari numeric
+@attribute @vocabl numeric
+@attribute @weefeetfranki numeric
+@attribute @wtf_jayr numeric
+@attribute @wuzzyangel numeric
+@attribute @zachmoore1 numeric
+@attribute @zhenerak numeric
+@attribute [blog] numeric
+@attribute a&amp numeric
+@attribute abang numeric
+@attribute abuzz numeric
+@attribute aby numeric
+@attribute accident numeric
+@attribute achief numeric
+@attribute acros numeric
+@attribute addict numeric
+@attribute addit numeric
+@attribute admis numeric
+@attribute adv numeric
+@attribute advic numeric
+@attribute ae numeric
+@attribute afternoon numeric
+@attribute afterward numeric
+@attribute ageeee numeric
+@attribute agre numeric
+@attribute ahead numeric
+@attribute aid numeric
+@attribute airmatr numeric
+@attribute alec numeric
+@attribute alot numeric
+@attribute aloud numeric
+@attribute als numeric
+@attribute alt numeric
+@attribute amaz numeric
+@attribute americ numeric
+@attribute amsterdam numeric
+@attribute anal numeric
+@attribute ankl numeric
+@attribute annonym numeric
+@attribute anx numeric
+@attribute anyon numeric
+@attribute anyth numeric
+@attribute apartm numeric
+@attribute appear numeric
+@attribute appreci numeric
+@attribute archi numeric
+@attribute arent numeric
+@attribute around numeric
+@attribute arroy numeric
+@attribute assign numeric
+@attribute assignm numeric
+@attribute assignment numeric
+@attribute attack numeric
+@attribute attent numeric
+@attribute audi numeric
+@attribute aug numeric
+@attribute austin numeric
+@attribute aut numeric
+@attribute availbl numeric
+@attribute awayy numeric
+@attribute awww numeric
+@attribute baby numeric
+@attribute bacterin numeric
+@attribute bank numeric
+@attribute bc numeric
+@attribute bear numeric
+@attribute becam numeric
+@attribute becom numeric
+@attribute bel numeric
+@attribute beover numeric
+@attribute beth numeric
+@attribute between numeric
+@attribute beup numeric
+@attribute bf numeric
+@attribute bff numeric
+@attribute big numeric
+@attribute biggest numeric
+@attribute bik numeric
+@attribute bil numeric
+@attribute birfday numeric
+@attribute birthda numeric
+@attribute bitch numeric
+@attribute blaahh numeric
+@attribute blackber numeric
+@attribute blood numeric
+@attribute bo numeric
+@attribute bod numeric
+@attribute bon numeric
+@attribute both numeric
+@attribute bottl numeric
+@attribute brain numeric
+@attribute breakfast numeric
+@attribute brekki numeric
+@attribute brother numeric
+@attribute bruis numeric
+@attribute budges numeric
+@attribute bug numeric
+@attribute bugger numeric
+@attribute build numeric
+@attribute bum numeric
+@attribute burn numeric
+@attribute bus numeric
+@attribute camp numeric
+@attribute cancer numeric
+@attribute cannot numeric
+@attribute carï¿½to numeric
+@attribute catch numeric
+@attribute caught numeric
+@attribute ce numeric
+@attribute cel numeric
+@attribute cellphon numeric
+@attribute certain numeric
+@attribute challeng numeric
+@attribute chapman numeric
+@attribute chargerr numeric
+@attribute chenna numeric
+@attribute chequ numeric
+@attribute child numeric
+@attribute childr numeric
+@attribute choic numeric
+@attribute chok numeric
+@attribute choos numeric
+@attribute church numeric
+@attribute clas numeric
+@attribute clean numeric
+@attribute clear numeric
+@attribute cmon numeric
+@attribute co numeric
+@attribute co-oper numeric
+@attribute coffe numeric
+@attribute col numeric
+@attribute cold numeric
+@attribute color numeric
+@attribute com/ numeric
+@attribute com/65623 numeric
+@attribute com/662vk numeric
+@attribute com/p/wxji3 numeric
+@attribute comber numeric
+@attribute commis numeric
+@attribute commitment numeric
+@attribute con numeric
+@attribute concentr numeric
+@attribute convers numeric
+@attribute cook numeric
+@attribute cooki numeric
+@attribute cost numeric
+@attribute cough numeric
+@attribute cover numeric
+@attribute crab numeric
+@attribute crew numeric
+@attribute crush numeric
+@attribute cumbersom numeric
+@attribute cup numeric
+@attribute cur numeric
+@attribute curler numeric
+@attribute cus numeric
+@attribute cuz numeric
+@attribute cyst numeric
+@attribute dad numeric
+@attribute dam numeric
+@attribute dang numeric
+@attribute dat numeric
+@attribute daughter numeric
+@attribute death numeric
+@attribute deck numeric
+@attribute dedic numeric
+@attribute def numeric
+@attribute del numeric
+@attribute deposit numeric
+@attribute desperat numeric
+@attribute develop numeric
+@attribute devic numeric
+@attribute dimpl numeric
+@attribute diner numeric
+@attribute discourag numeric
+@attribute discus numeric
+@attribute disloc numeric
+@attribute dissappoint numeric
+@attribute dist numeric
+@attribute djhes numeric
+@attribute dm numeric
+@attribute door numeric
+@attribute download numeric
+@attribute dr numeric
+@attribute drop numeric
+@attribute drug numeric
+@attribute drunk numeric
+@attribute drv numeric
+@attribute dud numeric
+@attribute dvd numeric
+@attribute dwel numeric
+@attribute dying numeric
+@attribute e numeric
+@attribute e3 numeric
+@attribute eat numeric
+@attribute econom numeric
+@attribute edg numeric
+@attribute eh numeric
+@attribute eight numeric
+@attribute enevit numeric
+@attribute engl numeric
+@attribute error numeric
+@attribute essa numeric
+@attribute event numeric
+@attribute except numeric
+@attribute exercis numeric
+@attribute expens numeric
+@attribute expir numeric
+@attribute extract numeric
+@attribute extrem numeric
+@attribute ey numeric
+@attribute facebook numeric
+@attribute famz numeric
+@attribute far numeric
+@attribute farrrr numeric
+@attribute fash numeric
+@attribute fault numeric
+@attribute fb numeric
+@attribute fe numeric
+@attribute feed numeric
+@attribute fetch numeric
+@attribute few numeric
+@attribute film numeric
+@attribute finger numeric
+@attribute fingi numeric
+@attribute flu numeric
+@attribute fly numeric
+@attribute fm/~78qvz numeric
+@attribute fml numeric
+@attribute forg numeric
+@attribute forges numeric
+@attribute four numeric
+@attribute fractur numeric
+@attribute fre numeric
+@attribute fresh numeric
+@attribute fwiens numeric
+@attribute fx100 numeric
+@attribute gain numeric
+@attribute gar numeric
+@attribute garden numeric
+@attribute giant numeric
+@attribute gid numeric
+@attribute gin numeric
+@attribute gizm numeric
+@attribute gnit numeric
+@attribute googl numeric
+@attribute goooood numeric
+@attribute gor numeric
+@attribute gorg numeric
+@attribute gosh numeric
+@attribute gossip numeric
+@attribute gra numeric
+@attribute grandmother numeric
+@attribute grim numeric
+@attribute ground numeric
+@attribute grov numeric
+@attribute growl numeric
+@attribute gs/zzre1p numeric
+@attribute gud numeric
+@attribute h8 numeric
+@attribute hack numeric
+@attribute hail numeric
+@attribute hair numeric
+@attribute hand numeric
+@attribute hang numeric
+@attribute hangout numeric
+@attribute hard numeric
+@attribute harder numeric
+@attribute hasnt numeric
+@attribute hed numeric
+@attribute held numeric
+@attribute helicopter numeric
+@attribute helllllppp numeric
+@attribute help numeric
+@attribute hickup numeric
+@attribute hit numeric
+@attribute hol numeric
+@attribute holida numeric
+@attribute homework numeric
+@attribute horriter numeric
+@attribute hors numeric
+@attribute hous numeric
+@attribute hub numeric
+@attribute hufff numeric
+@attribute hug numeric
+@attribute humpalow numeric
+@attribute hun numeric
+@attribute ia numeric
+@attribute ican numeric
+@attribute ice-cold numeric
+@attribute iknow numeric
+@attribute ily&lt333 numeric
+@attribute immedi numeric
+@attribute inclus numeric
+@attribute inf numeric
+@attribute infectect numeric
+@attribute instrum numeric
+@attribute insur numeric
+@attribute insuran numeric
+@attribute interview numeric
+@attribute issu numeric
+@attribute itself numeric
+@attribute jab numeric
+@attribute jack numeric
+@attribute jackes numeric
+@attribute jak numeric
+@attribute jaunt numeric
+@attribute jeal numeric
+@attribute jerk numeric
+@attribute jl numeric
+@attribute jok numeric
+@attribute jolt numeric
+@attribute jowk numeric
+@attribute jump numeric
+@attribute justif numeric
+@attribute keen numeric
+@attribute kegger numeric
+@attribute kernel numeric
+@attribute kne numeric
+@attribute knight numeric
+@attribute knit numeric
+@attribute knooww numeric
+@attribute koxper numeric
+@attribute la numeric
+@attribute lacrim numeric
+@attribute lad numeric
+@attribute laid numeric
+@attribute larg numeric
+@attribute laugh numeric
+@attribute laughter numeric
+@attribute laz numeric
+@attribute leak numeric
+@attribute leg numeric
+@attribute li numeric
+@attribute libr numeric
+@attribute light numeric
+@attribute livechat numeric
+@attribute load numeric
+@attribute lockes numeric
+@attribute lookin numeric
+@attribute loser numeric
+@attribute lub numeric
+@attribute lung numeric
+@attribute ly/179jx numeric
+@attribute mad numeric
+@attribute mag numeric
+@attribute mand numeric
+@attribute markes numeric
+@attribute mask numeric
+@attribute match numeric
+@attribute math numeric
+@attribute may numeric
+@attribute me/1xiz numeric
+@attribute meanw numeric
+@attribute mees numeric
+@attribute melbourn numeric
+@attribute men numeric
+@attribute michigan numeric
+@attribute midda numeric
+@attribute midnight numeric
+@attribute milk numeric
+@attribute mind numeric
+@attribute minut numeric
+@attribute miscarri numeric
+@attribute mistak numeric
+@attribute mobil numeric
+@attribute mock numeric
+@attribute mol numeric
+@attribute mooorn numeric
+@attribute morcom numeric
+@attribute motorbik numeric
+@attribute movie- numeric
+@attribute mr numeric
+@attribute ms numeric
+@attribute mumba numeric
+@attribute muppes numeric
+@attribute mus numeric
+@attribute muy numeric
+@attribute nail numeric
+@attribute nap numeric
+@attribute nast numeric
+@attribute naught numeric
+@attribute naw numeric
+@attribute nb numeric
+@attribute near numeric
+@attribute neck numeric
+@attribute needl numeric
+@attribute neglect numeric
+@attribute nik numeric
+@attribute nim numeric
+@attribute nobod numeric
+@attribute norm numeric
+@attribute nos numeric
+@attribute noth numeric
+@attribute notlook numeric
+@attribute nottingham numeric
+@attribute numb numeric
+@attribute number numeric
+@attribute nur numeric
+@attribute october numeric
+@attribute oft numeric
+@attribute oka numeric
+@attribute older numeric
+@attribute omg- numeric
+@attribute ont numeric
+@attribute ooop numeric
+@attribute ouch numeric
+@attribute outl numeric
+@attribute own numeric
+@attribute pag numeric
+@attribute pancak numeric
+@attribute panick numeric
+@attribute pans numeric
+@attribute pant numeric
+@attribute paperwork numeric
+@attribute paul numeric
+@attribute pc numeric
+@attribute pc-over-ip numeric
+@attribute pdhp numeric
+@attribute permaban numeric
+@attribute pettigrew numeric
+@attribute pick numeric
+@attribute pierdut numeric
+@attribute pil numeric
+@attribute pilot numeric
+@attribute plan numeric
+@attribute playn numeric
+@attribute plus numeric
+@attribute pol numeric
+@attribute polic numeric
+@attribute poorest numeric
+@attribute pos numeric
+@attribute pound numeric
+@attribute power numeric
+@attribute pra numeric
+@attribute prayer numeric
+@attribute pres numeric
+@attribute pressur numeric
+@attribute princ numeric
+@attribute probabil numeric
+@attribute profil numeric
+@attribute prom numeric
+@attribute promis numeric
+@attribute prupl numeric
+@attribute publ numeric
+@attribute puk numeric
+@attribute pumkpin numeric
+@attribute punkin numeric
+@attribute punlk numeric
+@attribute quilt numeric
+@attribute quiz numeric
+@attribute r&ampj numeric
+@attribute rab numeric
+@attribute rac numeric
+@attribute ran numeric
+@attribute random numeric
+@attribute rap numeric
+@attribute rap/fun numeric
+@attribute re-ping numeric
+@attribute reaper numeric
+@attribute reason numeric
+@attribute rec numeric
+@attribute reflect numeric
+@attribute refund numeric
+@attribute refus numeric
+@attribute reject numeric
+@attribute rel numeric
+@attribute relac numeric
+@attribute relationship numeric
+@attribute remember numeric
+@attribute remind numeric
+@attribute reminder numeric
+@attribute renew numeric
+@attribute represent numeric
+@attribute requir numeric
+@attribute research numeric
+@attribute respons numeric
+@attribute result numeric
+@attribute retainer numeric
+@attribute retrief numeric
+@attribute rit numeric
+@attribute roaster numeric
+@attribute rout numeric
+@attribute ruin numeric
+@attribute run numeric
+@attribute saf numeric
+@attribute said numeric
+@attribute sal numeric
+@attribute sar numeric
+@attribute saturda numeric
+@attribute sau numeric
+@attribute sav numeric
+@attribute scar numeric
+@attribute schedl numeric
+@attribute schem numeric
+@attribute schindler numeric
+@attribute scot numeric
+@attribute scream numeric
+@attribute script numeric
+@attribute season numeric
+@attribute sec numeric
+@attribute sect numeric
+@attribute sep numeric
+@attribute separ numeric
+@attribute sept numeric
+@attribute server numeric
+@attribute ses numeric
+@attribute sewing numeric
+@attribute sexual/matern numeric
+@attribute sf numeric
+@attribute sg numeric
+@attribute shel numeric
+@attribute shenanigan numeric
+@attribute short numeric
+@attribute shot numeric
+@attribute shoulder numeric
+@attribute shouldnt numeric
+@attribute shouldv numeric
+@attribute show numeric
+@attribute shower numeric
+@attribute shunt numeric
+@attribute shut numeric
+@attribute sicker numeric
+@attribute sid numeric
+@attribute singl numeric
+@attribute sinus numeric
+@attribute situ numeric
+@attribute sk numeric
+@attribute skot numeric
+@attribute sleepin numeric
+@attribute sleepytim numeric
+@attribute slidebar numeric
+@attribute slight numeric
+@attribute slow numeric
+@attribute snack numeric
+@attribute snd-hda-intel numeric
+@attribute sober numeric
+@attribute soc numeric
+@attribute sog numeric
+@attribute sol numeric
+@attribute somebod numeric
+@attribute somehow numeric
+@attribute someon numeric
+@attribute somewhes numeric
+@attribute son numeric
+@attribute sooo numeric
+@attribute soooooooooooo numeric
+@attribute soul numeric
+@attribute sp numeric
+@attribute speak numeric
+@attribute spec numeric
+@attribute spent numeric
+@attribute splinter numeric
+@attribute sport numeric
+@attribute sprain numeric
+@attribute spread numeric
+@attribute spring numeric
+@attribute stalk numeric
+@attribute stank numeric
+@attribute stanle numeric
+@attribute steam numeric
+@attribute stranger numeric
+@attribute strawber numeric
+@attribute strees numeric
+@attribute stud numeric
+@attribute studi numeric
+@attribute subst numeric
+@attribute sud numeric
+@attribute sunda numeric
+@attribute super numeric
+@attribute supporter numeric
+@attribute supppos numeric
+@attribute sw numeric
+@attribute sweat numeric
+@attribute swees numeric
+@attribute swol numeric
+@attribute t&ampc numeric
+@attribute tabl numeric
+@attribute tabloid numeric
+@attribute tac numeric
+@attribute tact numeric
+@attribute tag numeric
+@attribute tal numeric
+@attribute tangl numeric
+@attribute tatto numeric
+@attribute teh numeric
+@attribute tel numeric
+@attribute tempor numeric
+@attribute teradic numeric
+@attribute themselv numeric
+@attribute theyv numeric
+@attribute thief numeric
+@attribute third numeric
+@attribute thr numeric
+@attribute threat numeric
+@attribute three-leg numeric
+@attribute thud* numeric
+@attribute tickes numeric
+@attribute tissu numeric
+@attribute today numeric
+@attribute told numeric
+@attribute ton numeric
+@attribute tongu numeric
+@attribute toothach numeric
+@attribute top numeric
+@attribute tor numeric
+@attribute torchwood numeric
+@attribute torcon numeric
+@attribute toront numeric
+@attribute tos numeric
+@attribute touch numeric
+@attribute tr numeric
+@attribute trampol numeric
+@attribute transfer numeric
+@attribute transport numeric
+@attribute traveller numeric
+@attribute tre numeric
+@attribute trist numeric
+@attribute twic numeric
+@attribute twitast numeric
+@attribute twitterfon numeric
+@attribute twome numeric
+@attribute typ numeric
+@attribute uk numeric
+@attribute under numeric
+@attribute underneath numeric
+@attribute uniform numeric
+@attribute unperfect numeric
+@attribute upd numeric
+@attribute urgh numeric
+@attribute uuuugh numeric
+@attribute vac numeric
+@attribute vaca numeric
+@attribute vanes numeric
+@attribute veronic numeric
+@attribute vhemt numeric
+@attribute vide numeric
+@attribute video numeric
+@attribute viner numeric
+@attribute vog numeric
+@attribute vp numeric
+@attribute w numeric
+@attribute w/h numeric
+@attribute wak numeric
+@attribute want/need numeric
+@attribute wash numeric
+@attribute weak numeric
+@attribute wear numeric
+@attribute weather numeric
+@attribute websit numeric
+@attribute wed numeric
+@attribute weekday numeric
+@attribute weight numeric
+@attribute wen numeric
+@attribute whangam numeric
+@attribute wheel numeric
+@attribute whil numeric
+@attribute whit numeric
+@attribute wiat numeric
+@attribute wid numeric
+@attribute wif numeric
+@attribute within numeric
+@attribute woman numeric
+@attribute woop numeric
+@attribute work=n numeric
+@attribute workplac numeric
+@attribute worn numeric
+@attribute worst numeric
+@attribute wtf numeric
+@attribute xml numeric
+@attribute yayyyyyyyyyy numeric
+@attribute yeh numeric
+@attribute youth numeric
+@attribute zo numeric
+@attribute zongz numeric
+@attribute | numeric
+@attribute ï¿½20 numeric
+@attribute 2da numeric
+@attribute 7am numeric
+@attribute @briannabanshe numeric
+@attribute @davidarchi numeric
+@attribute @idlethumb numeric
+@attribute @jessijaejoplin numeric
+@attribute @jetwolf numeric
+@attribute @melluffsyew numeric
+@attribute @nkotb numeric
+@attribute @ooochelcyoo numeric
+@attribute @plantweb numeric
+@attribute @relly1 numeric
+@attribute @wendyisastar numeric
+@attribute ahahah numeric
+@attribute californ numeric
+@attribute canad numeric
+@attribute cool numeric
+@attribute dissapointm numeric
+@attribute draw numeric
+@attribute dres numeric
+@attribute dvr numeric
+@attribute eba numeric
+@attribute eeeeeewwwwwwww numeric
+@attribute enjo numeric
+@attribute entertain numeric
+@attribute evil numeric
+@attribute fiddler numeric
+@attribute fighter numeric
+@attribute florid numeric
+@attribute grow numeric
+@attribute grr numeric
+@attribute hhah numeric
+@attribute hotel numeric
+@attribute insan numeric
+@attribute lar numeric
+@attribute leonard numeric
+@attribute lettuc numeric
+@attribute muahahah numeric
+@attribute perform numeric
+@attribute plot numeric
+@attribute prob numeric
+@attribute rid numeric
+@attribute sat numeric
+@attribute secres numeric
+@attribute self numeric
+@attribute seth numeric
+@attribute spinach numeric
+@attribute tomorrw numeric
+@attribute ur numeric
+@attribute vint numeric
+@attribute whisper numeric
+@attribute #3wordsaftersec numeric
+@attribute #topicmap numeric
+@attribute &ampdont numeric
+@attribute &gt&gt&gt&gt numeric
+@attribute &lt&lt&lt&lt numeric
+@attribute &quotges numeric
+@attribute &quotwip numeric
+@attribute *pouts* numeric
+@attribute //tr numeric
+@attribute 10~ numeric
+@attribute 12 numeric
+@attribute 16th numeric
+@attribute 200 numeric
+@attribute 2009 numeric
+@attribute 25-man numeric
+@attribute 26 numeric
+@attribute 2nd numeric
+@attribute 3-4 numeric
+@attribute 30am numeric
+@attribute 45am numeric
+@attribute 4ever numeric
+@attribute 4pm numeric
+@attribute 5 numeric
+@attribute 530p numeric
+@attribute 5am numeric
+@attribute 626 numeric
+@attribute 6am numeric
+@attribute 6hr numeric
+@attribute 7-11 numeric
+@attribute 800x numeric
+@attribute @_eric numeric
+@attribute @aiderusht numeric
+@attribute @alllyy_ numeric
+@attribute @allysonalfons numeric
+@attribute @angelazodiak numeric
+@attribute @anthothemanth numeric
+@attribute @astyn numeric
+@attribute @avalonabsinth numeric
+@attribute @becje numeric
+@attribute @benballer numeric
+@attribute @bobdc numeric
+@attribute @breakfastnt numeric
+@attribute @brettyrock numeric
+@attribute @busygod numeric
+@attribute @ccburn numeric
+@attribute @chikachil numeric
+@attribute @claudiuvoicu numeric
+@attribute @crunchmonkey78 numeric
+@attribute @curligirl numeric
+@attribute @cynthia_123 numeric
+@attribute @dancing_monk numeric
+@attribute @dannycastil numeric
+@attribute @daveg38 numeric
+@attribute @davidbrusse numeric
+@attribute @deedubau numeric
+@attribute @delloutletuk numeric
+@attribute @digen numeric
+@attribute @djcoomb numeric
+@attribute @dmoneyman numeric
+@attribute @dorkydean numeric
+@attribute @duciaesther numeric
+@attribute @duncm numeric
+@attribute @ecctv numeric
+@attribute @echeer numeric
+@attribute @emlevin numeric
+@attribute @feltbeat numeric
+@attribute @forever_yours13 numeric
+@attribute @gabbyisact numeric
+@attribute @gemamalov numeric
+@attribute @giggles_x numeric
+@attribute @heavyhart numeric
+@attribute @iceweasel numeric
+@attribute @jackgraycn numeric
+@attribute @jakeboyd numeric
+@attribute @jamiejames numeric
+@attribute @jennyvok numeric
+@attribute @jhick numeric
+@attribute @johnny_exp numeric
+@attribute @joshuah_pearson numeric
+@attribute @juiceegapeach numeric
+@attribute @juneye numeric
+@attribute @justamedicin numeric
+@attribute @jwes numeric
+@attribute @jwillock numeric
+@attribute @kallies numeric
+@attribute @koifusionpdx numeric
+@attribute @lafloozit numeric
+@attribute @lawikyn numeric
+@attribute @lepetitagneau numeric
+@attribute @livestrongnj numeric
+@attribute @lizzziemonster numeric
+@attribute @lostlun numeric
+@attribute @megturne numeric
+@attribute @melbournegirl numeric
+@attribute @mennard numeric
+@attribute @miss_ches numeric
+@attribute @monpi numeric
+@attribute @mousebud numeric
+@attribute @mrrathbon numeric
+@attribute @msakatainm numeric
+@attribute @mydailyrout numeric
+@attribute @mygoldmask numeric
+@attribute @mysticnz numeric
+@attribute @n3rin3 numeric
+@attribute @nayryelgiuq numeric
+@attribute @nym numeric
+@attribute @officialtil numeric
+@attribute @only1kcj numeric
+@attribute @oxygen8705 numeric
+@attribute @passingcars numeric
+@attribute @pegbanditkit numeric
+@attribute @princess_oat numeric
+@attribute @ramtop numeric
+@attribute @regent_lord numeric
+@attribute @richard_g numeric
+@attribute @rlcpbiatch numeric
+@attribute @rockingjud numeric
+@attribute @ryanhalloran numeric
+@attribute @sakshijunej numeric
+@attribute @scumm_bo numeric
+@attribute @seanperciv numeric
+@attribute @sha_da_asshol numeric
+@attribute @shanajac numeric
+@attribute @sillybabyjuli numeric
+@attribute @slickir numeric
+@attribute @soonseeofpr numeric
+@attribute @summer_ey numeric
+@attribute @superfiasc numeric
+@attribute @syafiqu numeric
+@attribute @talentdmrriple numeric
+@attribute @taxiderm numeric
+@attribute @taylor_d numeric
+@attribute @textdriveby numeric
+@attribute @thabillcollect numeric
+@attribute @the_babs numeric
+@attribute @thecreativeon numeric
+@attribute @theharvard numeric
+@attribute @thunder_expres numeric
+@attribute @v_er numeric
+@attribute @willxxmob numeric
+@attribute @yelgiuqnayr numeric
+@attribute @zaharh numeric
+@attribute [stil numeric
+@attribute ____________ numeric
+@attribute aa numeric
+@attribute airport numeric
+@attribute alask numeric
+@attribute allow numeric
+@attribute altno numeric
+@attribute amazin numeric
+@attribute appt numeric
+@attribute aright numeric
+@attribute articl numeric
+@attribute aus numeric
+@attribute awwww numeric
+@attribute bah numeric
+@attribute balcon numeric
+@attribute balis numeric
+@attribute barack numeric
+@attribute barjohnny numeric
+@attribute batman numeric
+@attribute bby numeric
+@attribute bda numeric
+@attribute becuz numeric
+@attribute beef numeric
+@attribute beer numeric
+@attribute bein numeric
+@attribute belov numeric
+@attribute ben numeric
+@attribute binder numeric
+@attribute biochem numeric
+@attribute birthdayy numeric
+@attribute bl numeric
+@attribute bl*** numeric
+@attribute black numeric
+@attribute bleh numeric
+@attribute bloom numeric
+@attribute blown numeric
+@attribute blunt numeric
+@attribute bound numeric
+@attribute braggin numeric
+@attribute brick numeric
+@attribute brun numeric
+@attribute btw# numeric
+@attribute bubbl numeric
+@attribute bummer numeric
+@attribute bymyself numeric
+@attribute cabut numeric
+@attribute cak numeric
+@attribute cebu numeric
+@attribute chaceeeeee numeric
+@attribute chales numeric
+@attribute channel numeric
+@attribute che numeric
+@attribute chicag numeric
+@attribute chick numeric
+@attribute chil numeric
+@attribute chocol numeric
+@attribute chuck numeric
+@attribute clair numeric
+@attribute clean&quot numeric
+@attribute cmin numeric
+@attribute cnt numeric
+@attribute cockatoo numeric
+@attribute cofffeeeeee numeric
+@attribute com/4phz numeric
+@attribute com/p/wx numeric
+@attribute com/p/wxidk numeric
+@attribute com/p/wxiz numeric
+@attribute com/p/wxluu numeric
+@attribute com/p/wxnt9 numeric
+@attribute com/p/wxpdj numeric
+@attribute com/p/wxpdr numeric
+@attribute comcast numeric
+@attribute conan numeric
+@attribute concers numeric
+@attribute confer numeric
+@attribute contract numeric
+@attribute control numeric
+@attribute count numeric
+@attribute coworker numeric
+@attribute craz numeric
+@attribute cum numeric
+@attribute databas numeric
+@attribute dav numeric
+@attribute dec numeric
+@attribute desktop numeric
+@attribute detail numeric
+@attribute diabes numeric
+@attribute dib numeric
+@attribute diff numeric
+@attribute discov numeric
+@attribute disne numeric
+@attribute distract numeric
+@attribute dong numeric
+@attribute doubl numeric
+@attribute dur numeric
+@attribute el numeric
+@attribute elp numeric
+@attribute emot numeric
+@attribute employee numeric
+@attribute enem numeric
+@attribute epicentr numeric
+@attribute episod numeric
+@attribute erock numeric
+@attribute es numeric
+@attribute escap numeric
+@attribute est numeric
+@attribute explor numeric
+@attribute faaaaar numeric
+@attribute fakin numeric
+@attribute fc numeric
+@attribute firang numeric
+@attribute fiuuhh numeric
+@attribute flight numeric
+@attribute floyd numeric
+@attribute focus numeric
+@attribute fool numeric
+@attribute foreigner numeric
+@attribute fr numeric
+@attribute franz numeric
+@attribute freak numeric
+@attribute ft numeric
+@attribute fun/sad] numeric
+@attribute fy numeric
+@attribute gay numeric
+@attribute gilmour numeric
+@attribute giman numeric
+@attribute girli numeric
+@attribute glas numeric
+@attribute goreng numeric
+@attribute gratif numeric
+@attribute grimsb numeric
+@attribute guitar numeric
+@attribute gun numeric
+@attribute gym numeric
+@attribute hahah numeric
+@attribute hallmark numeric
+@attribute hardest numeric
+@attribute headin numeric
+@attribute herself numeric
+@attribute himself numeric
+@attribute hiphop numeric
+@attribute hmph numeric
+@attribute hon numeric
+@attribute hongkong numeric
+@attribute hook numeric
+@attribute houst numeric
+@attribute hr numeric
+@attribute huh numeric
+@attribute hungr numeric
+@attribute iii numeric
+@attribute im/ml6z numeric
+@attribute imprison numeric
+@attribute increas numeric
+@attribute inst numeric
+@attribute intern numeric
+@attribute investig numeric
+@attribute invit numeric
+@attribute iphon numeric
+@attribute it&quot numeric
+@attribute iya numeric
+@attribute jb numeric
+@attribute jel numeric
+@attribute jes numeric
+@attribute judg numeric
+@attribute justwatch numeric
+@attribute k numeric
+@attribute karaok numeric
+@attribute kavy numeric
+@attribute ken numeric
+@attribute ketauan numeric
+@attribute key numeric
+@attribute kindergart numeric
+@attribute kis numeric
+@attribute kish numeric
+@attribute krem numeric
+@attribute krisp numeric
+@attribute l numeric
+@attribute lack numeric
+@attribute lambers numeric
+@attribute led numeric
+@attribute leno numeric
+@attribute looov numeric
+@attribute low~~ numeric
+@attribute lt numeric
+@attribute ly/ngnar numeric
+@attribute ly/rconp numeric
+@attribute lyin numeric
+@attribute m numeric
+@attribute ma numeric
+@attribute magnific numeric
+@attribute mannn numeric
+@attribute manu numeric
+@attribute map numeric
+@attribute markup numeric
+@attribute medhurst numeric
+@attribute ment numeric
+@attribute methink numeric
+@attribute mi numeric
+@attribute mic numeric
+@attribute msft numeric
+@attribute nacho numeric
+@attribute natur numeric
+@attribute neces numeric
+@attribute nedumaran numeric
+@attribute neither numeric
+@attribute nevermind numeric
+@attribute newport numeric
+@attribute nick numeric
+@attribute nih numeric
+@attribute nite numeric
+@attribute noon numeric
+@attribute nostalg numeric
+@attribute notic numeric
+@attribute nudg numeric
+@attribute numer numeric
+@attribute nyeh numeric
+@attribute obv numeric
+@attribute oc numeric
+@attribute ocu numeric
+@attribute oir numeric
+@attribute ooh numeric
+@attribute op numeric
+@attribute outlook numeric
+@attribute overnight numeric
+@attribute pa numeric
+@attribute par numeric
+@attribute pffff numeric
+@attribute pgpm numeric
+@attribute photo numeric
+@attribute phys numeric
+@attribute piec numeric
+@attribute pillow numeric
+@attribute pink numeric
+@attribute pinocchio numeric
+@attribute plurk numeric
+@attribute polit numeric
+@attribute poppin numeric
+@attribute pork numeric
+@attribute portug numeric
+@attribute powerpoint numeric
+@attribute presid numeric
+@attribute princecharm numeric
+@attribute priv numeric
+@attribute proces numeric
+@attribute produc numeric
+@attribute program numeric
+@attribute provid numeric
+@attribute rachyl numeric
+@attribute radi numeric
+@attribute re-unit numeric
+@attribute reaaa numeric
+@attribute reces numeric
+@attribute recief numeric
+@attribute reschedl numeric
+@attribute restructur numeric
+@attribute retr numeric
+@attribute rhym numeric
+@attribute rofl numeric
+@attribute roger numeric
+@attribute root numeric
+@attribute scratch numeric
+@attribute screw numeric
+@attribute seeee numeric
+@attribute settl numeric
+@attribute shirt numeric
+@attribute shivashankar numeric
+@attribute short-sleev numeric
+@attribute sight numeric
+@attribute silverlight numeric
+@attribute simil numeric
+@attribute sister numeric
+@attribute skint numeric
+@attribute sl numeric
+@attribute slider numeric
+@attribute smh numeric
+@attribute smok numeric
+@attribute sock numeric
+@attribute some1 numeric
+@attribute sommat numeric
+@attribute sooooooo numeric
+@attribute speaker numeric
+@attribute spellchecker numeric
+@attribute spellin numeric
+@attribute spot numeric
+@attribute sr numeric
+@attribute stag numeric
+@attribute stalker numeric
+@attribute stat numeric
+@attribute ste numeric
+@attribute stok numeric
+@attribute ston numeric
+@attribute straight numeric
+@attribute straw numeric
+@attribute stressor numeric
+@attribute strong numeric
+@attribute subt numeric
+@attribute sugar numeric
+@attribute suhan numeric
+@attribute suit numeric
+@attribute sulu numeric
+@attribute sunsh numeric
+@attribute superseed numeric
+@attribute sush numeric
+@attribute sweetheart numeric
+@attribute swim numeric
+@attribute system-w numeric
+@attribute ta numeric
+@attribute tackl numeric
+@attribute taco numeric
+@attribute tato numeric
+@attribute teleport numeric
+@attribute tem numeric
+@attribute tens numeric
+@attribute ter numeric
+@attribute thai- numeric
+@attribute thatsï¿½me numeric
+@attribute theater numeric
+@attribute thnk numeric
+@attribute thom numeric
+@attribute throughout numeric
+@attribute thurstag numeric
+@attribute tip numeric
+@attribute tmw numeric
+@attribute tonit numeric
+@attribute tough numeric
+@attribute tour numeric
+@attribute town numeric
+@attribute trad numeric
+@attribute tran numeric
+@attribute traumat numeric
+@attribute tumblr numeric
+@attribute tushar numeric
+@attribute tweepl numeric
+@attribute twittascop numeric
+@attribute twitterworld numeric
+@attribute twittl numeric
+@attribute ulduar numeric
+@attribute unfollow numeric
+@attribute unhelp numeric
+@attribute unsalvage numeric
+@attribute url numeric
+@attribute v numeric
+@attribute vaccin numeric
+@attribute vaik numeric
+@attribute vcr numeric
+@attribute veg numeric
+@attribute vi numeric
+@attribute vid numeric
+@attribute vocab numeric
+@attribute void numeric
+@attribute vooby numeric
+@attribute w/ numeric
+@attribute waaaaahhhhhh numeric
+@attribute wat numeric
+@attribute wheelock numeric
+@attribute wi numeric
+@attribute wick numeric
+@attribute window numeric
+@attribute wknd numeric
+@attribute wn numeric
+@attribute wom numeric
+@attribute word numeric
+@attribute workin numeric
+@attribute worth numeric
+@attribute wrap numeric
+@attribute wsop numeric
+@attribute xd numeric
+@attribute xx numeric
+@attribute yeahhh numeric
+@attribute youtub numeric
+@attribute youv numeric
+@attribute yum numeric
+@attribute ze numeric
+@attribute '}' numeric
+@attribute ï¿½ numeric
+@attribute ï¿½-net numeric
+@attribute &gt numeric
+@attribute &lt numeric
+@attribute 1/2 numeric
+@attribute 10min numeric
+@attribute 25 numeric
+@attribute 35min numeric
+@attribute @abguerraart numeric
+@attribute @all_is_one84 numeric
+@attribute @britblackbird numeric
+@attribute @calvinhar numeric
+@attribute @guitar21g numeric
+@attribute @iamyes numeric
+@attribute @jackie_hussein numeric
+@attribute @jcwentz numeric
+@attribute @juliaiiivir numeric
+@attribute @ksutt11 numeric
+@attribute @lanacaitlin numeric
+@attribute @meganmansyn numeric
+@attribute @mileycyrus numeric
+@attribute @mrgenius23 numeric
+@attribute @mrskutches numeric
+@attribute @soviet_star numeric
+@attribute @sparkdawgmus numeric
+@attribute @tess_tickl numeric
+@attribute @tiffal numeric
+@attribute [sens numeric
+@attribute aarrgghh numeric
+@attribute abil numeric
+@attribute afford numeric
+@attribute airl numeric
+@attribute av numeric
+@attribute ayaw numeric
+@attribute bakersfield numeric
+@attribute bber numeric
+@attribute bin numeric
+@attribute bookshelf numeric
+@attribute boy numeric
+@attribute bread numeric
+@attribute btw] numeric
+@attribute bumuk numeric
+@attribute cayog numeric
+@attribute cig numeric
+@attribute cleanout numeric
+@attribute cod numeric
+@attribute com/p/wxlx numeric
+@attribute dammis numeric
+@attribute damnit numeric
+@attribute day-old numeric
+@attribute dev numeric
+@attribute dew numeric
+@attribute doc numeric
+@attribute douchebag numeric
+@attribute duba numeric
+@attribute e-mail numeric
+@attribute encor numeric
+@attribute f numeric
+@attribute fifth numeric
+@attribute flash numeric
+@attribute float numeric
+@attribute floor numeric
+@attribute footwear numeric
+@attribute fu*k numeric
+@attribute geograph numeric
+@attribute gros numeric
+@attribute grrr numeric
+@attribute hahahah numeric
+@attribute hos numeric
+@attribute hulu numeric
+@attribute ily numeric
+@attribute import numeric
+@attribute insomn numeric
+@attribute irrespons numeric
+@attribute jacksonvil numeric
+@attribute kept numeric
+@attribute lit numeric
+@attribute lug numeric
+@attribute manchester numeric
+@attribute mb numeric
+@attribute migrain numeric
+@attribute mood numeric
+@attribute mosquit numeric
+@attribute mother numeric
+@attribute mt numeric
+@attribute murder numeric
+@attribute nashvil numeric
+@attribute net numeric
+@attribute ng numeric
+@attribute no0o0o0 numeric
+@attribute noooooo numeric
+@attribute notebook numeric
+@attribute ohhhh numeric
+@attribute outcom numeric
+@attribute particl numeric
+@attribute pearc numeric
+@attribute pop numeric
+@attribute port numeric
+@attribute pract numeric
+@attribute pregn numeric
+@attribute prescript numeric
+@attribute pus numeric
+@attribute qu numeric
+@attribute rakeem numeric
+@attribute rat numeric
+@attribute re numeric
+@attribute rearrang numeric
+@attribute saaad numeric
+@attribute savemart numeric
+@attribute sci numeric
+@attribute seminar numeric
+@attribute servic numeric
+@attribute sever numeric
+@attribute sho numeric
+@attribute smokingg numeric
+@attribute sosos numeric
+@attribute steppin numeric
+@attribute strongest numeric
+@attribute surve numeric
+@attribute teach numeric
+@attribute thunderstorm numeric
+@attribute ugl numeric
+@attribute ultim numeric
+@attribute urgggh numeric
+@attribute vict numeric
+@attribute vien numeric
+@attribute virus numeric
+@attribute waraku numeric
+@attribute warrent numeric
+@attribute youstinkatrespondingtotext numeric
+@attribute zs numeric
+@attribute @drewseele numeric
+@attribute @emilaz numeric
+@attribute @leopardqueen numeric
+@attribute @lilxamyx08 numeric
+@attribute @seekinspir numeric
+@attribute ac numeric
+@attribute angelin numeric
+@attribute b4 numeric
+@attribute block numeric
+@attribute creat numeric
+@attribute downstair numeric
+@attribute g-friens numeric
+@attribute hh numeric
+@attribute nw numeric
+@attribute ridicl numeric
+@attribute shar numeric
+@attribute sort numeric
+@attribute strep numeric
+@attribute sum numeric
+@attribute taekwand numeric
+@attribute talkin numeric
+@attribute tat numeric
+@attribute &quothis&quot numeric
+@attribute &quotjust-baked&quot numeric
+@attribute &quottogether&quot numeric
+@attribute //tumblr numeric
+@attribute 2nit numeric
+@attribute @anna_viol numeric
+@attribute @annaroseker numeric
+@attribute @annettestatus numeric
+@attribute @bobbyedner numeric
+@attribute @daveockun numeric
+@attribute @freepbx numeric
+@attribute @ikramshahnawaz numeric
+@attribute @jamasweetie06 numeric
+@attribute @kirstiealle numeric
+@attribute @markit numeric
+@attribute @mattpro13 numeric
+@attribute @neyooffic numeric
+@attribute @nisforneemah numeric
+@attribute @robertf3 numeric
+@attribute @yellowshirt numeric
+@attribute accad numeric
+@attribute ador numeric
+@attribute adult numeric
+@attribute ahhhhhhh numeric
+@attribute alright numeric
+@attribute andr numeric
+@attribute arm numeric
+@attribute attempt numeric
+@attribute boyfriens numeric
+@attribute bt numeric
+@attribute calibr numeric
+@attribute can`t numeric
+@attribute cg numeric
+@attribute cheesesteak numeric
+@attribute com/p/wxnw numeric
+@attribute com/xvd1wankt numeric
+@attribute comin numeric
+@attribute correct numeric
+@attribute cryin numeric
+@attribute deles numeric
+@attribute demi/sterl numeric
+@attribute dudee numeric
+@attribute extent numeric
+@attribute f1 numeric
+@attribute favor numeric
+@attribute fleetwood numeric
+@attribute gamer numeric
+@attribute heav numeric
+@attribute i`m numeric
+@attribute incred numeric
+@attribute izz numeric
+@attribute jem numeric
+@attribute launch numeric
+@attribute lool numeric
+@attribute luv numeric
+@attribute luvd numeric
+@attribute maat numeric
+@attribute martw numeric
+@attribute mm numeric
+@attribute mod numeric
+@attribute neemah numeric
+@attribute nile numeric
+@attribute offl numeric
+@attribute password numeric
+@attribute pat numeric
+@attribute peru numeric
+@attribute phil numeric
+@attribute pluck numeric
+@attribute preserv numeric
+@attribute pug numeric
+@attribute repla numeric
+@attribute sig numeric
+@attribute soooo numeric
+@attribute spok numeric
+@attribute supernatur numeric
+@attribute support numeric
+@attribute telecom numeric
+@attribute thanx numeric
+@attribute tru numeric
+@attribute xt numeric
+@attribute xxx numeric
+@attribute yesyesy numeric
+@attribute *hugs* numeric
+@attribute *sadness* numeric
+@attribute --- numeric
+@attribute 250 numeric
+@attribute 37 numeric
+@attribute 400mb numeric
+@attribute 45 numeric
+@attribute 7500 numeric
+@attribute 77 numeric
+@attribute @bern_morle numeric
+@attribute @bing numeric
+@attribute @crazyballerin numeric
+@attribute @desdoul numeric
+@attribute @fiercebanan numeric
+@attribute @foxxfil numeric
+@attribute @freshypans numeric
+@attribute @future_perfect numeric
+@attribute @gurlstrang numeric
+@attribute @heavenjon numeric
+@attribute @jordalyn numeric
+@attribute @justintevy numeric
+@attribute @mandyalwaysknw numeric
+@attribute @manyolith numeric
+@attribute @modelthean numeric
+@attribute @mycakesrock numeric
+@attribute @pastorpeterk numeric
+@attribute @qi_tah numeric
+@attribute aaaaaahhhhhhhh numeric
+@attribute aku numeric
+@attribute audit numeric
+@attribute bahh numeric
+@attribute bec numeric
+@attribute beefin numeric
+@attribute behind numeric
+@attribute bk numeric
+@attribute br numeric
+@attribute britain numeric
+@attribute buckes numeric
+@attribute carlt numeric
+@attribute churchil numeric
+@attribute coast numeric
+@attribute compan numeric
+@attribute compt numeric
+@attribute crep numeric
+@attribute darnit numeric
+@attribute deodor numeric
+@attribute df numeric
+@attribute dinner numeric
+@attribute dream numeric
+@attribute earphon numeric
+@attribute east numeric
+@attribute espec numeric
+@attribute excur numeric
+@attribute fat numeric
+@attribute fee numeric
+@attribute fork numeric
+@attribute fox numeric
+@attribute freewa numeric
+@attribute funk numeric
+@attribute gap numeric
+@attribute gara2 numeric
+@attribute havin numeric
+@attribute heck numeric
+@attribute josh numeric
+@attribute kbangun numeric
+@attribute leavin numeric
+@attribute mach numeric
+@attribute meow numeric
+@attribute mimp numeric
+@attribute mnet numeric
+@attribute nop numeric
+@attribute onpeak numeric
+@attribute pastor numeric
+@attribute peter numeric
+@attribute phoenic numeric
+@attribute photoshop numeric
+@attribute quizz numeric
+@attribute recap numeric
+@attribute relist numeric
+@attribute ring numeric
+@attribute shock numeric
+@attribute sweeeeeees numeric
+@attribute sydne numeric
+@attribute talent numeric
+@attribute te numeric
+@attribute thunder numeric
+@attribute ves numeric
+@attribute vs numeric
+@attribute wast numeric
+@attribute weeknens numeric
+@attribute winner numeric
+@attribute #ud numeric
+@attribute &quotmanasellaam numeric
+@attribute *-* numeric
+@attribute 20 numeric
+@attribute 2morrow numeric
+@attribute 3rd numeric
+@attribute 4th numeric
+@attribute 6-8 numeric
+@attribute @celldweller numeric
+@attribute @havingmysa numeric
+@attribute @hiracdelest numeric
+@attribute @mrssunshine96 numeric
+@attribute @o0hem numeric
+@attribute @pandamayhem numeric
+@attribute @sashair numeric
+@attribute @uniquemak numeric
+@attribute @vinylvickx numeric
+@attribute @wedplanworkshop numeric
+@attribute alumn numeric
+@attribute aptitud numeric
+@attribute athough numeric
+@attribute bonus numeric
+@attribute bring numeric
+@attribute brook numeric
+@attribute calc numeric
+@attribute calcl numeric
+@attribute celebr numeric
+@attribute chapter numeric
+@attribute chillin numeric
+@attribute chub numeric
+@attribute club numeric
+@attribute clwn numeric
+@attribute confid numeric
+@attribute cuddl numeric
+@attribute cynth numeric
+@attribute degre numeric
+@attribute dem numeric
+@attribute dooo numeric
+@attribute everyda numeric
+@attribute frnd numeric
+@attribute ggd1 numeric
+@attribute ggd2 numeric
+@attribute grad numeric
+@attribute half numeric
+@attribute hur numeric
+@attribute interact numeric
+@attribute interest numeric
+@attribute it` numeric
+@attribute jam numeric
+@attribute kitten numeric
+@attribute kulir100 numeric
+@attribute latin numeric
+@attribute lemon numeric
+@attribute lord numeric
+@attribute luk numeric
+@attribute madrig numeric
+@attribute nanbargal numeric
+@attribute nooooooooooo numeric
+@attribute oin numeric
+@attribute oral numeric
+@attribute partyin numeric
+@attribute pomon numeric
+@attribute ppl numeric
+@attribute sandwich numeric
+@attribute september numeric
+@attribute spil numeric
+@attribute test numeric
+@attribute treadmil numeric
+@attribute tryn numeric
+@attribute upcom numeric
+@attribute waitt numeric
+@attribute wal numeric
+@attribute who numeric
+@attribute winst numeric
+@attribute c numeric
+@attribute priec numeric
+@attribute tryst numeric
+@attribute y numeric
+@attribute @anthonyluc numeric
+@attribute @charlieboy808 numeric
+@attribute @colstewart numeric
+@attribute @iainfunnel numeric
+@attribute @kaseypotees numeric
+@attribute @nawid numeric
+@attribute appar numeric
+@attribute bac numeric
+@attribute bedroom numeric
+@attribute contradict numeric
+@attribute cycl numeric
+@attribute direct numeric
+@attribute domest numeric
+@attribute furnitur numeric
+@attribute glad numeric
+@attribute hay numeric
+@attribute health numeric
+@attribute lightn numeric
+@attribute lost&ampfound numeric
+@attribute paint numeric
+@attribute perv numeric
+@attribute refresh numeric
+@attribute report numeric
+@attribute rt numeric
+@attribute scrap numeric
+@attribute tic numeric
+@attribute tomorow numeric
+@attribute uggh numeric
+@attribute fridaaaayyyy numeric
+@attribute fuckinm numeric
+@attribute transtelecom numeric
+
+@data
+{8 1,18 1,24 1,29 1,31 1,52 1,60 1,73 1,80 1,84 1,94 1,99 1,123 1,138 1,151 1,158 1}
+{0 sadness,19 1,35 1,41 1,78 1,106 1,118 1,164 1,170 1,732 1,1056 1,1082 1}
+{0 sadness,431 1,598 1,610 1,621 1}
+{0 enthusiasm,151 1,164 1,599 1,843 1,959 1,1085 1,1537 1}
+{0 neutral,40 1,111 1,118 1,151 1,161 1,163 1,164 1,638 1,1085 1,1092 1,1815 1,1870 1,2052 1,2288 1,2470 1}
+{0 worry,66 1,151 1,168 1,506 1,599 1,741 1,807 1,1106 1,1211 1,1337 1,1346 1,1714 1,1731 1}
+{0 sadness,6 1,33 1,40 1,47 1,84 1,85 1,102 1,113 1,115 1,135 1,136 1,161 1,174 1,315 1,345 1,599 1,646 1,772 1,835 1,919 1,1013 1,1085 1}
+{0 worry,83 1,90 1,527 1,661 1,1162 1,1406 1,1452 1}
+{0 sadness,84 1,168 1,229 1,435 1,760 1,786 1,807 1}
+{0 sadness,29 1,85 1,92 1,264 1,598 1,734 1,961 1}
+{0 neutral,360 1,421 1,566 1}
+{0 worry,118 1,656 1,1393 1,1751 1}
+{0 sadness,65 1,77 1,84 1,145 1,151 1,383 1,815 1,910 1,958 1,982 1,1055 1}
+{0 sadness,24 1,84 1,86 1,90 1,92 1,93 1,145 1,154 1,159 1,162 1,163 1,227 1,385 1,658 1,679 1,700 1,728 1,752 1,896 1,1039 1,1096 1,1100 1}
+{0 surprise,70 1,109 1,145 1}
+{0 sadness,24 1,68 1,90 1,145 1,542 1,656 1,978 1}
+{0 love,330 1,2676 1}
+{0 sadness,21 1,24 1,56 1,84 1,92 1,113 1,119 1,136 1,146 1,565 1,728 1,953 1}
+{0 worry,93 1,94 1,113 1,168 1,315 1,389 1,413 1,613 1,656 1,684 1,953 1,1050 1,1247 1,1598 1,1604 1,1909 1}
+{0 sadness,47 1,77 1,82 1,84 1,93 1,117 1,146 1,162 1,168 1,342 1,351 1,357 1,468 1,505 1,599 1,619 1,758 1,940 1,1013 1,1085 1}
+{0 worry,31 1,65 1,77 1,84 1,92 1,136 1,151 1,386 1,394 1,664 1,702 1,728 1,831 1,1252 1,1573 1}
+{0 fun,19 1,29 1,47 1,85 1,92 1,109 1,113 1,166 1,353 1,367 1,807 1,831 1,958 1,1106 1,1113 1,1951 1,1975 1,1987 1,1989 1,1993 1}
+{0 neutral,29 1,83 1,111 1,142 1,145 1,837 1,1877 1,2002 1,2009 1,2014 1,2041 1,2158 1,2217 1,2293 1,2335 1,2336 1,2388 1,2489 1}
+{0 worry,29 1,49 1,84 1,90 1,92 1,94 1,162 1,315 1,525 1,592 1,711 1,956 1,1012 1,1106 1,1859 1}
+{0 sadness,24 1,35 1,51 1,59 1,65 1,67 1,84 1,85 1,119 1,150 1,151 1,179 1,345 1,496 1,686 1,953 1,1013 1}
+{0 worry,6 1,37 1,46 1,47 1,77 1,84 1,106 1,118 1,142 1,492 1,531 1,573 1,618 1,662 1,807 1,835 1,1090 1,1374 1,1515 1,1589 1,1897 1,1914 1,1929 1}
+{0 sadness,24 1,33 1,65 1,85 1,94 1,135 1,147 1,151 1,168 1,250 1,357 1,394 1,696 1,739 1,771 1,863 1,910 1,953 1,955 1,961 1,1003 1}
+{0 worry,84 1,102 1,107 1,145 1,151 1,211 1,335 1,387 1,527 1,857 1,973 1,1432 1,1548 1,1595 1,1778 1}
+{0 sadness,84 1,93 1,132 1,136 1,146 1,150 1,151 1,410 1,607 1,644 1,853 1,953 1,1025 1,1055 1,1105 1}
+{0 worry,84 1,92 1,644 1,1376 1}
+{0 hate,86 1,90 1,92 1,103 1,116 1,118 1,138 1,145 1,350 1,465 1,656 1,817 1,929 1,953 1,1101 1,1895 1}
+{0 neutral,84 1,136 1,421 1,2050 1}
+{0 neutral,84 1,145 1,786 1,1374 1,2174 1}
+{0 neutral,3 1,40 1,66 1,83 1,151 1,573 1,843 1,1085 1,2208 1,2218 1,2437 1}
+{0 neutral,113 1,777 1,839 1,1034 1,1810 1,2432 1}
+{0 neutral,77 1,84 1,168 1,201 1,837 1,1096 1,2054 1,2404 1}
+{0 sadness,84 1,113 1,156 1,158 1,168 1,239 1,335 1,427 1,548 1,573 1,608 1,645 1,684 1,804 1,807 1,911 1,929 1,943 1,949 1,1112 1,1127 1}
+{0 worry,84 1,107 1,115 1,904 1,1801 1}
+{0 neutral,145 1,165 1,638 1,1294 1}
+{0 neutral,84 1,102 1,113 1,168 1,365 1,481 1,1009 1,1117 1,2068 1,2480 1}
+{0 happiness,51 1,92 1,116 1,126 1,394 1,489 1,727 1,802 1,953 1,973 1,1486 1,2728 1,2843 1}
+{0 fun,33 1,49 1,68 1,100 1,133 1,145 1,151 1,168 1,170 1,176 1,427 1,452 1,584 1,1054 1,1117 1,1306 1,1314 1,1953 1,1965 1,1988 1}
+{0 worry,24 1,92 1,93 1,103 1,116 1,145 1,156 1,357 1,600 1,656 1,929 1,1356 1,1361 1,1423 1,1694 1,1836 1}
+{0 worry,24 1,33 1,49 1,59 1,77 1,84 1,85 1,116 1,135 1,145 1,573 1,786 1,847 1,956 1,1013 1,1025 1,1106 1,1128 1,1320 1,1548 1,1782 1}
+{10 1,24 1,38 1,41 1,44 1,54 1,59 1,71 1,81 1,90 1,103 1,107 1,120 1,130 1,132 1,149 1,151 1,161 1,163 1}
+{0 worry,35 1,66 1,84 1,92 1,115 1,132 1,151 1,335 1,525 1,573 1,664 1,904 1,1015 1,1025 1,1034 1,1071 1,1099 1}
+{0 worry,24 1,40 1,84 1,95 1,113 1,118 1,145 1,146 1,158 1,165 1,168 1,332 1,470 1,664 1,955 1,981 1,1012 1,1090 1,1099 1,1106 1,1245 1,1304 1,1776 1}
+{0 sadness,19 1,77 1,85 1,86 1,133 1,164 1,344 1,421 1,564 1,656 1,807 1,867 1,885 1,1054 1}
+{0 neutral,19 1,67 1,77 1,84 1,150 1,151 1,156 1,170 1,401 1,679 1,823 1,831 1,927 1,955 1,2074 1,2161 1,2393 1,2418 1}
+{0 neutral,19 1,381 1,993 1,2502 1}
+{0 neutral,19 1,84 1,90 1,394 1,802 1,953 1,1018 1,1633 1,1759 1,2198 1,2320 1,2435 1}
+{0 worry,84 1,150 1,343 1,953 1,1106 1}
+{11 1,63 1,79 1,84 1,97 1,144 1,171 1}
+{0 neutral,24 1,84 1,86 1,93 1,136 1,142 1,151 1,156 1,386 1,489 1,645 1,702 1,806 1,953 1,959 1,981 1,1025 1,1050 1,2028 1,2095 1,2231 1,2507 1}
+{0 neutral,30 1,47 1,111 1,146 1,168 1,357 1,833 1,984 1,1090 1,2040 1}
+{0 worry,77 1,113 1,116 1,117 1,145 1,151 1,165 1,314 1,389 1,489 1,793 1,839 1,912 1,953 1,984 1,993 1,1044 1}
+{0 enthusiasm,19 1,35 1,49 1,65 1,84 1,92 1,102 1,147 1,151 1,158 1,163 1,164 1,629 1,638 1,656 1,1016 1,1030 1,1089 1,1761 1,1873 1,1990 1,2654 1,2655 1,2663 1,2664 1,2665 1}
+{0 neutral,19 1,40 1,82 1,86 1,145 1,320 1,324 1,357 1,396 1,469 1,524 1,656 1,796 1,1001 1,1099 1,1710 1,1786 1,1982 1,2113 1,2394 1,2397 1}
+{0 neutral,40 1,70 1,84 1,118 1,2092 1,2230 1,2442 1}
+{0 sadness,24 1,84 1,115 1,118 1,151 1,275 1,370 1,391 1,735 1,912 1,973 1,1065 1,1125 1}
+{0 worry,29 1,65 1,119 1,641 1,881 1,961 1,973 1,1218 1,1284 1}
+{0 sadness,33 1,86 1,92 1,113 1,145 1,209 1,364 1,369 1,508 1,912 1,953 1,1006 1,1066 1,1124 1}
+{0 sadness,40 1,77 1,84 1,92 1,145 1,151 1,180 1,336 1,412 1,525 1,550 1,609 1,632 1,820 1,1025 1,1059 1,1085 1}
+{0 sadness,86 1,288 1,335 1,399 1,663 1,849 1}
+{0 sadness,90 1,92 1,93 1,94 1,111 1,118 1,145 1,168 1,335 1,481 1,491 1,525 1,549 1,833 1,858 1,1009 1,1011 1,1024 1}
+{0 neutral,29 1,49 1,113 1,151 1,164 1,340 1,662 1,802 1}
+{0 worry,59 1,75 1,84 1,116 1,164 1,352 1,386 1,645 1,802 1,895 1,953 1,1201 1,1392 1,1416 1,1560 1,1797 1}
+{0 sadness,24 1,34 1,84 1,100 1,118 1,145 1,299 1,306 1,360 1,506 1,548 1,574 1,889 1,988 1}
+{0 worry,19 1,77 1,84 1,93 1,145 1,156 1,427 1,783 1,785 1,807 1,881 1,953 1,1013 1,1397 1,1439 1,1498 1,1718 1,1719 1,1817 1,1831 1}
+{0 happiness,31 1,70 1,75 1,133 1,151 1,158 1,174 1,482 1,632 1,747 1,875 1,938 1,953 1,1295 1,2799 1,2877 1,2901 1}
+{0 neutral,84 1,352 1,421 1,619 1,1223 1,2163 1,2356 1}
+{0 worry,19 1,24 1,28 1,161 1,335 1,357 1,584 1,659 1,684 1,738 1,770 1,1007 1,1156 1,1677 1,1781 1,1862 1,1867 1,1886 1,1919 1,1935 1}
+{0 neutral,24 1,33 1,84 1,86 1,93 1,145 1,146 1,159 1,412 1,419 1,682 1,857 1,1062 1,1097 1,1114 1,1366 1,1973 1,2177 1,2182 1,2238 1,2364 1}
+{0 neutral,3 1,83 1,84 1,131 1,786 1,2207 1,2377 1}
+{0 worry,6 1,19 1,21 1,29 1,59 1,108 1,118 1,147 1,151 1,396 1,413 1,426 1,644 1,662 1,794 1,807 1,925 1,1089 1,1090 1,1175 1,1335 1,1357 1,1725 1,1787 1,1918 1}
+{0 neutral,84 1,786 1,2493 1}
+{0 neutral,357 1,2051 1,2239 1,2347 1}
+{0 happiness,90 1,146 1,168 1,505 1,554 1,807 1,870 1,875 1,993 1,1057 1,1461 1,2714 1,2852 1,2906 1}
+{0 worry,24 1,70 1,90 1,92 1,146 1,151 1,772 1,912 1,933 1,1088 1,1293 1,1301 1}
+{0 worry,40 1,90 1,109 1,145 1,163 1,168 1,170 1,315 1,372 1,735 1,990 1,1030 1,1050 1,1101 1,1152 1,1263 1,1283 1,1592 1,1650 1,1884 1,1890 1}
+{0 sadness,77 1,84 1,162 1,291 1,315 1,335 1,489 1,558 1,832 1,1022 1,1094 1}
+{0 neutral,19 1,59 1,102 1,145 1,147 1,148 1,156 1,158 1,164 1,215 1,218 1,499 1,807 1,953 1,1034 1,1294 1,2151 1,2341 1,2396 1}
+{0 sadness,40 1,59 1,66 1,82 1,84 1,93 1,133 1,151 1,158 1,168 1,241 1,284 1,315 1,343 1,559 1,636 1,799 1,895 1,912 1,1009 1,1013 1}
+{0 worry,90 1,115 1,422 1,496 1,584 1,638 1,639 1,807 1,842 1,843 1,863 1,978 1,987 1,1092 1,1445 1,1519 1,1534 1,1641 1,1829 1}
+{0 sadness,77 1,84 1,86 1,145 1,149 1,205 1,222 1,363 1,701 1,760 1,837 1,972 1,1067 1,1092 1}
+{0 worry,24 1,51 1,66 1,70 1,136 1,151 1,519 1,807 1,817 1,1027 1,1507 1,1711 1,1755 1}
+{0 hate,19 1,24 1,84 1,116 1,118 1,142 1,151 1,156 1,159 1,421 1,638 1,807 1,842 1,953 1,1038 1,1778 1,2227 1,2404 1,2546 1,2562 1,2564 1,2567 1,2586 1,2611 1,2614 1}
+{0 worry,84 1,90 1,102 1,116 1,133 1,142 1,151 1,168 1,170 1,335 1,343 1,767 1,786 1,791 1,842 1,1054 1,1085 1,1210 1,1269 1,1580 1}
+{0 worry,84 1,136 1,145 1,164 1,315 1,421 1,711 1,877 1,888 1,1013 1,1030 1}
+{0 worry,1 1,19 1,33 1,40 1,49 1,70 1,84 1,85 1,86 1,116 1,118 1,123 1,136 1,145 1,146 1,151 1,174 1,647 1,802 1,807 1,955 1,958 1,980 1,1154 1,1355 1,1563 1,1581 1,1844 1}
+{0 neutral,67 1,118 1,162 1,2089 1,2446 1}
+{0 neutral,19 1,33 1,59 1,65 1,82 1,92 1,118 1,151 1,345 1,419 1,509 1,675 1,830 1,934 1,953 1,982 1,2262 1,2406 1,2424 1,2441 1,2448 1,2481 1,2500 1}
+{0 worry,50 1,86 1,90 1,113 1,118 1,145 1,151 1,727 1,794 1,986 1,1331 1,1388 1,1620 1,1835 1}
+{0 neutral,29 1,35 1,66 1,70 1,151 1,165 1,959 1,2027 1,2140 1}
+{0 love,24 1,84 1,93 1,115 1,156 1,158 1,335 1,394 1,646 1,659 1,807 1,889 1,1429 1,1897 1,2277 1,2688 1,2691 1,2696 1,2707 1,2708 1,2737 1}
+{0 sadness,84 1,85 1,118 1,302 1,360 1,421 1,566 1,657 1,694 1,807 1}
+{0 sadness,40 1,65 1,84 1,165 1,198 1,525 1,848 1,1034 1,1084 1}
+{0 sadness,3 1,83 1,84 1,145 1,151 1,164 1,314 1,456 1,474 1,573 1,636 1,874 1,912 1,1088 1}
+{0 neutral,2384 1}
+{0 hate,19 1,84 1,86 1,113 1,145 1,151 1,190 1,218 1,353 1,414 1,452 1,740 1,953 1,984 1,986 1,990 1,996 1,1085 1,2559 1}
+{0 worry,19 1,41 1,56 1,59 1,77 1,84 1,111 1,118 1,151 1,389 1,434 1,554 1,584 1,738 1,807 1,847 1,1015 1,1270 1,1434 1,1457 1,1638 1}
+{0 hate,168 1,939 1,1108 1,2538 1,2620 1}
+{0 neutral,59 1,90 1,146 1,831 1,895 1,1025 1}
+{0 sadness,77 1,84 1,108 1,116 1,145 1,151 1,337 1,385 1,486 1,525 1,541 1,741 1,885 1,1025 1,1066 1,1128 1}
+{0 worry,111 1,118 1,151 1,728 1,831 1,1099 1,1635 1}
+{0 hate,47 1,146 1,984 1,2540 1}
+{0 sadness,19 1,84 1,86 1,113 1,145 1,151 1,190 1,228 1,353 1,414 1,452 1,740 1,953 1,984 1,986 1,990 1,996 1,1085 1}
+{0 hate,19 1,84 1,92 1,102 1,145 1,156 1,615 1,796 1,1101 1,1922 1,2364 1,2500 1,2537 1,2592 1,2613 1,2643 1}
+{0 worry,332 1,807 1,909 1,1320 1,1348 1,1369 1,1499 1,1765 1}
+{0 sadness,24 1,33 1,77 1,84 1,92 1,102 1,108 1,151 1,162 1,372 1,615 1,650 1,719 1,741 1,756 1,807 1,827 1,889 1,929 1,974 1,1018 1,1109 1}
+{0 worry,19 1,33 1,77 1,84 1,90 1,102 1,116 1,156 1,164 1,421 1,938 1,1097 1,1298 1,1419 1,1557 1,1653 1}
+{0 neutral,146 1,158 1,1404 1,2082 1,2222 1,2433 1}
+{0 boredom,85 1,150 1,953 1}
+{0 neutral,3 1,83 1,932 1,1025 1,2162 1,2171 1,2209 1,2495 1}
+{0 neutral,24 1,85 1,163 1,843 1,874 1,990 1,1018 1,1024 1,1632 1,2094 1,2223 1,2420 1,2505 1}
+{0 neutral,84 1,92 1,128 1,146 1,343 1,796 1,923 1,1103 1,1109 1,2136 1}
+{0 sadness,51 1,75 1,84 1,86 1,92 1,93 1,106 1,116 1,150 1,282 1,395 1,425 1,489 1,525 1,600 1,760 1,767 1,781 1,789 1,807 1,993 1,1010 1,1030 1,1071 1,1122 1}
+{0 neutral,33 1,47 1,90 1,92 1,107 1,151 1,164 1,168 1,170 1,544 1,551 1,839 1,877 1,1100 1,1101 1,1313 1,1535 1}
+{0 neutral,85 1,111 1,497 1,522 1,573 1,796 1,1055 1}
+{0 sadness,177 1,337 1,534 1,825 1,984 1}
+{0 neutral,19 1,23 1,84 1,92 1,93 1,158 1,489 1,629 1,634 1,1034 1,1099 1,2398 1}
+{0 hate,24 1,90 1,747 1,953 1,994 1,1479 1,2530 1,2614 1,2622 1,2644 1}
+{0 love,19 1,24 1,59 1,115 1,140 1,145 1,151 1,359 1,386 1,629 1,962 1,973 1,1025 1,1096 1,1100 1,1317 1,1736 1,2680 1,2732 1}
+{0 worry,84 1,92 1,93 1,162 1,315 1,503 1,646 1,894 1,1081 1,1249 1,1576 1,1618 1}
+{0 hate,2527 1,2646 1}
+{0 sadness,3 1,4 1,83 1,194 1,457 1,656 1,690 1,710 1,880 1,1047 1,1106 1,1113 1}
+{0 happiness,19 1,41 1,59 1,86 1,90 1,107 1,116 1,145 1,151 1,165 1,807 1,840 1,847 1,973 1,1013 1,1097 1,1108 1,1377 1,1904 1,2270 1,2847 1,2869 1,2913 1}
+{0 sadness,68 1,84 1,85 1,90 1,481 1,573 1,741 1,787 1,991 1}
+{0 neutral,19 1,33 1,68 1,84 1,110 1,113 1,116 1,145 1,315 1,736 1,754 1,843 1,953 1,990 1,1081 1,1099 1,1727 1,2093 1,2166 1,2176 1,2246 1,2339 1}
+{0 worry,19 1,24 1,65 1,77 1,84 1,92 1,109 1,118 1,151 1,421 1,574 1,581 1,647 1,682 1,690 1,741 1,756 1,807 1,843 1,1030 1,1149 1,1308 1,1665 1,1837 1}
+{0 neutral,24 1,70 1,111 1,145 1,218 1,690 1,760 1,830 1,1791 1,2025 1,2042 1,2200 1,2391 1}
+{0 love,6 1,29 1,40 1,84 1,86 1,92 1,343 1,760 1,786 1,807 1,1904 1,2698 1,2703 1,2728 1,2734 1,2736 1}
+{0 sadness,35 1,67 1,84 1,85 1,93 1,151 1,186 1,353 1,525 1,573 1,904 1}
+{0 neutral,59 1,84 1,111 1,118 1,133 1,162 1,506 1,638 1,802 1,806 1,807 1,831 1,837 1,881 1,953 1,1032 1,1078 1,1361 1,2026 1,2159 1,2168 1,2257 1,2383 1}
+{0 neutral,188 1,837 1,875 1,2084 1,2243 1,2468 1,2497 1}
+{0 sadness,84 1,115 1,159 1,168 1,329 1,343 1,419 1,485 1,500 1,953 1,1013 1}
+{0 sadness,85 1,93 1,115 1,427 1,480 1,807 1,980 1,1021 1,1053 1,1055 1}
+{0 neutral,786 1,2012 1}
+{0 neutral,40 1,59 1,77 1,82 1,84 1,92 1,94 1,111 1,145 1,151 1,676 1,741 1,754 1,981 1,993 1,1008 1,1759 1,2137 1,2298 1}
+{0 worry,40 1,84 1,85 1,136 1,151 1,421 1,799 1,961 1}
+{0 neutral,83 1,84 1,188 1,192 1,365 1,371 1,786 1,807 1,2087 1,2206 1}
+{15 1,26 1,32 1,61 1,82 1,86 1,93 1,95 1,108 1,139 1,151 1,166 1,169 1}
+{0 neutral,84 1,90 1,92 1,93 1,108 1,111 1,131 1,162 1,164 1,419 1,2198 1}
+{0 worry,19 1,24 1,33 1,82 1,109 1,118 1,419 1,849 1,895 1,1286 1,1317 1,1371 1,1424 1,1771 1,1942 1}
+{0 neutral,19 1,77 1,85 1,115 1,145 1,151 1,239 1,367 1,682 1,1294 1,1652 1}
+{0 worry,49 1,84 1,421 1,1243 1,1314 1}
+{0 neutral,107 1,116 1,136 1,208 1,351 1,667 1,973 1}
+{0 relief,29 1,85 1,165 1}
+{0 fun,19 1,104 1,168 1,632 1,905 1,1100 1,1421 1,1976 1,1985 1}
+{0 neutral,21 1,51 1,105 1,151 1,1090 1,2475 1}
+{0 sadness,59 1,145 1,165 1,489 1,727 1,912 1,1025 1,1030 1,1058 1}
+{0 love,24 1,33 1,68 1,85 1,151 1,168 1,449 1,953 1,1004 1,1130 1,1486 1,1818 1,2687 1,2720 1,2730 1}
+{0 worry,31 1,84 1,470 1,647 1,670 1,807 1,953 1,1770 1}
+{0 worry,24 1,38 1,56 1,66 1,84 1,85 1,86 1,90 1,93 1,115 1,150 1,156 1,796 1,807 1,849 1,953 1,1300 1,1816 1}
+{0 worry,5 1,24 1,67 1,84 1,109 1,113 1,118 1,151 1,165 1,208 1,343 1,440 1,489 1,545 1,565 1,584 1,879 1,1099 1,1344 1,1385 1,1411 1,1891 1}
+{0 worry,84 1,93 1,109 1,146 1,151 1,343 1,386 1,400 1,422 1,596 1,639 1,807 1,882 1,1280 1,1330 1,1480 1,1570 1,1571 1,1626 1,1702 1}
+{0 neutral,29 1,335 1,357 1,393 1,839 1,1103 1,2331 1,2340 1,2496 1}
+{0 worry,84 1,133 1,421 1,564 1,636 1,807 1,831 1,895 1,1399 1,1629 1}
+{0 worry,20 1,33 1,70 1,84 1,85 1,160 1,525 1,527 1,545 1,727 1,807 1,835 1,1030 1,1084 1,1096 1,1150 1,1151 1,1570 1,1745 1,1791 1,1854 1}
+{0 worry,90 1,113 1,807 1,1812 1,1843 1}
+{0 hate,24 1,92 1,116 1,148 1,165 1,168 1,170 1,196 1,335 1,525 1,582 1,644 1,667 1,736 1,973 1,1025 1,1101 1,2523 1}
+{0 worry,92 1,636 1,976 1,1209 1,1902 1}
+{0 sadness,84 1,90 1,656 1,659 1,662 1,671 1,786 1,895 1,973 1,1085 1}
+{0 sadness,84 1,786 1,807 1,888 1}
+{0 surprise,6 1,24 1,77 1,84 1,116 1,118 1,145 1,489 1,736 1,794 1,807 1,837 1,1455 1,2757 1,2823 1}
+{0 fun,65 1,84 1,90 1,92 1,145 1,156 1,506 1,756 1,782 1,843 1,1306 1,1954 1}
+{0 sadness,77 1,102 1,108 1,118 1,145 1,156 1,188 1,286 1,571 1,619 1,666 1,702 1,714 1,738 1,807 1,873 1,1117 1}
+{0 worry,49 1,68 1,85 1,104 1,122 1,156 1,162 1,164 1,315 1,371 1,735 1,748 1,807 1,863 1,894 1,1013 1,1101 1,1851 1}
+{0 sadness,59 1,86 1,224 1,503 1,567 1,662 1,865 1,912 1,1007 1,1071 1,1105 1,1129 1}
+{0 neutral,86 1,92 1,111 1,145 1,608 1,654 1,661 1,987 1,1404 1}
+{0 worry,19 1,29 1,40 1,59 1,66 1,70 1,84 1,92 1,145 1,151 1,156 1,584 1,670 1,807 1,980 1,1025 1,1030 1,1299 1,1496 1,1513 1,1648 1,1651 1,1825 1,1898 1}
+{0 sadness,24 1,59 1,116 1,160 1,176 1,247 1,413 1,432 1,472 1,568 1,644 1,645 1,665 1,679 1,740 1,783 1,831 1,907 1,953 1,956 1,1009 1,1092 1,1100 1,1119 1}
+{0 worry,3 1,59 1,83 1,90 1,573 1,912 1,955 1,1409 1,1733 1}
+{0 sadness,84 1,90 1,102 1,109 1,145 1,146 1,151 1,189 1,323 1,345 1,356 1,421 1,515 1,605 1,638 1,780 1,828 1,849 1,993 1,1087 1,1099 1}
+{0 sadness,19 1,93 1,109 1,151 1,161 1,211 1,315 1,345 1,385 1,400 1,475 1,503 1,646 1,770 1,807 1,835 1,849 1,912 1,977 1,1063 1,1071 1,1085 1,1128 1}
+{0 neutral,84 1,525 1,953 1,1013 1,1085 1,2081 1,2228 1}
+{0 neutral,80 1,90 1,161 1,772 1,2073 1,2379 1}
+{0 worry,19 1,29 1,40 1,49 1,84 1,92 1,116 1,118 1,151 1,556 1,573 1,716 1,741 1,767 1,817 1,953 1,1008 1,1025 1,1221 1,1288 1,1295 1,1426 1,1649 1}
+{0 neutral,31 1,124 1,506 1,727 1,807 1,927 1,1050 1}
+{0 fun,67 1,68 1,85 1,100 1,137 1,168 1,335 1,523 1,638 1,836 1,1035 1,1314 1,1806 1,1950 1,1961 1,1980 1,1983 1,1998 1}
+{19 1,35 1,67 1,69 1,77 1,78 1,85 1,151 1}
+{0 neutral,84 1,158 1,159 1,2131 1,2219 1,2368 1}
+{0 fun,40 1,65 1,77 1,84 1,145 1,147 1,168 1,392 1,505 1,525 1,600 1,1008 1,1085 1,1955 1,1963 1,1964 1,1969 1,1971 1,1999 1}
+{0 sadness,24 1,84 1,86 1,93 1,145 1,158 1,343 1,385 1,600 1,631 1,859 1,869 1,912 1,917 1,1005 1,1008 1}
+{0 worry,92 1,102 1,738 1,1114 1,1223 1}
+{0 sadness,19 1,84 1,115 1,165 1,525 1,573 1,741 1,895 1,904 1,932 1,1034 1,1036 1}
+{0 sadness,19 1,40 1,59 1,77 1,84 1,111 1,115 1,124 1,793 1}
+{0 worry,86 1,145 1,164 1,174 1,551 1,727 1,817 1,1281 1,1435 1,1437 1,1449 1,1505 1,1548 1,1750 1,1824 1,1856 1,1928 1,1933 1}
+{0 worry,24 1,85 1,133 1,151 1,315 1,489 1,649 1,679 1,894 1,1074 1,1178 1,1272 1,1314 1,1863 1,1879 1}
+{0 surprise,84 1,86 1,168 1,352 1,357 1,421 1,648 1,1103 1,2761 1,2787 1,2837 1}
+{0 surprise,40 1,92 1,113 1,145 1,217 1,383 1,592 1,682 1,2754 1,2783 1,2805 1,2839 1,2841 1,2842 1}
+{0 sadness,31 1,131 1,145 1,151 1,502 1,510 1,734 1,897 1}
+{0 surprise,19 1,24 1,34 1,84 1,111 1,148 1,156 1,158 1,315 1,639 1,1101 1,1112 1,1709 1,2800 1}
+{0 sadness,19 1,59 1,77 1,113 1,118 1,145 1,153 1,196 1,200 1,202 1,203 1,207 1,212 1,214 1,309 1,326 1,345 1,548 1,570 1,669 1,693 1,785 1,892 1,967 1,1120 1}
+{0 surprise,46 1,65 1,84 1,145 1,163 1,168 1,359 1,656 1,770 1,1101 1,1511 1,2814 1}
+{0 worry,29 1,84 1,102 1,343 1,525 1,757 1,807 1,878 1,895 1,961 1,1084 1,1347 1,1502 1,1619 1}
+{0 hate,19 1,113 1,146 1,151 1,155 1,385 1,629 1,1127 1,1709 1,1957 1,1972 1,1990 1,1994 1}
+{0 worry,357 1,953 1,1106 1,1479 1,1698 1,1870 1}
+{0 fun,19 1,113 1,146 1,151 1,155 1,385 1,629 1,1127 1,1709 1,1957 1,1962 1,1972 1,1990 1,1994 1}
+{0 worry,19 1,31 1,107 1,706 1}
+{0 sadness,49 1,84 1,148 1,158 1,219 1,483 1,1109 1}
+{0 worry,19 1,24 1,59 1,84 1,90 1,107 1,118 1,145 1,151 1,160 1,359 1,503 1,706 1,864 1,1030 1,1140 1,1341 1,1402 1,1550 1,1754 1,1822 1}
+{0 sadness,84 1,116 1,123 1,145 1,156 1,312 1,450 1,730 1,758 1,807 1,856 1,877 1,1062 1,1069 1,1073 1,1077 1}
+{7 1,12 1,23 1,28 1,30 1,36 1,62 1,85 1,106 1,110 1,115 1,121 1,136 1,151 1,156 1}
+{0 sadness,19 1,31 1,90 1,599 1}
+{0 neutral,29 1,75 1,77 1,133 1,168 1,345 1,369 1,489 1,506 1,664 1,727 1,815 1,817 1,2116 1,2172 1}
+{0 hate,24 1,70 1,85 1,102 1,115 1,118 1,146 1,168 1,523 1,904 1,934 1,1904 1,2505 1,2541 1}
+{0 neutral,33 1,86 1,345 1,682 1,844 1,2032 1,2362 1}
+{0 neutral,19 1,24 1,29 1,66 1,85 1,92 1,111 1,145 1,165 1,208 1,634 1,973 1,2019 1,2108 1,2269 1,2276 1}
+{0 hate,145 1,165 1,976 1,1109 1,1117 1,1319 1,2569 1,2597 1,2617 1,2629 1}
+{0 love,64 1,84 1,145 1,786 1,2678 1}
+{0 sadness,19 1,29 1,111 1,116 1,118 1,145 1,148 1,158 1,165 1,279 1,408 1,549 1,551 1,562 1,612 1,691 1,727 1,774 1,811 1,817 1,971 1}
+{0 hate,357 1,724 1,1429 1,1842 1,2543 1,2548 1}
+{0 sadness,19 1,92 1,111 1,164 1,188 1,267 1,452 1,725 1,872 1,973 1,1015 1}
+{0 sadness,59 1,65 1,85 1,90 1,116 1,146 1,151 1,163 1,225 1,335 1,394 1,648 1,656 1,807 1,838 1,961 1,1012 1,1066 1}
+{0 relief,40 1,49 1,77 1,84 1,86 1,90 1,92 1,145 1,151 1,163 1,329 1,335 1,524 1,652 1,799 1,973 1,1062 1,1081 1,1850 1,2929 1,2934 1,2940 1,2948 1}
+{0 hate,24 1,77 1,85 1,150 1,953 1,1071 1,2589 1}
+{0 neutral,19 1,21 1,92 1,108 1,133 1,146 1,147 1,151 1,449 1,527 1,639 1,682 1,1973 1,1990 1,2080 1,2258 1,2291 1,2317 1,2318 1}
+{0 neutral,24 1,156 1,168 1,506 1,662 1,1035 1,1791 1,2141 1,2146 1}
+{0 hate,24 1,66 1,84 1,102 1,138 1,145 1,151 1,341 1,644 1,662 1,738 1,807 1,1085 1,1904 1,2551 1,2614 1}
+{0 neutral,102 1,162 1,315 1,2099 1}
+{0 neutral,40 1,59 1,84 1,111 1,140 1,146 1,163 1,168 1,318 1,323 1,352 1,355 1,738 1,741 1,744 1,756 1,1054 1,2227 1,2478 1,2483 1}
+{0 worry,49 1,82 1,86 1,94 1,113 1,151 1,449 1,807 1,863 1,1454 1,1554 1}
+{0 surprise,19 1,29 1,84 1,105 1,116 1,145 1,343 1,464 1,598 1,1025 1,1106 1,1484 1,2803 1,2828 1}
+{0 neutral,84 1,164 1,174 1,343 1,843 1,1818 1,2075 1,2091 1,2291 1}
+{0 worry,19 1,24 1,41 1,84 1,116 1,145 1,385 1,525 1,670 1,736 1,741 1,807 1,1012 1,1241 1,1363 1,1436 1,1704 1,1793 1,1796 1,1913 1}
+{0 sadness,59 1,115 1,151 1,420 1,639 1,1118 1}
+{0 worry,19 1,24 1,40 1,77 1,82 1,84 1,94 1,111 1,151 1,166 1,345 1,525 1,767 1,793 1,874 1,1085 1,1569 1,1649 1,1713 1,1838 1}
+{0 sadness,40 1,84 1,85 1,146 1,151 1,183 1,240 1,315 1,320 1,396 1,760 1,807 1,912 1,1127 1}
+{0 worry,19 1,24 1,78 1,84 1,86 1,90 1,92 1,109 1,116 1,122 1,146 1,196 1,343 1,372 1,404 1,648 1,716 1,807 1,844 1,1098 1,1164 1,1499 1,1544 1,1554 1}
+{0 worry,84 1,111 1,176 1,342 1,343 1,656 1,831 1,1181 1}
+{0 neutral,21 1,24 1,28 1,85 1,132 1,158 1,372 1,489 1,600 1,727 1,842 1,844 1,874 1,1646 1,1674 1,2149 1,2263 1,2361 1,2440 1}
+{0 neutral,19 1,65 1,86 1,92 1,111 1,151 1,153 1,158 1,165 1,218 1,364 1,1701 1,2382 1}
+{0 happiness,19 1,111 1,131 1,145 1,158 1,170 1,387 1,489 1,493 1,996 1,1030 1,1036 1,1623 1,2865 1,2867 1,2868 1,2875 1,2897 1,2909 1}
+{0 happiness,23 1,40 1,41 1,65 1,66 1,84 1,102 1,118 1,145 1,151 1,156 1,158 1,369 1,506 1,553 1,615 1,836 1,1304 1,2197 1,2216 1,2373 1,2861 1,2866 1,2898 1}
+{0 neutral,92 1,145 1,151 1,164 1,168 1,357 1,596 1,629 1,646 1,748 1,953 1,1012 1,1015 1,1127 1,2090 1,2204 1,2240 1,2279 1,2456 1}
+{0 sadness,6 1,49 1,156 1,164 1,728 1,824 1}
+{0 worry,84 1,90 1,102 1,145 1,321 1,573 1,767 1,1003 1,1013 1,1795 1,1805 1,1912 1}
+{17 1,76 1,84 1,89 1,91 1,100 1,111 1,148 1,157 1,158 1,159 1}
+{0 worry,84 1,90 1,92 1,145 1,343 1,523 1,991 1,1025 1,1348 1,1551 1,1623 1,1940 1}
+{0 neutral,24 1,77 1,84 1,85 1,92 1,93 1,138 1,151 1,168 1,201 1,335 1,386 1,394 1,679 1,738 1,843 1,874 1,958 1,1018 1,1117 1,2006 1,2106 1,2175 1,2301 1,2389 1}
+{0 neutral,92 1,108 1,138 1,2001 1}
+{0 sadness,66 1,84 1,116 1,145 1,147 1,151 1,372 1,388 1,470 1,727 1,957 1,986 1,1012 1,1090 1,1100 1,1109 1}
+{0 worry,40 1,59 1,84 1,109 1,111 1,145 1,147 1,506 1,578 1,885 1,1013 1,1050 1,1100 1,1455 1,1893 1,1895 1,1901 1}
+{16 1,39 1,66 1,111 1,112 1,117 1,118 1,145 1,146 1,151 1,152 1,156 1}
+{0 sadness,33 1,40 1,84 1,111 1,145 1,148 1,163 1,168 1,262 1,342 1,357 1,573 1,634 1,776 1,782 1,914 1,1090 1,1103 1}
+{0 happiness,40 1,49 1,59 1,68 1,84 1,116 1,341 1,524 1,796 1,1030 1,1170 1,1635 1,2701 1,2846 1,2910 1}
+{0 worry,85 1,466 1,1819 1}
+{0 neutral,19 1,28 1,29 1,107 1,151 1,164 1,174 1,427 1,506 1,599 1,741 1,758 1,1025 1,1099 1,1119 1,1292 1,1436 1,2242 1,2322 1,2326 1,2346 1,2357 1,2486 1}
+{0 worry,116 1,165 1,489 1,1175 1}
+{0 happiness,33 1,59 1,68 1,92 1,145 1,164 1,421 1,475 1,909 1,1081 1,1096 1,1136 1,2850 1,2871 1,2874 1}
+{0 neutral,24 1,84 1,147 1,158 1,394 1,679 1,837 1,874 1,962 1,1008 1,1013 1,2274 1,2324 1,2332 1}
+{0 worry,19 1,40 1,49 1,92 1,93 1,111 1,145 1,147 1,320 1,521 1,664 1,741 1,839 1,993 1,1009 1,1066 1,1096 1,1267 1,1533 1,1692 1,1736 1,1752 1,1864 1}
+{0 neutral,85 1,100 1,111 1,113 1,475 1,2103 1}
+{0 sadness,24 1,42 1,59 1,92 1,100 1,151 1,158 1,188 1,396 1,482 1,510 1,618 1,637 1,656 1,768 1,788 1,899 1,909 1,912 1,925 1,1013 1}
+{0 surprise,59 1,138 1,174 1,837 1,875 1,1030 1,1061 1,2243 1,2468 1,2497 1,2755 1,2769 1}
+{0 hate,19 1,24 1,29 1,84 1,92 1,102 1,109 1,118 1,145 1,164 1,335 1,461 1,644 1,843 1,914 1,1025 1,1513 1,1765 1,2568 1,2582 1,2599 1,2601 1}
+{0 neutral,7 1,92 1,118 1,386 1,452 1,667 1,844 1,1099 1,1592 1}
+{0 worry,84 1,113 1,118 1,128 1,145 1,146 1,164 1,492 1,525 1,662 1,895 1,1018 1,1084 1,1289 1,1414 1,1456 1,1588 1,1747 1,1842 1}
+{0 surprise,86 1,102 1,118 1,145 1,154 1,365 1,421 1,738 1,1993 1,2766 1}
+{0 surprise,29 1,84 1,85 1,151 1,162 1,462 1,525 1,734 1,741 1,756 1,843 1,961 1,972 1,1013 1,1066 1,2767 1}
+{0 worry,33 1,59 1,84 1,85 1,92 1,111 1,670 1,767 1,796 1,807 1,831 1,895 1,989 1,1017 1,1025 1,1099 1,1114 1,1324 1,1395 1,1423 1,1887 1}
+{0 hate,84 1,90 1,92 1,106 1,118 1,133 1,137 1,145 1,161 1,371 1,644 1,985 1,1101 1,1994 1,2503 1,2590 1,2616 1,2624 1,2631 1,2639 1}
+{0 hate,93 1,151 1,168 1,315 1,421 1,555 1,1606 1,2549 1,2615 1}
+{0 neutral,66 1,90 1,113 1,188 1,341 1,366 1,807 1,908 1,2419 1,2476 1}
+{0 neutral,59 1,84 1,116 1,145 1,372 1,385 1,532 1,594 1,662 1,2139 1,2189 1,2373 1}
+{0 worry,24 1,77 1,83 1,84 1,92 1,145 1,146 1,741 1,953 1,1111 1,1160 1,1261 1,1417 1,1467 1,1586 1,1625 1,1789 1,1869 1,1884 1,1885 1}
+{0 sadness,19 1,84 1,100 1,107 1,151 1,345 1,375 1,451 1,545 1,556 1,573 1,807 1,883 1,927 1,934 1}
+{0 sadness,24 1,92 1,102 1,113 1,117 1,552 1,590 1,738 1,871 1}
+{0 sadness,40 1,57 1,67 1,75 1,90 1,113 1,131 1,136 1,146 1,151 1,506 1,629 1,648 1,659 1,817 1,861 1,1085 1}
+{0 sadness,23 1,84 1,102 1,113 1,151 1,153 1,315 1,327 1,475 1,539 1,573 1,767 1,804 1,807 1,937 1,976 1,1078 1,1108 1}
+{0 neutral,84 1,118 1,145 1,151 1,158 1,449 1,728 1,953 1,2086 1,2426 1,2451 1}
+{6 1,14 1,22 1,25 1,37 1,40 1,46 1,48 1,50 1,55 1,64 1,65 1,72 1,82 1,84 1,85 1,96 1,114 1,116 1,133 1,134 1,141 1,151 1,155 1}
+{0 surprise,24 1,29 1,85 1,90 1,165 1,802 1,953 1,1013 1}
+{0 worry,77 1,84 1,118 1,145 1,164 1,594 1,708 1,748 1,1366 1,1484 1}
+{0 sadness,84 1,86 1,489 1,645 1,803 1,926 1,1049 1,1105 1}
+{0 sadness,268 1,313 1,372 1,619 1,682 1,786 1,807 1,898 1,1123 1}
+{0 surprise,67 1,90 1,807 1,890 1,953 1,1128 1,2811 1}
+{0 worry,19 1,77 1,84 1,85 1,146 1,151 1,164 1,396 1,599 1,807 1,843 1,1030 1,1083 1,1088 1,1290 1,1372 1}
+{0 neutral,19 1,84 1,86 1,90 1,115 1,164 1,317 1,345 1,452 1,489 1,618 1,632 1,639 1,662 1,807 1,904 1,1016 1,1494 1,2076 1,2179 1,2422 1,2436 1}
+{0 worry,21 1,386 1,638 1,807 1,1054 1,1533 1}
+{0 sadness,29 1,86 1,93 1,116 1,148 1,357 1,472 1,516 1,587 1,596 1,736 1,790 1,798 1,807 1,821 1,946 1}
+{0 neutral,19 1,24 1,77 1,84 1,107 1,109 1,151 1,412 1,1025 1,1114 1,2110 1,2170 1,2367 1}
+{0 hate,92 1,153 1,953 1,1099 1,2277 1,2535 1,2638 1}
+{0 neutral,90 1,1539 1,2015 1,2479 1}
+{0 worry,40 1,56 1,66 1,84 1,94 1,151 1,168 1,188 1,315 1,525 1,786 1,1085 1,1106 1,1225 1,1908 1,1923 1}
+{0 fun,19 1,33 1,40 1,66 1,77 1,84 1,85 1,116 1,135 1,145 1,146 1,151 1,369 1,385 1,421 1,608 1,759 1,799 1,1015 1,1092 1,1097 1,1959 1,1992 1}
+{0 neutral,33 1,145 1,390 1,421 1,817 1,1012 1,1034 1,1054 1,1115 1,2143 1,2264 1,2275 1,2461 1}
+{0 neutral,75 1,90 1,102 1,145 1,151 1,2112 1}
+{0 surprise,111 1,831 1,2752 1,2778 1}
+{0 neutral,19 1,36 1,40 1,84 1,93 1,115 1,142 1,151 1,158 1,164 1,385 1,544 1,677 1,716 1,956 1,1011 1,1374 1,1815 1,2109 1,2186 1}
+{0 sadness,33 1,84 1,145 1,175 1,311 1,720 1,916 1,1012 1,1114 1}
+{0 worry,19 1,24 1,51 1,84 1,85 1,92 1,107 1,138 1,151 1,156 1,215 1,383 1,807 1,879 1,1109 1,1163 1,1166 1,1177 1,1345 1,1511 1,1676 1,1759 1,1760 1,1779 1}
+{0 happiness,84 1,102 1,164 1,718 1,843 1,1123 1,2859 1,2880 1,2903 1}
+{0 worry,49 1,82 1,84 1,115 1,151 1,432 1,783 1,953 1,1054 1,1674 1,1749 1,1840 1}
+{0 neutral,24 1,33 1,93 1,102 1,145 1,151 1,315 1,345 1,618 1,656 1,741 1,796 1,807 1,894 1,1055 1,1431 1,1873 1,2153 1,2310 1,2408 1,2425 1}
+{0 worry,29 1,65 1,82 1,84 1,92 1,111 1,145 1,146 1,493 1,521 1,600 1,629 1,756 1,776 1,807 1,984 1,1373 1,1420 1,1426 1,1427 1,1535 1,1536 1,1587 1}
+{0 sadness,21 1,67 1,68 1,90 1,136 1,151 1,355 1,360 1,566 1,874 1,984 1,1027 1}
+{0 neutral,29 1,33 1,70 1,84 1,156 1,1126 1,1170 1,1175 1,2134 1}
+{0 hate,40 1,46 1,84 1,145 1,146 1,151 1,383 1,522 1,634 1,644 1,807 1,837 1,872 1,1090 1,1101 1,1346 1,2636 1}
+{0 worry,24 1,31 1,92 1,670 1,741 1,807 1,895 1,955 1,981 1,1097 1,1310 1,1353 1,1827 1,1878 1}
+{0 sadness,83 1,84 1,85 1,145 1,158 1,191 1,390 1,421 1,510 1,616 1,764 1,784 1,953 1,954 1,958 1,974 1}
+{0 hate,19 1,29 1,38 1,59 1,77 1,84 1,102 1,145 1,151 1,335 1,379 1,618 1,844 1,1004 1,1013 1,1035 1,1459 1,1624 1,2633 1}
+{0 neutral,19 1,24 1,29 1,40 1,86 1,113 1,116 1,118 1,145 1,165 1,489 1,524 1,608 1,1030 1,1348 1,1760 1,1914 1,2157 1,2197 1,2221 1,2249 1,2260 1,2459 1,2464 1,2492 1}
+{0 sadness,7 1,40 1,84 1,92 1,107 1,118 1,151 1,272 1,491 1,584 1,639 1,675 1,736 1,874 1,956 1,1109 1}
+{0 neutral,102 1,151 1,2124 1}
+{0 neutral,86 1,116 1,146 1,748 1,977 1,1743 1,2057 1,2381 1}
+{0 neutral,33 1,84 1,90 1,113 1,145 1,151 1,168 1,170 1,174 1,357 1,489 1,785 1,807 1,953 1,973 1,990 1,1431 1,1467 1,2077 1,2148 1,2229 1,2439 1,2462 1}
+{0 happiness,19 1,84 1,115 1,335 1,482 1,618 1,629 1,662 1,783 1,807 1,844 1,1415 1,1605 1,2166 1,2840 1,2886 1,2908 1}
+{0 hate,102 1,151 1,680 1,760 1,807 1,909 1,2542 1}
+{0 neutral,77 1,394 1,646 1,659 1,679 1,682 1,767 1,1003 1,1008 1,1034 1,1117 1,1617 1,2128 1,2282 1,2343 1}
+{0 neutral,807 1,2003 1,2101 1,2306 1,2374 1,2511 1}
+{0 relief,21 1,24 1,67 1,84 1,85 1,92 1,113 1,115 1,132 1,136 1,151 1,641 1,664 1,728 1,844 1,1765 1,2837 1,2935 1,2938 1,2947 1}
+{0 sadness,24 1,647 1,670 1,807 1,1000 1}
+{0 sadness,84 1,116 1,145 1,174 1,644 1,799 1,907 1,951 1,1076 1,1095 1,1136 1}
+{0 hate,19 1,24 1,37 1,59 1,84 1,102 1,116 1,145 1,165 1,196 1,489 1,505 1,535 1,741 1,837 1,1013 1,1100 1,1128 1,1623 1,1837 1,2521 1,2532 1,2581 1,2626 1,2634 1}
+{0 boredom,86 1,98 1,218 1,1081 1,2919 1}
+{0 worry,19 1,65 1,84 1,85 1,97 1,107 1,174 1,345 1,664 1,706 1,786 1,807 1,1092 1,1315 1,1429 1,1459 1,1720 1,1858 1}
+{0 worry,70 1,84 1,92 1,93 1,113 1,116 1,145 1,151 1,407 1,427 1,433 1,488 1,525 1,662 1,727 1,894 1,1085 1,1342 1}
+{0 worry,33 1,84 1,107 1,151 1,1517 1,1543 1}
+{0 worry,24 1,67 1,113 1,132 1,151 1,164 1,422 1,843 1,914 1,936 1,993 1,1034 1,1285 1,1351 1,1359 1,1433 1,1537 1,1907 1}
+{0 sadness,84 1,111 1,343 1,358 1,501 1,796 1,912 1}
+{0 neutral,82 1,145 1,162 1,168 1,421 1,452 1,735 1,817 1,969 1,1025 1,2070 1,2499 1}
+{0 sadness,45 1,84 1,90 1,118 1,145 1,146 1,213 1,489 1,591 1,624 1,711 1,757 1,807 1,836 1,912 1,953 1,1085 1}
+{0 sadness,84 1,111 1,497 1,522 1,573 1,796 1,953 1}
+{0 worry,57 1,82 1,84 1,133 1,656 1,1084 1,1192 1,1535 1}
+{0 sadness,68 1,77 1,84 1,86 1,93 1,116 1,118 1,145 1,146 1,151 1,158 1,195 1,210 1,357 1,509 1,524 1,547 1,554 1,639 1,740 1,766 1,797 1,807 1,870 1,1012 1,1041 1}
+{0 sadness,19 1,84 1,85 1,109 1,185 1,419 1,467 1,522 1,581 1,760 1,802 1,807 1,846 1,860 1,866 1,912 1,953 1}
+{0 sadness,33 1,70 1,84 1,92 1,93 1,113 1,116 1,145 1,151 1,407 1,427 1,433 1,488 1,525 1,662 1,727 1,844 1,894 1,1085 1}
+{0 worry,57 1,59 1,145 1,370 1,567 1,1321 1,1707 1}
+{0 neutral,19 1,40 1,92 1,118 1,148 1,476 1,807 1,993 1,2021 1,2135 1,2224 1,2334 1,2342 1,2365 1,2369 1,2386 1,2387 1}
+{0 sadness,90 1,449 1,611 1,800 1,977 1}
+{0 sadness,24 1,90 1,335 1,547 1,891 1,912 1,953 1,1035 1}
+{0 hate,84 1,85 1,92 1,113 1,122 1,164 1,165 1,470 1,665 1,679 1,807 1,943 1,990 1,1100 1,1109 1,1456 1,1681 1,1779 1,2536 1,2547 1,2584 1}
+{0 worry,26 1,84 1,107 1,108 1,168 1,170 1,928 1,1277 1,1453 1,1567 1}
+{0 worry,65 1,116 1,145 1,151 1,153 1,343 1,584 1,598 1,817 1,831 1,857 1,1018 1,1522 1,1608 1,1697 1,1772 1,1871 1}
+{0 sadness,84 1,93 1,151 1,168 1,280 1,357 1,362 1,365 1,420 1,647 1,807 1,1044 1,1103 1}
+{0 worry,24 1,77 1,84 1,92 1,357 1,564 1,670 1,807 1,1430 1,1483 1,1568 1,1597 1,1848 1}
+{0 worry,84 1,146 1,506 1,1013 1,1228 1,1313 1,1380 1}
+{33 1,40 1,56 1,84 1,85 1,107 1,113 1,136 1,150 1,151 1}
+{4 1}
+{0 neutral,84 1,90 1,145 1,831 1,1012 1,1013 1,2348 1,2482 1}
+{0 neutral,35 1,51 1,86 1,151 1,156 1,2250 1,2329 1}
+{0 sadness,146 1,151 1,378 1,445 1,579 1,639 1,722 1,912 1}
+{0 sadness,29 1,84 1,335 1,525 1,573 1,606 1,629 1}
+{0 boredom,19 1,84 1,151 1,165 1,505 1,932 1,1106 1,1297 1,2236 1}
+{0 worry,66 1,108 1,145 1,151 1,682 1,741 1,756 1,1946 1}
+{0 worry,84 1,86 1,118 1,168 1,343 1,389 1,545 1,618 1,656 1,682 1,832 1,881 1,1205 1,1645 1,1672 1,1739 1}
+{0 neutral,21 1,163 1,874 1,1101 1,2337 1}
+{0 worry,31 1,1025 1,1240 1}
+{0 hate,19 1,109 1,145 1,188 1,335 1,638 1,844 1,1089 1,1604 1,2545 1,2577 1,2578 1,2580 1,2585 1}
+{0 sadness,66 1,77 1,145 1,151 1,519 1,530 1,1034 1}
+{0 neutral,19 1,85 1,396 1,843 1,2062 1,2169 1,2457 1}
+{0 happiness,118 1,165 1,1396 1,1473 1,2888 1,2902 1}
+{0 worry,40 1,59 1,145 1,146 1,165 1,168 1,521 1,1004 1,1262 1,1734 1}
+{0 neutral,59 1,65 1,85 1,559 1,817 1,961 1,1034 1,1314 1,1823 1,2059 1,2163 1,2309 1}
+{0 worry,84 1,102 1,118 1,218 1,342 1,372 1,641 1,646 1,754 1,756 1,807 1,888 1,973 1,1497 1,1516 1,1529 1,1532 1,1716 1,1765 1}
+{0 worry,82 1,84 1,85 1,94 1,165 1,503 1,525 1,807 1,843 1,961 1,1034 1,1055 1,1110 1,1359 1}
+{0 neutral,86 1,168 1,2029 1,2494 1}
+{0 neutral,19 1,59 1,92 1,93 1,151 1,747 1,1083 1,1127 1,1486 1,1700 1,2039 1,2376 1,2445 1}
+{0 worry,19 1,59 1,78 1,85 1,86 1,93 1,113 1,145 1,146 1,151 1,342 1,387 1,573 1,647 1,713 1,756 1,807 1,1653 1,1710 1}
+{0 sadness,24 1,38 1,85 1,147 1,156 1,629 1,705 1,708 1,716 1,756 1,895 1,912 1,992 1,995 1,1031 1}
+{0 worry,19 1,40 1,59 1,85 1,86 1,145 1,151 1,667 1,670 1,807 1,837 1,853 1,928 1,989 1,1047 1,1658 1,1680 1,1748 1,1934 1}
+{0 worry,19 1,131 1,145 1,639 1,1090 1,1287 1,1598 1,1636 1,1708 1}
+{0 sadness,84 1,93 1,136 1,151 1,625 1,1085 1}
+{0 hate,49 1,66 1,77 1,145 1,147 1,151 1,342 1,767 1,843 1,1106 1,1358 1,1706 1,2534 1,2609 1,2637 1}
+{0 worry,84 1,111 1,497 1,522 1,573 1,796 1,953 1}
+{0 sadness,19 1,77 1,84 1,102 1,138 1,316 1,345 1,350 1,403 1,596 1,655 1,709 1,741 1,745 1,756 1,767 1,807 1,854 1,895 1,1035 1,1135 1}
+{0 hate,19 1,31 1,77 1,86 1,111 1,118 1,145 1,146 1,147 1,211 1,608 1,638 1,666 1,741 1,756 1,908 1,973 1,984 1,1012 1,1791 1,2466 1,2555 1,2573 1,2603 1,2612 1,2621 1}
+{0 worry,31 1,70 1,90 1,93 1,109 1,315 1,573 1,804 1,807 1}
+{0 sadness,40 1,84 1,294 1,535 1,1084 1}
+{0 sadness,19 1,40 1,47 1,65 1,70 1,84 1,85 1,94 1,102 1,174 1,249 1,352 1,419 1,527 1,589 1,618 1,672 1,717 1,738 1,807 1,815 1,953 1,1031 1,1097 1,1122 1}
+{0 sadness,59 1,77 1,84 1,118 1,259 1,374 1,389 1,401 1,405 1,490 1,525 1,541 1,573 1,588 1,599 1,641 1,656 1,718 1,724 1,770 1,938 1,953 1}
+{0 neutral,33 1,40 1,68 1,84 1,90 1,92 1,118 1,145 1,146 1,158 1,162 1,196 1,343 1,837 1,1013 1,1025 1,2043 1}
+{0 neutral,19 1,28 1,40 1,70 1,86 1,136 1,145 1,165 1,608 1,656 1,666 1,786 1,821 1,862 1,955 1,973 1,1025 1,1966 1,2144 1,2196 1,2330 1}
+{0 worry,84 1,145 1,151 1,165 1,525 1,573 1,741 1,1013 1,1050 1,1673 1}
+{0 sadness,24 1,151 1,573 1,678 1,807 1,938 1,975 1,1106 1}
+{0 worry,1058 1,1097 1,1305 1,1662 1,1695 1,1712 1,1763 1,1823 1,1911 1}
+{0 neutral,116 1,145 1,667 1,758 1,1062 1,1097 1,2220 1,2443 1}
+{0 surprise,28 1,84 1,93 1,104 1,133 1,145 1,148 1,158 1,170 1,188 1,352 1,506 1,713 1,741 1,756 1,869 1,917 1,987 1,1461 1,1709 1,1782 1,1929 1,2772 1,2804 1}
+{0 relief,40 1,90 1,662 1,1758 1,2291 1}
+{0 sadness,24 1,33 1,84 1,145 1,151 1,155 1,158 1,246 1,252 1,551 1,600 1,639 1,993 1,1020 1,1070 1,1131 1}
+{0 worry,33 1,40 1,65 1,70 1,151 1,160 1,525 1,580 1,682 1,807 1,843 1,922 1,1013 1,1506 1,1850 1,1865 1}
+{0 neutral,100 1,105 1,145 1,165 1,629 1,635 1,2348 1}
+{0 hate,24 1,65 1,77 1,84 1,86 1,92 1,105 1,111 1,123 1,145 1,151 1,156 1,165 1,599 1,783 1,807 1,897 1,982 1,1929 1,2552 1,2576 1,2593 1}
+{0 happiness,24 1,36 1,84 1,90 1,115 1,904 1,943 1,1084 1,1490 1,2845 1}
+{0 sadness,145 1,165 1,258 1,521 1,744 1}
+{0 neutral,77 1,84 1,86 1,92 1,94 1,100 1,147 1,315 1,525 1,748 1,807 1,839 1,1313 1,1314 1,1477 1,1681 1,1706 1,2055 1,2185 1,2277 1}
+{0 worry,84 1,90 1,145 1,155 1,953 1,1013 1,1122 1,1382 1,1464 1,1558 1}
+{0 worry,29 1,145 1,151 1,165 1,489 1,727 1,938 1,1360 1}
+{0 worry,84 1,85 1,118 1,358 1,573 1,741 1,1554 1}
+{0 neutral,19 1,90 1,151 1,388 1,538 1,549 1,741 1,760 1,1086 1,1539 1,2254 1}
+{0 surprise,33 1,86 1,145 1,151 1,989 1,1998 1,2770 1,2786 1}
+{0 worry,19 1,34 1,50 1,59 1,90 1,92 1,94 1,116 1,118 1,145 1,146 1,148 1,151 1,168 1,505 1,912 1,1066 1,1071 1,1198 1,1410 1,1421 1,1784 1,1786 1}
+{0 surprise,111 1,817 1,831 1}
+{0 happiness,77 1,84 1,109 1,136 1,168 1,196 1,503 1,584 1,619 1,785 1,806 1,1015 1,1062 1,1066 1,1114 1,1649 1,2851 1,2870 1,2887 1}
+{0 sadness,670 1,807 1,982 1,1037 1}
+{0 love,59 1,84 1,90 1,92 1,102 1,145 1,146 1,760 1,958 1,973 1,1013 1,1099 1,2670 1,2672 1,2686 1}
+{0 neutral,66 1,132 1,151 1,218 1,894 1}
+{0 sadness,24 1,38 1,84 1,118 1,124 1,145 1,147 1,151 1,156 1,305 1,332 1,427 1,465 1,604 1,639 1,646 1,726 1,807 1,840 1,953 1,973 1,1066 1}
+{0 neutral,21 1,40 1,67 1,90 1,92 1,116 1,118 1,149 1,151 1,629 1,662 1,698 1,756 1,842 1,843 1,1030 1,1550 1,2115 1,2192 1,2410 1,2412 1,2484 1}
+{0 worry,19 1,40 1,92 1,93 1,116 1,146 1,351 1,599 1,649 1,706 1,757 1,912 1,953 1,1007 1,1468 1,1744 1}
+{0 worry,20 1,24 1,31 1,75 1,85 1,92 1,93 1,138 1,146 1,151 1,386 1,573 1,638 1,741 1,895 1,925 1,956 1,1220 1,1312 1,1400 1,1684 1}
+{0 worry,522 1,807 1,1332 1,1727 1}
+{0 hate,31 1,149 1,953 1,984 1,2526 1}
+{0 worry,40 1,85 1,111 1,335 1,372 1,564 1,796 1,839 1,849 1,1481 1,1640 1,1669 1,1798 1,1848 1,1876 1,1877 1}
+{0 relief,66 1,93 1,116 1,151 1,210 1,580 1,667 1,740 1,796 1,1035 1,1169 1,1381 1,1570 1,2946 1}
+{0 worry,19 1,24 1,49 1,77 1,84 1,94 1,107 1,111 1,151 1,352 1,429 1,629 1,676 1,767 1,958 1,1313 1,1545 1,1729 1,1730 1}
+{0 love,66 1,84 1,92 1,145 1,148 1,151 1,664 1,786 1,844 1,986 1,1085 1,2693 1,2735 1,2751 1}
+{13 1,21 1,75 1,101 1,116 1,119 1,126 1,145 1,151 1,162 1,170 1}
+{0 sadness,27 1,84 1,85 1,86 1,145 1,335 1,360 1,367 1,544 1,608 1,643 1,748 1,942 1,1066 1,1101 1,1109 1}
+{0 hate,24 1,29 1,47 1,100 1,113 1,145 1,164 1,412 1,435 1,470 1,758 1,843 1,1092 1,1706 1,2166 1,2625 1}
+{0 sadness,84 1,150 1,168 1,287 1,343 1,653 1,760 1}
+{0 worry,38 1,90 1,124 1,145 1,151 1,380 1,404 1,434 1,541 1,807 1,839 1,1387 1,1638 1,1737 1}
+{0 worry,41 1,65 1,82 1,84 1,92 1,102 1,151 1,168 1,656 1,738 1,831 1,839 1,927 1,940 1,956 1,1009 1,1101 1,1109 1,1117 1,1233 1,1627 1}
+{0 worry,31 1,84 1,133 1,136 1,149 1,151 1,154 1,421 1,661 1,817 1,1016 1,1034 1,1062 1,1100 1,1232 1,1910 1}
+{0 sadness,19 1,31 1,51 1,57 1,59 1,67 1,90 1,105 1,109 1,476 1,489 1,575 1,639 1,727 1,817 1,961 1,1030 1,1038 1}
+{24 1,34 1,92 1,128 1,138 1,145 1,151 1,160 1}
+{0 sadness,19 1,33 1,59 1,65 1,82 1,84 1,102 1,132 1,151 1,158 1,443 1,538 1,690 1,699 1,706 1,802 1,807 1,855 1,889 1,953 1,1009 1,1101 1,1109 1,1133 1}
+{0 relief,33 1,151 1,799 1,1099 1,1127 1,1645 1,2372 1,2921 1,2924 1,2927 1,2932 1,2936 1,2943 1}
+{0 neutral,24 1,156 1,168 1,506 1,662 1,1035 1,1791 1,2105 1,2146 1}
+{0 worry,86 1,92 1,741 1,746 1,756 1,1197 1,1580 1,1768 1,1881 1}
+{0 enthusiasm,84 1,351 1,1085 1,2669 1}
+{0 neutral,28 1,40 1,45 1,93 1,162 1,168 1,357 1,452 1,736 1,2038 1,2156 1,2245 1}
+{0 enthusiasm,19 1,84 1,107 1,116 1,151 1,759 1,767 1,793 1,953 1,1034 1}
+{0 sadness,86 1,102 1,170 1,257 1,389 1,767 1,909 1,912 1}
+{0 worry,19 1,24 1,29 1,35 1,40 1,84 1,85 1,113 1,115 1,116 1,136 1,158 1,335 1,360 1,413 1,419 1,574 1,679 1,774 1,843 1,852 1,990 1,1325 1,1584 1,1657 1}
+{0 neutral,59 1,84 1,145 1,837 1,1035 1,1617 1,2013 1,2266 1}
+{0 sadness,84 1,145 1,233 1,315 1,464 1,563 1,594 1,613 1,807 1,831 1,984 1,1014 1,1022 1}
+{0 sadness,86 1,90 1,118 1,145 1,148 1,335 1,352 1,357 1,398 1,505 1,632 1,679 1,748 1,844 1,863 1,934 1,1092 1,1104 1,1115 1,1119 1}
+{0 surprise,118 1,136 1,145 1,147 1,335 1,357 1,748 1,1429 1,2773 1,2792 1,2802 1,2822 1}
+{0 neutral,24 1,84 1,86 1,92 1,113 1,391 1,527 1,645 1,656 1,847 1,942 1,976 1,1100 1,1101 1,1207 1,1431 1,1846 1,1966 1,2290 1,2353 1,2427 1}
+{0 sadness,277 1,514 1,557 1}
+{0 worry,19 1,24 1,59 1,67 1,84 1,145 1,151 1,153 1,161 1,412 1,446 1,506 1,629 1,719 1,777 1,1012 1,1058 1,1607 1,1633 1,1637 1,1679 1,1853 1}
+{0 neutral,6 1,20 1,40 1,62 1,84 1,116 1,145 1,493 1,647 1,741 1,756 1,807 1,1105 1,1109 1,1535 1,1740 1,2272 1,2296 1,2344 1,2402 1,2471 1}
+{0 sadness,37 1,145 1,301 1,426 1,961 1}
+{0 neutral,3 1,77 1,83 1,107 1,118 1,151 1,345 1,656 1,1760 1,2210 1,2295 1}
+{0 worry,58 1,85 1,92 1,145 1,573 1,741 1,807 1,953 1,975 1,1527 1,1883 1}
+{0 love,93 1,102 1,136 1,345 1,600 1,1112 1,2719 1,2739 1}
+{0 love,33 1,84 1,93 1,102 1,109 1,151 1,163 1,168 1,170 1,236 1,336 1,648 1,760 1,802 1,878 1,953 1,990 1,1081 1,1306 1,2701 1,2718 1,2740 1}
+{0 worry,137 1,165 1,747 1,802 1,953 1,1025 1}
+{0 sadness,442 1,695 1,786 1}
+{0 sadness,145 1,304 1,533 1,984 1,1072 1}
+{0 sadness,19 1,31 1,162 1,489 1}
+{0 enthusiasm,19 1,24 1,66 1,70 1,84 1,94 1,108 1,151 1,608 1,741 1,760 1,843 1,936 1,953 1,962 1,1044 1,1085 1,1092 1,1537 1,2195 1,2651 1,2662 1}
+{0 hate,3 1,83 1,145 1,644 1,1054 1,2550 1,2558 1,2563 1,2604 1,2605 1}
+{0 worry,158 1,527 1,691 1,807 1,1055 1}
+{0 surprise,84 1,146 1,335 1,506 1,802 1,836 1,1030 1,1050 1,2753 1}
+{0 worry,24 1,66 1,90 1,573 1,662 1,953 1,1084 1,1514 1}
+{0 neutral,93 1,145 1,325 1,345 1,914 1,1088 1,1096 1,1111 1,1988 1,2321 1}
+{0 neutral,145 1,165 1,521 1,744 1,2117 1}
+{0 worry,24 1,92 1,116 1,145 1,156 1,489 1,727 1,847 1,1375 1,1945 1}
+{0 neutral,168 1,357 1,372 1,452 1,618 1,1101 1,1523 1,2191 1}
+{0 neutral,218 1,1671 1,2283 1,2399 1,2417 1}
+{0 worry,145 1,878 1,1338 1,1701 1,1764 1,1813 1}
+{0 happiness,19 1,29 1,84 1,93 1,100 1,116 1,756 1,759 1,870 1,2856 1,2900 1}
+{0 surprise,21 1,36 1,90 1,113 1,136 1,145 1,165 1,802 1,895 1,904 1,2504 1,2763 1}
+{0 worry,19 1,92 1,94 1,102 1,116 1,146 1,151 1,158 1,452 1,506 1,599 1,600 1,638 1,646 1,702 1,807 1,1165 1,1326 1,1510 1,1734 1,1874 1,1925 1}
+{0 worry,59 1,85 1,102 1,111 1,634 1,662 1,969 1,1035 1,1644 1}
+{0 sadness,40 1,59 1,145 1,151 1,160 1,429 1,921 1,977 1}
+{0 worry,19 1,20 1,84 1,90 1,92 1,102 1,116 1,145 1,158 1,335 1,664 1,665 1,794 1,1099 1,1194 1,1557 1,1743 1,1921 1}
+{0 sadness,84 1,168 1,181 1,347 1,685 1,733 1,786 1,791 1,807 1}
+{0 love,111 1,116 1,148 1,355 1,895 1,1050 1,1054 1,2695 1,2700 1}
+{0 hate,28 1,34 1,40 1,77 1,86 1,105 1,118 1,145 1,151 1,165 1,188 1,1083 1,1089 1,1404 1,2519 1,2520 1,2587 1,2591 1}
+{0 neutral,92 1,111 1,113 1,2132 1}
+{0 sadness,84 1,145 1,230 1,489 1,553 1,573 1,914 1,1090 1}
+{0 sadness,24 1,65 1,66 1,77 1,84 1,86 1,118 1,136 1,145 1,151 1,156 1,164 1,421 1,489 1,791 1,936 1,984 1,1055 1}
+{0 neutral,24 1,29 1,40 1,70 1,84 1,92 1,93 1,113 1,115 1,118 1,164 1,506 1,662 1,786 1,904 1,1024 1,1099 1,2024 1,2048 1,2214 1,2465 1}
+{0 sadness,115 1,168 1,626 1,760 1,786 1,807 1,895 1,904 1,948 1,1091 1}
+{0 sadness,19 1,24 1,77 1,78 1,92 1,115 1,904 1,953 1,984 1}
+{0 worry,636 1,656 1,664 1,973 1,1099 1,1122 1,1222 1,1802 1}
+{0 fun,33 1,40 1,84 1,85 1,113 1,135 1,452 1,580 1,656 1,1405 1,1968 1}
+{0 sadness,64 1,77 1,84 1,102 1,145 1,151 1,165 1,260 1,371 1,682 1,711 1,723 1,786 1,878 1,882 1,1028 1,1132 1}
+{0 sadness,92 1,102 1,116 1,145 1,352 1,459 1,489 1,506 1,592 1,629 1,852 1,994 1,1015 1}
+{0 worry,24 1,47 1,389 1,666 1,984 1,1459 1}
+{0 sadness,371 1,786 1,807 1}
+{0 worry,49 1,90 1,113 1,136 1,151 1,385 1,638 1,646 1,1687 1}
+{0 worry,85 1,86 1,115 1,118 1,779 1,938 1,1012 1,1089 1,1562 1,1792 1,1846 1}
+{0 worry,84 1,102 1,115 1,145 1,481 1,864 1,904 1,1085 1,1109 1,1632 1}
+{0 neutral,84 1,85 1,102 1,107 1,151 1,168 1,421 1,427 1,590 1,890 1,895 1,1453 1,2098 1}
+{0 sadness,24 1,85 1,136 1,421 1,881 1}
+{0 worry,84 1,92 1,151 1,160 1,343 1,485 1,573 1,664 1,799 1,807 1,839 1,1101 1,1396 1,1413 1,1447 1,1605 1,1701 1,1773 1,1828 1}
+{0 worry,24 1,29 1,77 1,83 1,145 1,151 1,335 1,352 1,525 1,881 1,1059 1,1158 1,1257 1,1316 1,1500 1,1686 1,1820 1}
+{0 worry,21 1,82 1,84 1,102 1,108 1,151 1,168 1,679 1,807 1,1117 1,1200 1,1266 1,1535 1,1673 1,1822 1,1873 1,1918 1}
+{0 worry,86 1,136 1,151 1,351 1,741 1,756 1,817 1,961 1,1291 1,1386 1,1438 1,1551 1,1646 1}
+{0 worry,49 1,83 1,102 1,154 1,188 1,192 1,759 1,1106 1,1224 1,1408 1,1639 1}
+{0 worry,69 1,131 1,151 1,168 1,506 1}
+{0 hate,19 1,84 1,113 1,115 1,168 1,343 1,345 1,904 1,2525 1,2544 1,2557 1,2565 1,2572 1,2618 1}
+{0 sadness,165 1,638 1,1032 1}
+{0 neutral,59 1,86 1,145 1,151 1,638 1,667 1,815 1,842 1,1081 1,2018 1,2146 1,2190 1,2255 1,2286 1,2297 1}
+{0 neutral,24 1,118 1,136 1,421 1,1048 1,1666 1}
+{0 love,19 1,24 1,40 1,84 1,86 1,90 1,93 1,115 1,116 1,145 1,345 1,357 1,371 1,380 1,426 1,717 1,747 1,786 1,807 1,869 1,1063 1,1709 1,2692 1,2717 1}
+{0 neutral,113 1,386 1,548 1,629 1,831 1,2085 1,2444 1,2513 1}
+{0 sadness,19 1,24 1,29 1,40 1,85 1,86 1,90 1,113 1,131 1,145 1,151 1,165 1,495 1,518 1,599 1,600 1,629 1,630 1,734 1,879 1,923 1,933 1,987 1,1030 1,1092 1,1096 1}
+{0 anger,2950 1,2951 1}
+{0 boredom,35 1,36 1,66 1,84 1,90 1,151 1,163 1,634 1,895 1}
+{0 worry,5 1,19 1,20 1,29 1,84 1,93 1,102 1,104 1,145 1,158 1,646 1,783 1,977 1,1268 1,1830 1,1834 1}
+{0 surprise,49 1,151 1,154 1,158 1,162 1,387 1,989 1,1092 1,2775 1,2784 1,2817 1,2836 1}
+{0 sadness,24 1,92 1,108 1,118 1,131 1,145 1,168 1,372 1,419 1,554 1,578 1,670 1,760 1,797 1,839 1,957 1,993 1,1012 1,1060 1}
+{0 sadness,146 1,283 1,984 1}
+{0 neutral,24 1,94 1,779 1,2060 1,2292 1}
+{0 sadness,77 1,151 1,165 1,525 1,573 1,577 1}
+{0 worry,65 1,84 1,136 1,419 1,664 1,955 1,993 1,1035 1,1553 1,1696 1}
+{0 neutral,7 1,19 1,84 1,118 1,158 1,315 1,372 1,470 1,600 1,808 1,969 1,1103 1,1109 1,1128 1,1837 1,2044 1,2370 1}
+{0 sadness,208 1,276 1,421 1,489 1,548 1,786 1,857 1,890 1}
+{0 hate,79 1,84 1,132 1,146 1,644 1,807 1,875 1,2533 1}
+{0 sadness,24 1,90 1,102 1,165 1,329 1,372 1,520 1,600 1,662 1,715 1,729 1,807 1,868 1,1009 1,1030 1}
+{0 neutral,111 1,151 1,164 1,165 1,372 1,2234 1}
+{0 happiness,24 1,80 1,93 1,102 1,131 1,151 1,168 1,236 1,548 1,760 1,802 1,878 1,953 1,2740 1,2879 1,2890 1}
+{0 neutral,83 1,84 1,108 1,145 1,191 1,2155 1,2328 1,2355 1}
+{0 neutral,6 1,35 1,85 1,110 1,138 1,146 1,953 1,968 1,984 1,1034 1,1099 1,2071 1,2280 1,2352 1}
+{0 worry,28 1,33 1,67 1,77 1,82 1,84 1,92 1,111 1,151 1,165 1,350 1,741 1,756 1,816 1,1030 1,1392 1}
+{0 neutral,19 1,59 1,84 1,118 1,151 1,168 1,359 1,505 1,594 1,636 1,711 1,746 1,1779 1,2102 1,2510 1}
+{0 neutral,32 1,84 1,92 1,116 1,118 1,126 1,162 1,584 1,684 1,885 1,912 1,917 1,1030 1,2411 1}
+{0 worry,64 1,90 1,102 1,151 1,664 1,807 1,993 1,1431 1,1442 1,1906 1}
+{0 worry,80 1,170 1,604 1,706 1,1246 1}
+{0 sadness,168 1,335 1,494 1,786 1}
+{0 neutral,35 1,65 1,66 1,77 1,84 1,145 1,151 1,156 1,165 1,168 1,1025 1}
+{0 happiness,33 1,67 1,84 1,85 1,86 1,90 1,92 1,115 1,118 1,151 1,201 1,413 1,570 1,786 1,802 1,843 1,953 1,1302 1,1348 1,1429 1,1539 1,1906 1,2505 1,2854 1,2907 1}
+{0 sadness,21 1,33 1,86 1,145 1,168 1,292 1,422 1,438 1,654 1,664 1,682 1,779 1,786 1,893 1,952 1,959 1,993 1,1025 1,1099 1}
+{0 neutral,84 1,115 1,151 1,761 1,1085 1,2096 1,2453 1}
+{0 worry,145 1,878 1,1338 1,1701 1,1764 1,1813 1}
+{0 worry,19 1,24 1,84 1,90 1,217 1,365 1,573 1,647 1,670 1,741 1,770 1,807 1,1000 1,1179 1,1354 1,1665 1,1705 1,1757 1}
+{0 sadness,84 1,151 1,525 1,656 1,735 1,1085 1}
+{0 relief,24 1,93 1,97 1,151 1,396 1,662 1,807 1,1634 1,1820 1,2280 1,2622 1,2928 1,2942 1}
+{0 happiness,20 1,59 1,93 1,120 1,145 1,165 1,489 1,629 1,793 1,842 1,926 1,2891 1,2896 1,2912 1}
+{49 1,84 1,115 1,167 1}
+{0 anger,40 1,92 1,165 1,2949 1}
+{0 worry,29 1,59 1,84 1,92 1,102 1,145 1,146 1,151 1,521 1,529 1,654 1,664 1,984 1,1528 1}
+{0 worry,19 1,59 1,75 1,84 1,85 1,573 1,728 1,741 1,794 1,837 1,918 1,934 1,953 1,1242 1,1341 1,1352 1}
+{0 sadness,102 1,145 1,146 1,206 1,261 1,512 1,627 1,679 1,716 1,749 1,912 1,934 1,1080 1}
+{0 surprise,24 1,70 1,84 1,93 1,94 1,107 1,113 1,115 1,151 1,162 1,165 1,218 1,525 1,580 1,600 1,662 1,785 1,831 1,1055 1,1085 1,1099 1,1178 1,1397 1,1467 1,2758 1,2799 1}
+{0 sadness,84 1,148 1,158 1,307 1,1109 1}
+{0 sadness,24 1,29 1,56 1,58 1,70 1,84 1,116 1,145 1,158 1,176 1,201 1,342 1,380 1,549 1,608 1,740 1,747 1,786 1,794 1,807 1,835 1,837 1,929 1,938 1,953 1,1071 1,1101 1}
+{0 neutral,21 1,75 1,84 1,90 1,92 1,145 1,146 1,156 1,315 1,580 1,644 1,711 1,1025 1,2252 1}
+{0 neutral,36 1,40 1,59 1,113 1,134 1,136 1,142 1,150 1,151 1,548 1,1111 1,1313 1}
+{0 sadness,21 1,84 1,105 1,644 1,829 1,953 1}
+{0 neutral,19 1,170 1,407 1,465 1,619 1,836 1,973 1,1231 1}
+{0 sadness,24 1,26 1,35 1,40 1,49 1,84 1,108 1,116 1,118 1,122 1,145 1,168 1,296 1,353 1,372 1,489 1,649 1,912 1,928 1,1002 1,1016 1}
+{0 neutral,29 1,154 1,1103 1}
+{0 sadness,111 1,170 1,226 1,755 1,862 1,1079 1,1100 1}
+{0 sadness,31 1,84 1,100 1,115 1,170 1,221 1,487 1,521 1,573 1,641 1,741 1,874 1,962 1,1118 1}
+{0 surprise,494 1,1482 1}
+{0 happiness,6 1,24 1,30 1,65 1,67 1,147 1,357 1,595 1,662 1,747 1,786 1,807 1,1101 1,1306 1,1348 1,2872 1,2892 1,2916 1}
+{0 enthusiasm,118 1,558 1,1024 1,1096 1,2656 1}
+{0 neutral,29 1,85 1,113 1,115 1,164 1,426 1,662 1,807 1,904 1,2067 1}
+{0 worry,33 1,84 1,93 1,146 1,506 1,565 1,664 1,912 1,1117 1,1473 1}
+{0 worry,19 1,21 1,33 1,59 1,84 1,93 1,94 1,116 1,136 1,151 1,162 1,419 1,629 1,632 1,667 1,670 1,807 1,953 1,954 1,976 1,1117 1,1494 1,1664 1,1788 1,1917 1}
+{0 neutral,84 1,158 1,394 1,659 1,727 1,741 1,1003 1,1035 1,1791 1,2215 1,2323 1}
+{0 sadness,31 1,85 1,170 1,274 1,315 1,532 1,561 1,961 1}
+{0 neutral,77 1,84 1,116 1,146 1,352 1,525 1,2097 1}
+{0 sadness,232 1,341 1,786 1}
+{0 hate,432 1,1624 1,1698 1,2607 1}
+{0 hate,19 1,90 1,807 1,2413 1,2570 1}
+{0 surprise,19 1,146 1,148 1,168 1,464 1,525 1,984 1,1101 1,1760 1,2765 1,2806 1,2830 1}
+{0 neutral,19 1,345 1,638 1,1728 1,2064 1}
+{0 worry,19 1,84 1,116 1,118 1,145 1,388 1,573 1,600 1,719 1,961 1,1017 1,1621 1,1698 1,1761 1,1790 1,1810 1,1939 1}
+{0 sadness,24 1,51 1,67 1,75 1,84 1,107 1,145 1,146 1,151 1,165 1,382 1,597 1,635 1,698 1,750 1,973 1}
+{0 neutral,151 1,236 1,754 1,1582 1}
+{0 worry,77 1,84 1,85 1,148 1,151 1,164 1,315 1,386 1,470 1,656 1,807 1,843 1,980 1,1109 1,1235 1,1333 1,1483 1,1575 1,1593 1,1659 1}
+{0 surprise,92 1,102 1,151 1,163 1,679 1,1113 1,1791 1,2037 1,2821 1}
+{0 neutral,19 1,78 1,102 1,619 1,1920 1,2270 1}
+{0 enthusiasm,82 1,138 1,170 1,315 1,489 1,579 1,592 1,627 1,641 1,741 1,839 1,976 1,2528 1,2660 1,2661 1,2666 1,2668 1}
+{0 worry,24 1,34 1,59 1,77 1,84 1,145 1,164 1,343 1,390 1,421 1,509 1,580 1,600 1,817 1,870 1,1054 1,1063 1,1780 1,1804 1}
+{0 sadness,85 1,168 1,236 1,411 1,421 1,477 1,938 1,973 1,1004 1,1057 1,1081 1}
+{0 sadness,90 1,115 1,165 1,465 1,584 1,604 1,662 1,726 1,807 1}
+{0 worry,19 1,41 1,90 1,124 1,133 1,145 1,151 1,153 1,165 1,636 1,656 1,679 1,698 1,807 1,832 1,895 1,1034 1,1142 1,1670 1}
+{0 worry,19 1,24 1,102 1,111 1,168 1,357 1,573 1,741 1,751 1,767 1,775 1,1014 1,1137 1,1138 1,1139 1,1141 1,1145 1,1146 1,1147 1,1370 1,1769 1}
+{0 worry,42 1,84 1,86 1,93 1,94 1,145 1,151 1,208 1,372 1,527 1,600 1,727 1,733 1,757 1,1092 1,1167 1,1169 1,1202 1,1635 1}
+{0 worry,23 1,29 1,33 1,84 1,86 1,90 1,145 1,162 1,163 1,656 1,716 1,844 1,866 1,912 1,986 1,1113 1,1522 1,1774 1,1904 1}
+{0 neutral,29 1,40 1,90 1,118 1,208 1,837 1,1078 1,1646 1,1682 1,2016 1,2066 1,2123 1,2477 1}
+{0 worry,84 1,85 1,146 1,151 1,165 1,421 1,713 1,807 1,1372 1,1661 1,1847 1,1920 1}
+{0 worry,38 1,90 1,170 1,188 1,1054 1,1248 1}
+{0 neutral,24 1,65 1,84 1,136 1,146 1,151 1,394 1,527 1,629 1,664 1,817 1,959 1,1034 1,1050 1,1707 1,2360 1,2390 1}
+{0 sadness,85 1,92 1,254 1,335 1,489 1,500 1,688 1,980 1}
+{0 worry,40 1,56 1,84 1,85 1,109 1,116 1,145 1,390 1,421 1,510 1,917 1,1253 1,1318 1,1394 1,1492 1,1542 1,1907 1,1922 1}
+{0 sadness,24 1,84 1,234 1,266 1,270 1,389 1,644 1,786 1,938 1}
+{0 neutral,29 1,85 1,113 1,118 1,145 1,921 1,973 1,1011 1,1467 1,2072 1,2160 1,2165 1,2380 1,2416 1}
+{0 happiness,33 1,59 1,65 1,84 1,86 1,92 1,116 1,132 1,163 1,188 1,489 1,727 1,807 1,815 1,830 1,894 1,923 1,1030 1,1096 1,1128 1,1304 1,1623 1,2848 1,2849 1,2909 1}
+{0 sadness,35 1,84 1,86 1,156 1,807 1,969 1,1084 1,1112 1}
+{0 worry,84 1,86 1,118 1,145 1,146 1,500 1,1088 1,1484 1,1512 1,1566 1,1642 1,1723 1}
+{0 worry,24 1,59 1,81 1,86 1,92 1,145 1,151 1,156 1,656 1,973 1,1038 1,1127 1,1174 1,1207 1,1328 1,1667 1,1777 1,1818 1}
+{0 sadness,503 1,876 1,1033 1,1064 1}
+{0 boredom,92 1,494 1,807 1,953 1,1820 1,2918 1}
+{0 worry,24 1,58 1,65 1,84 1,116 1,117 1,118 1,168 1,452 1,558 1,815 1,831 1,1096 1,1188 1}
+{0 neutral,29 1,113 1,170 1,598 1,608 1,656 1,727 1,802 1,1015 1,1101 1,2414 1}
+{0 worry,84 1,85 1,92 1,94 1,145 1,525 1,679 1,807 1,837 1,993 1,1013 1,1130 1,1274 1,1313 1,1431 1,1485 1,1859 1,1873 1}
+{0 sadness,33 1,52 1,146 1,236 1,331 1,415 1,674 1,681 1,754 1,1081 1}
+{0 happiness,19 1,24 1,59 1,67 1,77 1,151 1,163 1,525 1,598 1,717 1,786 1,1035 1,1125 1,1456 1,1991 1,2863 1,2864 1,2876 1,2914 1}
+{0 worry,19 1,35 1,77 1,86 1,102 1,145 1,146 1,148 1,164 1,335 1,592 1,807 1,885 1,1353 1,1365 1,1370 1,1391 1,1554 1,1715 1}
+{0 worry,67 1,84 1,93 1,113 1,151 1,168 1,357 1,807 1,837 1,895 1,1018 1,1255 1,1453 1,1936 1}
+{0 neutral,33 1,35 1,65 1,84 1,105 1,116 1,151 1,163 1,314 1,525 1,843 1,1013 1,1034 1,1092 1,2405 1}
+{0 surprise,84 1,145 1,421 1,807 1,984 1,1030 1,1066 1,1356 1}
+{0 enthusiasm,29 1,40 1,92 1,120 1,125 1,135 1,145 1,162 1,573 1,756 1,839 1,1462 1,1518 1,1603 1,1772 1,1838 1,2657 1,2658 1}
+{0 neutral,19 1,145 1,147 1,357 1,432 1,1025 1}
+{0 sadness,49 1,102 1,168 1,289 1,644 1,1106 1}
+{0 hate,35 1,59 1,84 1,86 1,118 1,156 1,335 1,489 1,644 1,837 1,966 1,986 1,1009 1,1025 1,1048 1,1379 1,1396 1,1837 1}
+{0 neutral,90 1,113 1,151 1,364 1,1066 1,1909 1,2125 1,2259 1}
+{0 sadness,40 1,83 1,145 1,151 1,188 1,192 1,348 1,454 1,728 1,1074 1,1085 1,1092 1,1100 1}
+{0 worry,19 1,24 1,77 1,84 1,165 1,806 1,837 1,885 1,966 1,976 1,1092 1,1250 1,1297 1,1689 1}
+{0 sadness,84 1,92 1,93 1,172 1,786 1}
+{0 hate,24 1,65 1,84 1,92 1,151 1,476 1,639 1,741 1,756 1,837 1,894 1,895 1,939 1,1433 1,1792 1,2522 1,2524 1}
+{0 neutral,65 1,151 1,156 1,1081 1,1694 1}
+{0 sadness,84 1,136 1,145 1,421 1,525 1,560 1,741 1,817 1,953 1}
+{0 sadness,24 1,66 1,68 1,77 1,84 1,85 1,116 1,145 1,147 1,151 1,318 1,322 1,335 1,422 1,458 1,473 1,525 1,692 1,748 1,786 1,807 1,993 1,1034 1}
+{0 surprise,84 1,100 1,421 1,531 1}
+{0 surprise,77 1,421 1,638 1,646 1,679 1,1054 1,1106 1,1351 1,2498 1,2794 1}
+{0 sadness,146 1,151 1,285 1,648 1,961 1}
+{0 worry,24 1,49 1,77 1,84 1,85 1,105 1,113 1,145 1,151 1,156 1,164 1,489 1,656 1,1030 1,1044 1,1275 1,1303 1,1645 1,1693 1,1726 1,1759 1,1826 1,1868 1}
+{0 sadness,29 1,84 1,93 1,111 1,145 1,379 1,402 1,421 1,441 1,531 1,537 1,564 1,596 1,786 1,843 1,851 1,912 1}
+{0 worry,24 1,116 1,136 1,667 1,1047 1,1168 1,1377 1,1882 1}
+{0 worry,66 1,67 1,84 1,116 1,151 1,503 1,836 1,1101 1,1498 1,1628 1,1845 1}
+{0 anger,84 1,92 1,525 1,741 1,847 1}
+{0 neutral,92 1,113 1,168 1,357 1,953 1,1384 1,1433 1,1674 1,2070 1}
+{0 neutral,19 1,24 1,59 1,1089 1,1109 1,1117 1,2216 1,2225 1,2256 1,2267 1,2375 1,2392 1,2401 1}
+{0 sadness,19 1,116 1,406 1,478 1,580 1,673 1,1105 1}
+{0 neutral,6 1,86 1,187 1,196 1,217 1,422 1,843 1,1553 1,2178 1,2423 1,2469 1}
+{0 neutral,19 1,102 1,767 1,1815 1,2205 1}
+{0 worry,40 1,59 1,84 1,86 1,92 1,93 1,506 1,584 1,902 1,1025 1,1128 1,1176 1,1199 1,1389 1,1398 1,1441 1,1565 1,1700 1,1852 1}
+{0 love,83 1,84 1,145 1,168 1,384 1,646 1,760 1,836 1,867 1,953 1,1125 1,2673 1,2690 1,2705 1,2709 1,2727 1}
+{0 worry,84 1,86 1,90 1,102 1,174 1,333 1,666 1,807 1,1089 1,1111 1,1187 1,1362 1,1594 1,1927 1}
+{0 neutral,90 1,807 1,981 1,1665 1}
+{0 neutral,86 1,727 1,817 1,2349 1}
+{0 relief,24 1,59 1,109 1,145 1,164 1,170 1,315 1,875 1,961 1,1004 1,2922 1,2933 1,2944 1}
+{0 happiness,7 1,24 1,90 1,92 1,102 1,122 1,145 1,485 1,608 1,807 1,833 1,1009 1,1110 1,1477 1,1966 1,2379 1,2630 1,2873 1,2905 1,2911 1}
+{0 worry,19 1,24 1,77 1,84 1,86 1,92 1,111 1,128 1,476 1,525 1,831 1,1549 1,1577 1,1596 1}
+{0 neutral,33 1,68 1,85 1,106 1,116 1,117 1,136 1,145 1,153 1,567 1,634 1,665 1,843 1,849 1,955 1,1054 1,2152 1}
+{0 neutral,113 1,158 1,329 1,371 1,2281 1,2395 1,2485 1}
+{0 worry,24 1,40 1,65 1,84 1,86 1,145 1,165 1,361 1,470 1,580 1,711 1,741 1,950 1,1090 1,1109 1,1128 1,1425 1,1466 1,1476 1,1656 1,1832 1}
+{0 happiness,55 1,59 1,65 1,80 1,84 1,92 1,100 1,102 1,132 1,145 1,146 1,151 1,690 1,993 1,1084 1,1106 1,1117 1,1546 1,1837 1,2855 1,2862 1,2885 1,2894 1,2909 1}
+{0 sadness,19 1,84 1,113 1,231 1,343 1,411 1,1107 1}
+{0 relief,40 1,100 1,133 1,151 1,158 1,168 1,664 1,815 1,1096 1,1127 1,1348 1,1698 1,2925 1,2941 1,2945 1}
+{0 worry,335 1,592 1,1738 1,1839 1}
+{0 worry,84 1,104 1,111 1,116 1,124 1,145 1,151 1,153 1,158 1,482 1,600 1,1164 1,1170 1,1191 1,1381 1,1456 1,1561 1,1572 1,1573 1,1688 1,1894 1}
+{0 sadness,19 1,24 1,59 1,84 1,92 1,118 1,168 1,290 1,324 1,359 1,421 1,545 1,617 1,727 1,809 1,810 1}
+{0 hate,29 1,45 1,137 1,150 1,174 1,188 1,372 1,386 1,600 1,629 1,632 1,758 1,863 1,1071 1,1320 1,2594 1,2595 1,2596 1,2610 1,2627 1,2642 1}
+{0 worry,19 1,20 1,59 1,84 1,85 1,118 1,159 1,419 1,525 1,665 1,740 1,794 1,993 1,1013 1,1238 1,1458 1,1494 1,1495 1,1520 1,1659 1,1765 1,1786 1}
+{0 sadness,66 1,84 1,136 1,151 1,165 1,372 1,525 1,1025 1,1084 1}
+{0 worry,92 1,113 1,573 1,629 1,1229 1}
+{0 neutral,102 1,108 1,118 1,145 1,151 1,159 1,481 1,565 1,767 1,1349 1,1613 1,2278 1,2358 1}
+{0 neutral,82 1,146 1,168 1,323 1,357 1,835 1,984 1,2142 1}
+{0 worry,59 1,65 1,156 1,165 1,315 1,1013 1}
+{0 neutral,466 1,973 1}
+{0 worry,19 1,84 1,158 1,164 1,618 1,808 1,1035 1,1071 1,1450 1,1654 1}
+{0 worry,33 1,84 1,102 1,118 1,135 1,145 1,146 1,210 1,394 1,786 1,1003 1,1254 1,1349 1,1613 1,1859 1}
+{0 sadness,59 1,66 1,68 1,83 1,85 1,191 1,481 1,646 1,763 1,823 1,836 1,841 1}
+{0 surprise,20 1,84 1,146 1,786 1,802 1,1818 1,2422 1,2776 1,2779 1,2833 1}
+{0 surprise,19 1,28 1,65 1,66 1,84 1,92 1,93 1,118 1,145 1,158 1,662 1,664 1,917 1,2808 1,2809 1}
+{0 neutral,19 1,118 1,136 1,146 1,2180 1,2403 1,2428 1}
+{0 surprise,70 1,118 1,796 1,925 1,1003 1,1307 1,2788 1,2829 1,2835 1}
+{0 neutral,65 1,84 1,92 1,151 1,627 1,783 1,835 1,1546 1,1998 1,2004 1,2005 1,2107 1,2203 1}
+{0 love,7 1,21 1,106 1,111 1,115 1,118 1,120 1,145 1,165 1,218 1,335 1,629 1,760 1,843 1,908 1,1004 1,1025 1,1374 1,1698 1,1709 1,2341 1,2674 1,2702 1,2745 1}
+{0 neutral,19 1,59 1,66 1,90 1,102 1,111 1,1235 1,2447 1}
+{0 sadness,19 1,24 1,49 1,77 1,84 1,105 1,256 1,361 1,421 1,448 1,504 1,668 1,707 1,912 1,1126 1}
+{0 sadness,84 1,599 1,786 1,807 1}
+{0 neutral,59 1,90 1,118 1,145 1,146 1,164 1,472 1,579 1,641 1,673 1,727 1,807 1,832 1,986 1,1105 1,2061 1,2302 1}
+{0 sadness,84 1,93 1,145 1,461 1,895 1,912 1,917 1,1126 1}
+{0 sadness,19 1,90 1,113 1,118 1,608 1,661 1,802 1,822 1,895 1,920 1,950 1,1026 1,1068 1}
+{0 fun,49 1,84 1,86 1,113 1,149 1,174 1,392 1,748 1,761 1,802 1,1921 1,1960 1,1966 1,1978 1,1979 1,1986 1,1996 1}
+{0 neutral,2079 1}
+{0 love,40 1,55 1,84 1,92 1,102 1,116 1,145 1,151 1,315 1,716 1,760 1,767 1,831 1,938 1,969 1,1011 1,1013 1,1068 1,1101 1,2671 1,2681 1,2738 1}
+{0 neutral,113 1,1059 1,2045 1}
+{0 worry,19 1,24 1,59 1,92 1,109 1,115 1,165 1,345 1,396 1,619 1,698 1,737 1,807 1,1208 1,1474 1,1491 1}
+{0 sadness,77 1,136 1,151 1,340 1,644 1}
+{0 neutral,2065 1}
+{19 1,107 1,109 1,124 1}
+{0 worry,21 1,23 1,29 1,70 1,84 1,132 1,151 1,165 1,372 1,600 1,831 1,1035 1,1081 1,1097 1,1471 1,1504 1}
+{0 sadness,66 1,67 1,84 1,85 1,115 1,151 1,424 1,644 1,703 1,707 1,737 1,760 1,924 1}
+{0 sadness,19 1,24 1,49 1,56 1,57 1,75 1,151 1,330 1,521 1,633 1,641 1,741 1,812 1,835 1,842 1,911 1,958 1,996 1,1015 1,1066 1,1085 1}
+{0 worry,19 1,20 1,77 1,84 1,92 1,118 1,135 1,146 1,158 1,523 1,524 1,727 1,754 1,807 1,1022 1,1025 1,1101 1,1322 1,1473 1,1475 1,1724 1,1941 1}
+{0 worry,49 1,84 1,92 1,151 1,802 1,1013 1,1273 1}
+{0 sadness,19 1,24 1,84 1,145 1,158 1,293 1,376 1,394 1,396 1,489 1,499 1,573 1,741 1,756 1,783 1,908 1,973 1,985 1,1015 1,1105 1,1122 1,1131 1}
+{0 worry,84 1,156 1,506 1,549 1,639 1,796 1,895 1,939 1,1213 1,1467 1,1807 1}
+{0 surprise,24 1,86 1,90 1,92 1,145 1,156 1,158 1,527 1,580 1,604 1,691 1,1778 1,2826 1}
+{0 neutral,156 1,2188 1,2235 1,2268 1,2312 1,2351 1}
+{0 worry,77 1,84 1,116 1,145 1,151 1,636 1,843 1,864 1,955 1,961 1,1044 1,1214 1,1234 1,1259 1,1412 1,1457 1}
+{0 sadness,19 1,59 1,65 1,84 1,92 1,145 1,151 1,372 1,389 1,417 1,475 1,506 1,634 1,831 1,874 1,998 1,1099 1}
+{0 happiness,84 1,133 1,151 1,369 1,470 1,656 1,843 1,1109 1,1499 1,2858 1}
+{0 sadness,84 1,115 1,160 1,164 1,168 1,271 1,360 1,421 1,566 1,716 1,1109 1}
+{0 relief,90 1,188 1,646 1,656 1,2822 1,2926 1,2939 1}
+{0 worry,19 1,29 1,30 1,40 1,42 1,86 1,111 1,118 1,164 1,438 1,544 1,632 1,639 1,850 1,908 1,996 1,1025 1,1035 1,1092 1,1403 1,1446 1,1645 1,1930 1}
+{0 neutral,35 1,117 1,151 1,560 1,600 1,973 1,2488 1}
+{0 love,24 1,59 1,84 1,100 1,145 1,146 1,158 1,162 1,247 1,525 1,777 1,815 1,1012 1,1071 1,1128 1,1742 1,2189 1,2324 1,2729 1,2733 1,2741 1,2748 1}
+{0 worry,77 1,84 1,92 1,115 1,137 1,145 1,151 1,573 1,627 1,807 1,895 1,1057 1,1098 1,1144 1,1359 1,1414 1,1539 1,1753 1,1866 1,1926 1,1944 1}
+{0 worry,83 1,146 1,188 1,192 1,756 1,849 1,953 1,1196 1,1407 1,1679 1}
+{0 neutral,7 1,19 1,24 1,33 1,90 1,136 1,145 1,151 1,165 1,314 1,329 1,335 1,667 1,817 1,1030 1,1036 1,1114 1,1652 1,2186 1}
+{0 fun,28 1,84 1,94 1,118 1,145 1,146 1,159 1,168 1,315 1,452 1,786 1,1049 1,1054 1,1956 1,1973 1,1974 1}
+{0 neutral,19 1,24 1,86 1,97 1,317 1,530 1,630 1,738 1,760 1,918 1,1003 1,1096 1,2311 1}
+{0 sadness,113 1,235 1,961 1,1130 1}
+{0 worry,19 1,33 1,49 1,59 1,82 1,84 1,90 1,145 1,146 1,151 1,174 1,335 1,372 1,419 1,509 1,747 1,945 1,1085 1,1740 1,1929 1}
+{0 worry,84 1,158 1,170 1,392 1,599 1,1016 1,1279 1}
+{0 neutral,24 1,67 1,80 1,84 1,102 1,132 1,151 1,156 1,343 1,1106 1,1112 1,2458 1}
+{0 sadness,21 1,40 1,82 1,84 1,92 1,94 1,100 1,102 1,115 1,118 1,126 1,151 1,360 1,529 1,559 1,566 1,573 1,654 1,1035 1}
+{0 worry,56 1,84 1,90 1,421 1,625 1,934 1,1379 1,1498 1,1554 1,1717 1,1845 1,1887 1}
+{0 worry,46 1,50 1,90 1,93 1,146 1,151 1,420 1,842 1,961 1,1044 1,1282 1,1431 1,1498 1,1678 1,1759 1,1845 1,1896 1}
+{0 neutral,3 1,59 1,83 1,359 1,710 1,878 1,880 1,2211 1}
+{0 love,2277 1,2694 1}
+{0 hate,29 1,52 1,77 1,84 1,102 1,151 1,156 1,215 1,592 1,659 1,807 1,993 1,1003 1,1016 1,1085 1,1431 1,1916 1,2529 1,2531 1,2606 1}
+{0 happiness,84 1,102 1,107 1,133 1,145 1,151 1,993 1,1596 1,1815 1,1889 1,2895 1}
+{0 sadness,19 1,77 1,84 1,155 1,184 1,525 1,565 1,742 1,801 1,807 1,953 1,1002 1,1013 1}
+{0 sadness,321 1,1046 1}
+{0 surprise,40 1,187 1,217 1,337 1,679 1,1009 1,1623 1,1723 1,2819 1}
+{0 love,3 1,83 1,133 1,188 1,599 1,807 1,1085 1,2704 1}
+{0 worry,49 1,84 1,94 1,151 1,162 1,170 1,366 1,525 1,953 1,1212 1,1486 1}
+{0 neutral,19 1,145 1,387 1,1759 1,2007 1,2201 1,2304 1,2319 1,2415 1}
+{0 happiness,102 1,115 1,118 1,145 1,165 1,342 1,831 1,973 1,1127 1,2853 1,2915 1}
+{0 neutral,19 1,33 1,67 1,85 1,113 1,146 1,151 1,164 1,391 1,452 1,802 1,1058 1,1546 1,2121 1,2299 1,2313 1}
+{0 neutral,84 1,113 1,748 1,1103 1,2078 1}
+{0 sadness,49 1,84 1,85 1,148 1,158 1,223 1,346 1,470 1,956 1,961 1,1109 1}
+{0 sadness,28 1,29 1,56 1,84 1,90 1,100 1,146 1,151 1,165 1,338 1,428 1,525 1,543 1,583 1,679 1,895 1,1085 1}
+{27 1,36 1,85 1,90 1,137 1,156 1}
+{0 sadness,29 1,33 1,85 1,113 1,163 1,220 1,437 1,503 1,525 1,541 1,650 1,807 1,878 1,895 1,912 1}
+{0 happiness,84 1,86 1,131 1,136 1,145 1,146 1,151 1,158 1,165 1,343 1,345 1,584 1,734 1,806 1,1034 1,1791 1,2829 1,2889 1}
+{0 worry,19 1,24 1,66 1,84 1,86 1,92 1,106 1,111 1,165 1,406 1,478 1,573 1,656 1,666 1,673 1,698 1,741 1,776 1,796 1,826 1,973 1,1103 1,1244 1,1465 1}
+{0 worry,65 1,394 1,631 1,878 1,912 1,1071 1}
+{0 worry,84 1,555 1,644 1,1183 1,1903 1}
+{0 worry,19 1,83 1,85 1,90 1,116 1,188 1,413 1,523 1,666 1,757 1,759 1,1089 1,1161 1,1482 1,1522 1,1552 1,1666 1,1783 1,1872 1,1921 1,1925 1}
+{0 worry,19 1,21 1,84 1,90 1,92 1,131 1,151 1,315 1,351 1,372 1,544 1,599 1,792 1,807 1,993 1,1085 1,1311 1,1314 1,1490 1,1735 1,1758 1,1815 1}
+{0 surprise,59 1,79 1,111 1,118 1,145 1,357 1,590 1,770 1,930 1,953 1,1004 1,1050 1,1054 1,1100 1,2777 1,2785 1,2787 1,2824 1,2825 1,2834 1}
+{0 neutral,85 1,111 1,113 1,218 1,421 1,807 1,1554 1,2122 1,2413 1,2466 1,2517 1,2518 1}
+{0 neutral,47 1,80 1,162 1,164 1,168 1,324 1,421 1,1119 1,1484 1,2371 1}
+{0 surprise,31 1,1071 1,2774 1,2780 1,2800 1,2812 1,2816 1,2820 1}
+{0 neutral,7 1,24 1,102 1,168 1,590 1,591 1,682 1,760 1,796 1,878 1,2008 1}
+{0 worry,102 1,151 1,350 1,370 1,1184 1,1948 1}
+{0 neutral,19 1,30 1,49 1,56 1,77 1,84 1,92 1,146 1,162 1,168 1,525 1,741 1,953 1,1066 1,1092 1,1121 1,2133 1,2498 1}
+{0 sadness,84 1,90 1,136 1,145 1,421 1,486 1,602 1,953 1}
+{0 neutral,65 1,84 1,92 1,133 1,151 1,506 1,1035 1,2138 1}
+{0 fun,111 1,115 1,145 1,162 1,422 1,524 1,661 1,807 1,815 1,908 1,914 1,958 1,969 1,1347 1,1958 1,1964 1,1982 1,2000 1}
+{0 sadness,86 1,93 1,116 1,118 1,145 1,149 1,156 1,168 1,300 1,479 1,489 1,564 1,753 1,947 1,1103 1}
+{0 sadness,603 1,712 1,905 1}
+{0 worry,66 1,77 1,84 1,113 1,148 1,525 1,738 1,953 1,1099 1,1258 1,1904 1}
+{0 worry,19 1,30 1,66 1,82 1,84 1,85 1,94 1,164 1,335 1,389 1,392 1,413 1,599 1,644 1,659 1,680 1,807 1,1012 1,1013 1,1092 1,1578 1}
+{0 love,59 1,66 1,77 1,84 1,85 1,92 1,145 1,151 1,156 1,413 1,506 1,549 1,760 1,815 1,961 1,990 1,1025 1,1090 1,1096 1,2675 1,2742 1}
+{0 neutral,33 1,108 1,110 1,116 1,145 1,151 1,699 1,703 1,727 1,737 1,914 1,1054 1,2017 1,2244 1}
+{0 sadness,113 1,151 1,573 1,629 1}
+{0 sadness,19 1,33 1,59 1,68 1,92 1,117 1,151 1,422 1,489 1,629 1,630 1,754 1,807 1,818 1,833 1,918 1,1025 1,1034 1}
+{0 neutral,93 1,761 1,807 1,2251 1,2316 1}
+{0 worry,19 1,31 1,40 1,92 1,115 1,136 1,145 1,329 1,575 1,629 1,676 1,741 1,904 1,925 1,993 1,1652 1,1818 1,1937 1}
+{0 worry,67 1,90 1,134 1,548 1,639 1,662 1,702 1}
+{0 enthusiasm,90 1,145 1,735 1,807 1,1101 1,1431 1,1635 1,2220 1,2659 1}
+{0 sadness,84 1,151 1,447 1,469 1,746 1,786 1,834 1,843 1,857 1,1024 1}
+{0 neutral,102 1,113 1,953 1,2240 1,2455 1}
+{0 enthusiasm,19 1,77 1,84 1,168 1,608 1,636 1,759 1,786 1,2650 1,2652 1}
+{0 worry,59 1,102 1,146 1,168 1,767 1,912 1,1264 1}
+{0 neutral,40 1,64 1,116 1,145 1,156 1,159 1,351 1,385 1,421 1,735 1,863 1,874 1,1733 1,2287 1,2434 1}
+{0 neutral,108 1,118 1,165 1,489 1,837 1,987 1,1009 1,1030 1,1127 1,1634 1,2053 1}
+{0 worry,19 1,67 1,85 1,151 1,156 1,573 1,741 1,1419 1,1615 1}
+{0 sadness,85 1,92 1,118 1,489 1,608 1,716 1,727 1,807 1,912 1}
+{0 neutral,40 1,84 1,92 1,158 1,247 1,421 1,525 1,541 1,1013 1,1742 1}
+{0 neutral,24 1,70 1,84 1,100 1,132 1,158 1,218 1,438 1,705 1,748 1,917 1,1313 1,1557 1,2303 1,2350 1,2450 1,2490 1}
+{0 sadness,24 1,360 1,452 1,506 1,574 1,704 1,844 1}
+{0 worry,49 1,77 1,146 1,149 1,760 1,1092 1,1106 1,1271 1,1377 1}
+{0 sadness,102 1,164 1,168 1,639 1,800 1,817 1,997 1,1109 1}
+{0 worry,7 1,84 1,102 1,591 1,741 1,758 1,817 1,844 1,1663 1}
+{0 sadness,84 1,86 1,92 1,116 1,118 1,145 1,146 1,255 1,335 1,511 1,593 1,601 1,614 1,702 1,786 1,805 1,1043 1,1128 1}
+{0 worry,19 1,84 1,109 1,124 1,151 1,461 1,702 1,802 1,926 1,1085 1,1383 1}
+{0 worry,40 1,68 1,85 1,92 1,93 1,113 1,116 1,118 1,145 1,452 1,843 1,912 1,953 1,1155 1,1185 1,1469 1,1682 1}
+{0 worry,24 1,31 1,67 1,84 1,85 1,92 1,107 1,136 1,145 1,151 1,321 1,421 1,647 1,807 1,895 1,993 1,1025 1,1794 1}
+{0 sadness,40 1,84 1,92 1,118 1,148 1,151 1,251 1,482 1,623 1,721 1,760 1,843 1,981 1,1048 1}
+{0 neutral,168 1,2126 1,2164 1,2181 1}
+{0 sadness,19 1,40 1,49 1,59 1,84 1,85 1,118 1,156 1,253 1,439 1,489 1,507 1,555 1,573 1,679 1,682 1,741 1,979 1,1019 1,1055 1}
+{0 worry,84 1,90 1,92 1,111 1,525 1,664 1,831 1,938 1,953 1,1379 1,1555 1}
+{0 neutral,19 1,84 1,85 1,102 1,113 1,147 1,479 1,599 1,638 1,839 1,1013 1,2088 1,2261 1,2284 1,2421 1,2429 1,2515 1}
+{0 hate,65 1,84 1,90 1,102 1,122 1,145 1,147 1,352 1,357 1,372 1,421 1,581 1,665 1,804 1,807 1,885 1,955 1,993 1,1617 1,1653 1,2579 1,2630 1,2640 1}
+{0 worry,19 1,84 1,116 1,127 1,793 1,843 1,912 1,1685 1,1727 1}
+{0 neutral,24 1,147 1,148 1,168 1,581 1,584 1,639 1,843 1,1009 1,1030 1,2315 1,2516 1}
+{0 sadness,19 1,41 1,59 1,85 1,133 1,151 1,484 1,595 1,596 1,659 1,662 1,735 1,766 1,807 1,888 1,901 1,912 1,953 1,960 1}
+{0 sadness,24 1,31 1,84 1,149 1,210 1,334 1,385 1,573 1,680 1,697 1,741 1,845 1,887 1,895 1,1114 1,1118 1}
+{0 sadness,115 1,117 1,151 1,165 1,216 1,315 1,404 1,582 1}
+{0 sadness,102 1,164 1,168 1,640 1,800 1,817 1,997 1,1109 1}
+{0 worry,40 1,70 1,83 1,168 1,191 1,411 1,600 1,815 1,1024 1,1096 1,1256 1,1574 1,1616 1,1647 1,1931 1}
+{0 neutral,35 1,59 1,94 1,150 1,413 1,525 1,953 1,1025 1,1030 1,1106 1}
+{21 1,87 1,88 1,119 1}
+{0 sadness,19 1,21 1,28 1,77 1,84 1,113 1,135 1,156 1,531 1,573 1,642 1,679 1,774 1,777 1,973 1,993 1,1030 1,1134 1}
+{0 worry,19 1,31 1,33 1,35 1,66 1,68 1,77 1,84 1,113 1,151 1,321 1,372 1,413 1,647 1,777 1,785 1,895 1}
+{0 worry,19 1,33 1,40 1,59 1,84 1,102 1,123 1,146 1,510 1,569 1,599 1,600 1,656 1,716 1,807 1,973 1,1008 1,1062 1,1117 1,1489 1,1543 1,1775 1,1855 1,1888 1}
+{0 hate,29 1,36 1,84 1,85 1,113 1,115 1,142 1,145 1,151 1,644 1,807 1,817 1,934 1,953 1,2023 1,2583 1,2641 1}
+{0 enthusiasm,33 1,67 1,84 1,135 1,151 1,343 1,503 1,656 1,817 1,1034 1,2649 1}
+{0 neutral,84 1,421 1,961 1,1017 1,1467 1,1618 1,2129 1,2202 1,2271 1,2363 1,2514 1}
+{0 hate,24 1,65 1,68 1,77 1,81 1,84 1,111 1,117 1,132 1,151 1,153 1,156 1,329 1,506 1,796 1,895 1,955 1,984 1,1034 1,1104 1,1109 1,1379 1,1979 1,2647 1}
+{0 neutral,59 1,77 1,84 1,105 1,162 1,168 1,421 1,1364 1,2049 1,2226 1,2285 1}
+{0 sadness,19 1,20 1,33 1,135 1,136 1,471 1,489 1,758 1,807 1,1075 1}
+{0 neutral,59 1,84 1,115 1,145 1,164 1,165 1,208 1,329 1,505 1,807 1,815 1,1096 1,1346 1,1476 1,2011 1,2145 1,2185 1,2236 1,2241 1,2289 1,2338 1,2508 1}
+{0 sadness,24 1,52 1,65 1,84 1,133 1,136 1,151 1,158 1,506 1,775 1}
+{0 love,6 1,24 1,84 1,92 1,124 1,145 1,158 1,489 1,596 1,802 1,953 1,981 1,1085 1,1130 1,1306 1,1348 1,1469 1,1506 1,1950 1,2203 1,2547 1,2722 1,2746 1,2747 1,2749 1}
+{0 worry,40 1,84 1,85 1,116 1,122 1,145 1,146 1,315 1,335 1,831 1,863 1,864 1,881 1,1127 1,1190 1,1583 1,1703 1,1789 1}
+{0 sadness,84 1,93 1,102 1,115 1,178 1,278 1,644 1,806 1,895 1,929 1,965 1,1050 1,1101 1,1119 1}
+{0 neutral,40 1,68 1,92 1,115 1,2056 1}
+{0 worry,65 1,84 1,394 1,664 1,831 1,929 1,1099 1,1219 1}
+{0 worry,19 1,33 1,40 1,77 1,84 1,90 1,92 1,102 1,116 1,145 1,161 1,357 1,386 1,470 1,525 1,878 1,1013 1,1025 1,1119 1,1227 1,1422 1,1670 1}
+{0 sadness,19 1,77 1,82 1,90 1,151 1,342 1,463 1,564 1,622 1,807 1,850 1,953 1}
+{0 sadness,28 1,40 1,84 1,92 1,122 1,145 1,148 1,158 1,357 1,369 1,377 1,517 1,523 1,528 1,576 1,629 1,698 1,743 1,786 1,955 1,1016 1}
+{0 worry,24 1,85 1,86 1,107 1,118 1,159 1,201 1,618 1,625 1,645 1,658 1,953 1,1296 1,1523 1,1772 1,1806 1,1889 1}
+{0 relief,19 1,24 1,86 1,145 1,146 1,170 1,357 1,629 1,1001 1,1467 1,2923 1,2930 1,2931 1,2937 1}
+{0 hate,85 1,106 1,116 1,137 1,145 1,146 1,150 1,409 1,513 1,636 1,716 1,826 1,843 1,938 1}
+{0 love,84 1,85 1,90 1,168 1,377 1,641 1,644 1,760 1,807 1,833 1,953 1,973 1,1580 1,2679 1,2714 1,2715 1}
+{0 surprise,64 1,100 1,118 1,145 1,158 1,748 1,953 1,982 1,1109 1,1175 1,2193 1,2790 1}
+{0 worry,19 1,21 1,35 1,40 1,51 1,67 1,75 1,84 1,85 1,92 1,115 1,145 1,151 1,156 1,647 1,711 1,918 1,993 1,1034 1,1096 1,1130 1,1541 1,1631 1,1652 1}
+{0 neutral,156 1,914 1,2046 1,2069 1,2188 1,2312 1,2351 1}
+{3 1,5 1,43 1,57 1,83 1,86 1,104 1,105 1,117 1,131 1,151 1,165 1}
+{0 love,6 1,19 1,59 1,84 1,100 1,111 1,146 1,151 1,345 1,386 1,639 1,741 1,837 1,1101 1,1126 1,1128 1,1617 1,2689 1,2697 1,2699 1,2712 1,2713 1,2716 1,2725 1}
+{0 neutral,29 1,33 1,92 1,115 1,135 1,148 1,598 1,646 1,736 1,990 1,1022 1,2022 1,2027 1}
+{0 worry,70 1,85 1,94 1,102 1,249 1,335 1,386 1,403 1,702 1,738 1,953 1,961 1,1096 1,1122 1}
+{0 happiness,19 1,84 1,116 1,119 1,133 1,146 1,151 1,168 1,452 1,679 1,689 1,741 1,760 1,770 1,831 1,878 1,1117 1,1128 1,2277 1,2857 1,2881 1,2904 1}
+{0 worry,84 1,115 1,151 1,168 1,421 1,452 1,741 1,786 1,1024 1,1081 1,1236 1,1582 1,1630 1}
+{0 neutral,19 1,57 1,59 1,136 1,629 1,777 1,817 1,2130 1}
+{0 worry,24 1,50 1,77 1,815 1,1096 1,1323 1,1473 1,1487 1,1551 1,1691 1}
+{0 worry,80 1,86 1,92 1,145 1,151 1,318 1,423 1,594 1,1378 1,1493 1,1603 1}
+{0 neutral,67 1,85 1,92 1,113 1,151 1,711 1,957 1,990 1,1126 1,2031 1,2467 1,2506 1}
+{0 fun,19 1,983 1,1952 1,1967 1,1981 1}
+{0 worry,84 1,113 1,116 1,133 1,136 1,168 1,170 1,357 1,741 1,839 1,882 1,1180 1,1302 1,1467 1,1478 1,1559 1,1617 1,1674 1}
+{0 sadness,77 1,90 1,92 1,111 1,163 1,585 1,682 1,769 1,807 1,826 1,831 1,1052 1,1093 1}
+{0 sadness,24 1,84 1,85 1,94 1,116 1,145 1,146 1,154 1,163 1,168 1,182 1,188 1,238 1,315 1,357 1,634 1,797 1,884 1,938 1,961 1,973 1,1008 1}
+{0 sadness,28 1,31 1,90 1,109 1,116 1,117 1,151 1,187 1,217 1,273 1,325 1,416 1,553 1,598 1,629 1,795 1,807 1,915 1,1040 1}
+{0 worry,19 1,75 1,84 1,85 1,116 1,123 1,145 1,162 1,328 1,786 1,977 1,1195 1,1600 1}
+{0 neutral,29 1,165 1,217 1,2020 1,2023 1}
+{0 neutral,85 1,151 1,654 1,728 1,1126 1,2036 1}
+{0 worry,19 1,86 1,90 1,102 1,145 1,619 1,698 1,1025 1,1143 1,1148 1,1327 1,1440 1,1444 1,1460 1,1509 1,1539 1,1579 1,1590 1,1610 1,1690 1,1808 1,1861 1}
+{0 sadness,28 1,31 1,70 1,84 1,86 1,93 1,100 1,423 1,713 1,807 1,983 1,984 1,1045 1}
+{0 fun,19 1,24 1,29 1,92 1,145 1,156 1,478 1,479 1,618 1,629 1,673 1,800 1,895 1,912 1,983 1,1025 1,1810 1,1984 1}
+{0 worry,86 1,137 1,656 1,666 1,1556 1}
+{0 worry,40 1,115 1,449 1,555 1,839 1,925 1,953 1,1451 1}
+{0 sadness,118 1,145 1,349 1,351 1,396 1,536 1}
+{0 worry,38 1,118 1,145 1,333 1,685 1,807 1,904 1,1153 1,1462 1}
+{0 enthusiasm,40 1,79 1,84 1,90 1,92 1,113 1,133 1,148 1,151 1,168 1,412 1,421 1,639 1,656 1,756 1,760 1,837 1,1081 1,1130 1,1306 1,2648 1,2653 1}
+{0 worry,19 1,118 1,807 1,864 1,1016 1,1215 1,1384 1,1463 1}
+{0 worry,90 1,98 1,118 1,145 1,165 1,807 1,1501 1,1899 1,1918 1}
+{0 worry,30 1,84 1,92 1,93 1,102 1,113 1,142 1,151 1,741 1,832 1,895 1,929 1,934 1,955 1,973 1,1025 1,1434 1}
+{0 sadness,24 1,65 1,84 1,118 1,166 1,204 1,489 1,553 1,604 1,676 1,738 1,807 1}
+{0 worry,24 1,40 1,49 1,77 1,84 1,92 1,100 1,111 1,145 1,151 1,156 1,505 1,521 1,1012 1,1239 1,1448 1,1622 1,1655 1,1785 1}
+{0 worry,113 1,123 1,145 1,1059 1,1237 1}
+{0 worry,19 1,84 1,92 1,94 1,146 1,158 1,160 1,506 1,527 1,561 1,741 1,864 1,956 1,961 1,1265 1,1461 1}
+{0 worry,24 1,84 1,93 1,115 1,118 1,136 1,151 1,156 1,370 1,421 1,770 1,807 1,1012 1,1099 1,1112 1,1182 1,1634 1,1728 1}
+{0 worry,102 1,151 1,168 1,371 1,786 1,1206 1}
+{0 neutral,19 1,65 1,86 1,236 1,656 1,748 1,837 1,942 1,1092 1,1494 1,2147 1,2359 1,2391 1,2430 1}
+{0 hate,84 1,93 1,115 1,136 1,421 1,604 1,798 1,1049 1,2602 1}
+{0 neutral,79 1,111 1,131 1,162 1,807 1,831 1,2452 1}
+{0 neutral,19 1,77 1,84 1,525 1,2037 1,2487 1}
+{0 sadness,59 1,77 1,84 1,244 1,335 1,470 1,807 1,886 1,1023 1,1025 1,1109 1,1121 1}
+{0 worry,156 1,335 1,342 1,549 1,807 1,1683 1,1811 1}
+{0 worry,7 1,29 1,40 1,49 1,59 1,84 1,92 1,113 1,151 1,162 1,165 1,419 1,738 1,762 1,796 1,1066 1,1071 1,1340 1,1348 1,1467 1,1915 1,1947 1}
+{0 hate,84 1,128 1,145 1,644 1,741 1,807 1,895 1,1372 1,1434 1,1756 1,2632 1}
+{0 hate,19 1,29 1,68 1,118 1,151 1,165 1,412 1,527 1,638 1,658 1,689 1,728 1,766 1,817 1,863 1,881 1,984 1,1440 1,2608 1,2619 1,2628 1,2645 1}
+{0 surprise,84 1,92 1,146 1,670 1,1003 1,1016 1,1090 1,1116 1,1117 1,1118 1}
+{0 worry,49 1,85 1,116 1,767 1,807 1,821 1,927 1,1016 1,1101 1,1106 1,1809 1}
+{0 neutral,40 1,84 1,94 1,156 1,452 1,664 1,904 1,956 1,1015 1,2100 1}
+{0 worry,24 1,51 1,84 1,136 1,151 1,156 1,421 1,806 1,1034 1,1916 1}
+{0 worry,19 1,28 1,40 1,90 1,92 1,115 1,116 1,146 1,151 1,164 1,341 1,638 1,807 1,1230 1,1359 1,1401 1,1443 1,1634 1,1681 1,1737 1,1766 1,1779 1}
+{0 neutral,33 1,40 1,59 1,77 1,151 1,174 1,351 1,372 1,625 1,786 1,826 1,969 1,987 1,989 1,1085 1,1096 1,2047 1,2183 1,2184 1,2187 1,2305 1,2385 1,2460 1,2489 1}
+{0 sadness,24 1,65 1,84 1,92 1,817 1,900 1,989 1,1034 1,1041 1}
+{0 worry,65 1,90 1,118 1,145 1,168 1,477 1,600 1,735 1,752 1,802 1,817 1,953 1,1094 1,1367 1,1527 1,1540 1,1643 1,1671 1,1675 1,1938 1}
+{0 worry,19 1,36 1,77 1,78 1,84 1,953 1}
+{0 neutral,69 1,78 1,1557 1}
+{0 sadness,84 1,174 1,197 1,218 1,373 1,476 1,527 1,573 1,644 1,651 1,731 1,741 1,929 1,1102 1}
+{0 sadness,24 1,83 1,84 1,92 1,168 1,193 1,263 1,453 1,547 1,751 1,786 1,1111 1}
+{0 sadness,6 1,7 1,77 1,84 1,86 1,116 1,145 1,146 1,190 1,269 1,315 1,329 1,558 1,594 1,796 1,819 1,896 1,1001 1,1012 1,1061 1,1096 1,1105 1}
+{0 neutral,6 1,19 1,24 1,84 1,116 1,118 1,208 1,636 1,675 1,715 1,741 1,1008 1,1416 1,2023 1,2193 1,2232 1,2244 1,2247 1,2294 1,2307 1,2434 1,2503 1}
+{0 sadness,57 1,786 1}
+{20 1,35 1,47 1,51 1,65 1,68 1,70 1,77 1,135 1,143 1,151 1,156 1,168 1}
+{0 neutral,4 1,6 1,92 1,93 1,102 1,201 1,619 1,807 1,837 1,880 1}
+{0 hate,31 1,86 1,92 1,116 1,145 1,168 1,419 1,604 1,656 1,767 1,797 1,976 1,1025 1,1863 1,1929 1,2380 1,2387 1,2528 1,2571 1,2588 1}
+{0 worry,86 1,90 1,113 1,116 1,145 1,351 1,565 1,904 1,956 1,1012 1,1348 1,1371 1,1767 1}
+{0 worry,59 1,102 1,111 1,727 1,778 1,807 1,1030 1,1036 1,1364 1,1933 1,1949 1}
+{0 love,67 1,84 1,151 1,158 1,760 1,962 1,1092 1,1109 1}
+{0 sadness,19 1,24 1,84 1,86 1,90 1,92 1,102 1,116 1,323 1,341 1,471 1,598 1,634 1,667 1,767 1,799 1,807 1,912 1,942 1,944 1,999 1,1034 1}
+{0 worry,33 1,84 1,85 1,118 1,151 1,360 1,367 1,566 1,711 1,786 1,807 1,989 1,1101 1,1334 1}
+{0 neutral,113 1,1106 1,2118 1}
+{0 worry,33 1,67 1,84 1,118 1,151 1,525 1,807 1,953 1,1085 1,1090 1,1668 1}
+{0 surprise,59 1,102 1,111 1,527 1,1034 1,2791 1}
+{0 neutral,40 1,41 1,102 1,151 1,372 1,698 1,807 1,1106 1,1991 1,2195 1}
+{0 neutral,24 1,49 1,69 1,70 1,590 1,1034 1,1465 1,1787 1,2173 1,2194 1,2199 1,2308 1,2314 1,2372 1}
+{0 worry,52 1,84 1,85 1,107 1,150 1,151 1,156 1,323 1,360 1,548 1,566 1,953 1,1916 1}
+{0 surprise,84 1,93 1,123 1,138 1,145 1,158 1,218 1,549 1,1101 1,1702 1,2023 1,2782 1}
+{0 neutral,70 1,145 1,151 1,165 1,702 1,1374 1,1379 1}
+{0 sadness,90 1,146 1,308 1,912 1,953 1}
+{0 surprise,19 1,28 1,92 1,108 1,145 1,800 1,836 1,926 1,2513 1,2771 1,2795 1,2831 1}
+{0 surprise,70 1,85 1,345 1,1580 1,2033 1,2300 1,2333 1}
+{0 love,29 1,102 1,154 1,335 1,352 1,608 1,645 1,760 1,1130 1,1791 1,2683 1}
+{0 neutral,317 1,824 1,2111 1}
+{0 love,19 1,40 1,84 1,113 1,147 1,164 1,174 1,432 1,482 1,641 1,973 1,1007 1,1009 1,1290 1,1634 1,1998 1,2315 1,2677 1,2710 1,2721 1,2724 1,2731 1}
+{0 neutral,5 1,19 1,84 1,92 1,116 1,168 1,371 1,394 1,427 1,573 1,679 1,758 1,767 1,870 1,882 1,2063 1,2366 1}
+{0 sadness,90 1,938 1,939 1,973 1}
+{0 worry,85 1,93 1,113 1,599 1,831 1,881 1,1190 1,1343 1,1654 1,1900 1}
+{0 surprise,19 1,41 1,59 1,93 1,102 1,116 1,761 1,807 1,1050 1,1109 1,1348 1,2638 1,2781 1,2789 1,2815 1}
+{0 sadness,84 1,573 1,895 1,1098 1}
+{0 surprise,40 1,67 1,85 1,92 1,95 1,113 1,151 1,153 1,953 1,1099 1,1994 1,2768 1,2827 1}
+{0 worry,19 1,24 1,84 1,102 1,145 1,329 1,491 1,503 1,554 1,741 1,863 1,926 1,993 1,1048 1,1193 1,1285 1,1339 1,1526 1,1732 1,1791 1,1820 1}
+{0 neutral,24 1,65 1,85 1,145 1,168 1,315 1,394 1,664 1,961 1,1013 1,1096 1,2120 1}
+{0 worry,24 1,29 1,59 1,92 1,112 1,145 1,174 1,348 1,372 1,584 1,786 1,942 1,1024 1,1092 1,1128 1,1186 1,1319 1,1488 1,1721 1,1791 1,1833 1,1880 1}
+{0 sadness,24 1,35 1,66 1,68 1,102 1,151 1,670 1,807 1,894 1,1002 1,1017 1}
+{0 worry,19 1,84 1,118 1,151 1,343 1,598 1,1294 1,1464 1,1538 1}
+{0 worry,92 1,1404 1,1470 1}
+{0 neutral,70 1,83 1,85 1,191 1,345 1,1580 1,2033 1,2300 1,2327 1,2333 1}
+{0 sadness,85 1,586 1,602 1,895 1}
+{0 neutral,92 1,168 1,370 1,1790 1,2114 1,2512 1}
+{0 sadness,82 1,151 1,452 1,498 1,592 1,754 1,778 1,807 1,953 1,993 1,1113 1}
+{0 surprise,40 1,68 1,92 1,116 1,128 1,145 1,158 1,386 1,472 1,506 1,638 1,656 1,741 1,756 1,1030 1,1098 1,1122 1,1842 1,1921 1,2764 1,2796 1}
+{0 sadness,65 1,84 1,92 1,111 1,115 1,163 1,265 1,328 1,343 1,387 1,394 1,419 1,526 1,656 1,683 1,687 1,796 1,802 1,961 1,1003 1,1092 1,1116 1}
+{0 neutral,57 1,163 1,713 1,786 1,878 1,2354 1,2474 1}
+{0 sadness,85 1,106 1,116 1,137 1,145 1,146 1,150 1,409 1,513 1,636 1,716 1,843 1,938 1}
+{0 worry,19 1,40 1,59 1,77 1,84 1,151 1,391 1,489 1,682 1,727 1,759 1,1025 1,1034 1,1157 1,1396 1,1405 1,1503 1,1742 1}
+{0 sadness,6 1,31 1,49 1,84 1,92 1,100 1,145 1,173 1,174 1,298 1,335 1,492 1,600 1,639 1,647 1,660 1,670 1,677 1,702 1,807 1,864 1,906 1,953 1,975 1,1013 1,1110 1}
+{0 worry,40 1,147 1,357 1,1189 1,1231 1,1479 1}
+{0 hate,24 1,65 1,84 1,90 1,93 1,118 1,125 1,145 1,158 1,162 1,394 1,544 1,727 1,807 1,815 1,817 1,843 1,1105 1,1398 1,1484 1,1941 1,2635 1}
+{0 neutral,3 1,31 1,83 1,84 1,131 1,135 1,629 1,839 1,1294 1,2212 1}
+{0 neutral,3 1,65 1,70 1,83 1,131 1,702 1,1670 1,2010 1,2213 1,2325 1}
+{0 worry,80 1,786 1,1508 1,1892 1}
+{0 worry,102 1,124 1,145 1,807 1,993 1,1018 1,1204 1,1292 1,1418 1,1612 1,1741 1}
+{0 fun,24 1,102 1,158 1,702 1,874 1,1729 1,1836 1,1977 1,1995 1}
+{0 hate,29 1,84 1,92 1,145 1,389 1,525 1,636 1,656 1,741 1,1008 1,1098 1,1111 1,1554 1}
+{0 surprise,22 1,84 1,92 1,102 1,111 1,151 1,604 1,627 1,738 1,1103 1,1122 1,2793 1,2797 1,2810 1,2813 1,2840 1}
+{0 neutral,84 1,116 1,145 1,719 1,1109 1,1426 1,2127 1,2473 1}
+{0 sadness,19 1,70 1,86 1,92 1,151 1,162 1,188 1,345 1,384 1,489 1,702 1,830 1,930 1,966 1}
+{1 1,2 1,19 1,24 1,42 1,45 1,53 1,58 1,74 1,80 1,84 1,85 1,86 1,98 1,102 1,122 1,125 1,127 1,129 1,140 1,142 1,147 1,151 1,154 1,164 1}
+{0 neutral,558 1,1034 1,1374 1}
+{0 worry,82 1,84 1,90 1,94 1,831 1,1276 1,1368 1}
+{0 sadness,33 1,82 1,92 1,93 1,116 1,118 1,126 1,134 1,145 1,151 1,159 1,188 1,436 1,462 1,476 1,555 1,580 1,895 1,902 1,1066 1,1086 1}
+{0 sadness,31 1,70 1,84 1,93 1,94 1,160 1,215 1,440 1,489 1,524 1,629 1,645 1,746 1,759 1,807 1,813 1,814 1,895 1,917 1,942 1,1029 1,1054 1,1101 1,1103 1,1118 1}
+{0 sadness,83 1,115 1,132 1,188 1,192 1,393 1,455 1,736 1,786 1,807 1,929 1}
+{0 surprise,93 1,102 1,807 1,1679 1,2801 1,2832 1}
+{9 1,85 1,92 1,113 1,136 1,151 1,153 1,165 1}
+{0 sadness,670 1,1046 1}
+{0 neutral,40 1,92 1,158 1,354 1,372 1,600 1,984 1,2150 1,2167 1,2273 1,2501 1}
+{0 sadness,345 1,546 1,569 1,1035 1}
+{0 neutral,66 1,70 1,92 1,100 1,111 1,116 1,118 1,151 1,164 1,218 1,599 1,641 1,702 1,741 1,807 1,821 1,953 1,1166 1,1426 1,1897 1,2034 1,2449 1}
+{0 worry,40 1,111 1,1350 1,1521 1,1921 1}
+{0 sadness,19 1,77 1,84 1,105 1,145 1,156 1,335 1,381 1,421 1,652 1,847 1,895 1,953 1,1085 1,1089 1}
+{0 sadness,245 1,357 1,466 1,618 1}
+{0 sadness,49 1,102 1,146 1,151 1,168 1,218 1,765 1,1106 1,1117 1}
+{0 love,7 1,33 1,102 1,133 1,135 1,145 1,154 1,446 1,1789 1,2682 1,2706 1}
+{0 sadness,86 1,90 1,108 1,145 1,397 1,446 1,629 1}
+{0 neutral,84 1,370 1,656 1,777 1,2035 1,2472 1}
+{0 happiness,28 1,92 1,146 1,341 1,403 1,421 1,786 1,1092 1,1167 1,1353 1,1700 1,2255 1,2803 1,2860 1,2883 1,2884 1}
+{0 hate,40 1,56 1,59 1,84 1,102 1,145 1,151 1,335 1,357 1,498 1,592 1,748 1,895 1,950 1,1007 1,1025 1,1103 1,1336 1,1620 1,2467 1,2539 1,2556 1,2566 1}
+{0 worry,19 1,33 1,40 1,77 1,84 1,86 1,145 1,315 1,372 1,421 1,632 1,639 1,808 1,817 1,889 1,973 1,1459 1,1546 1,1547 1,1599 1,1617 1,1709 1,1799 1}
+{0 worry,33 1,49 1,77 1,84 1,86 1,113 1,135 1,145 1,151 1,158 1,647 1,781 1,802 1,807 1,849 1,993 1,1013 1,1016 1,1106 1,1429 1,1531 1,1539 1,1601 1,1602 1}
+{0 neutral,19 1,75 1,84 1,107 1,151 1,802 1,895 1,1030 1,1055 1,1557 1}
+{0 enthusiasm,36 1,59 1,66 1,84 1,1084 1,2667 1}
+{0 enthusiasm,59 1,118 1,145 1,151 1,159 1,727 1,737 1,923 1,1025 1,1035 1,1791 1}
+{0 neutral,68 1,90 1,869 1,1998 1,2104 1}
+{0 worry,84 1,107 1,136 1,151 1,670 1,807 1,973 1,1875 1}
+{0 neutral,49 1,82 1,168 1,1054 1}
+{0 sadness,24 1,50 1,84 1,86 1,90 1,111 1,145 1,148 1,151 1,243 1,317 1,319 1,357 1,427 1,444 1,540 1,620 1,689 1,773 1,969 1}
+{0 love,19 1,40 1,84 1,92 1,109 1,115 1,116 1,148 1,208 1,357 1,421 1,736 1,837 1,1009 1,1024 1,1081 1,1841 1,2244 1,2744 1}
+{0 neutral,24 1,85 1,86 1,100 1,113 1,145 1,372 1,413 1,656 1,664 1,833 1,844 1,968 1,973 1,1003 1,1333 1,2083 1}
+{0 sadness,303 1,357 1,912 1,1050 1}
+{0 worry,19 1,107 1,113 1,527 1,573 1,632 1,747 1,1030 1,1358 1,1606 1}
+{0 neutral,19 1,29 1,40 1,90 1,113 1,317 1,807 1,1030 1,1938 1,2058 1,2345 1,2407 1,2409 1}
+{0 sadness,77 1,84 1,93 1,242 1,339 1,352 1,421 1,493 1,755 1,963 1,970 1}
+{0 worry,47 1,66 1,84 1,92 1,107 1,127 1,145 1,146 1,151 1,335 1,594 1,600 1,1309 1,1465 1,1614 1,1624 1,1773 1}
+{0 worry,67 1,85 1,151 1,164 1,659 1,786 1,1329 1,1617 1,1699 1}
+{0 sadness,84 1,786 1,903 1}
+{0 sadness,78 1,84 1,92 1,116 1,145 1,419 1,430 1,460 1,573 1,604 1}
+{0 sadness,70 1,84 1,94 1,145 1,146 1,151 1,368 1,389 1,392 1,510 1,628 1,644 1,923 1,941 1,1085 1}
+{0 worry,66 1,77 1,84 1,118 1,132 1,145 1,151 1,343 1,656 1,767 1,878 1,1173 1,1226 1,1428 1,1609 1,1762 1,1924 1}
+{0 worry,19 1,35 1,40 1,66 1,77 1,84 1,92 1,116 1,136 1,151 1,329 1,335 1,372 1,642 1,756 1,807 1,1085 1,1390 1,1472 1,1624 1,1747 1,1841 1}
+{0 worry,70 1,84 1,93 1,111 1,150 1,817 1,953 1,1617 1,1773 1,1803 1}
+{0 boredom,19 1,36 1,84 1,86 1,102 1,115 1,118 1,145 1,386 1,645 1,656 1,794 1,934 1,1054 1,2917 1,2920 1}
+{0 neutral,49 1,82 1,94 1,151 1,208 1,604 1,1025 1,1313 1,1415 1,2154 1,2233 1,2248 1,2391 1,2400 1,2509 1}
+{0 sadness,24 1,84 1,92 1,111 1,151 1,380 1,385 1,418 1,434 1,478 1,503 1,584 1,594 1,600 1,662 1,673 1,727 1,807 1,817 1,869 1,1051 1,1071 1}
+{0 neutral,19 1,24 1,82 1,85 1,111 1,145 1,146 1,170 1,188 1,196 1,505 1,571 1,755 1,833 1,918 1,1012 1,1467 1,1998 1,2119 1,2253 1,2431 1,2438 1,2454 1,2491 1,2504 1}
+{0 worry,68 1,85 1,168 1,413 1,786 1,1260 1,1564 1,1769 1}
+{0 worry,83 1,84 1,109 1,118 1,145 1,151 1,400 1,452 1,639 1,796 1,1025 1,1109 1,1159 1,1530 1,1585 1,1673 1}
+{0 worry,19 1,33 1,65 1,84 1,419 1,503 1,646 1,679 1,912 1,1038 1,1092 1,1117 1,1857 1,1860 1}
+{0 worry,84 1,573 1,953 1,1251 1,1524 1,1660 1}
+{0 worry,19 1,30 1,47 1,59 1,82 1,84 1,92 1,94 1,116 1,151 1,162 1,168 1,505 1,573 1,741 1,767 1,831 1,953 1,962 1,1009 1,1203 1,1307 1,1336 1,1746 1,1884 1}
+{0 worry,24 1,90 1,150 1,1404 1,1757 1}
+{0 sadness,40 1,59 1,77 1,84 1,115 1,145 1,148 1,281 1,335 1,386 1,535 1,762 1,786 1,816 1,875 1,931 1,1015 1,1042 1,1084 1,1090 1,1127 1}
+{0 hate,19 1,24 1,31 1,92 1,93 1,102 1,104 1,116 1,151 1,387 1,412 1,523 1,774 1,807 1,843 1,909 1,928 1,942 1,984 1,2553 1,2554 1,2561 1,2598 1,2600 1,2623 1}
+{0 sadness,64 1,70 1,102 1,146 1,199 1,310 1,383 1,646 1,761 1,907 1}
+{0 hate,19 1,24 1,84 1,145 1,151 1,159 1,315 1,573 1,644 1,895 1,938 1,1055 1,1404 1,2238 1,2418 1,2560 1,2575 1}
+{0 surprise,65 1,84 1,151 1,163 1,525 1,568 1,1013 1,1490 1,1682 1,2156 1,2759 1,2762 1}
+{0 worry,84 1,102 1,151 1,353 1,525 1,847 1,1085 1,1764 1,1815 1}
+{0 sadness,132 1,145 1,489 1,600 1,639 1,662 1,935 1,1030 1}
+{0 love,33 1,84 1,93 1,105 1,118 1,145 1,156 1,411 1,662 1,682 1,831 1,879 1,1013 1,1071 1,1112 1,1175 1,1320 1,1847 1,1850 1,1992 1,2684 1,2750 1}
+{0 worry,92 1,118 1,151 1,163 1,767 1,1034 1,1367 1,1539 1,1591 1,1800 1}
+{0 sadness,24 1,40 1,84 1,86 1,100 1,109 1,151 1,160 1,190 1,248 1,341 1,354 1,366 1,412 1,572 1,719 1,726 1,756 1,807 1,913 1,1083 1,1101 1}
+{0 neutral,19 1,77 1,84 1,111 1,149 1,163 1,329 1,489 1,573 1,691 1,796 1,1062 1,1340 1,1762 1,2030 1,2237 1,2265 1,2387 1,2463 1}
+{0 sadness,57 1,145 1,413 1,629 1,808 1,922 1,945 1,1036 1}
+{0 worry,90 1,111 1,807 1,1506 1,1756 1,1905 1,1933 1}
+{0 sadness,29 1,85 1,151 1,156 1,297 1,333 1,734 1,1099 1}
+{0 love,20 1,37 1,86 1,151 1,168 1,362 1,525 1,568 1,645 1,760 1,1122 1,1503 1,1998 1,2510 1,2685 1,2711 1,2723 1,2726 1,2743 1}
+{0 sadness,102 1,237 1,831 1,968 1,1081 1,1119 1}
+{0 surprise,7 1,84 1,92 1,112 1,115 1,158 1,604 1,656 1,741 1,1103 1,1131 1,1404 1,2756 1,2760 1,2798 1}
+{0 happiness,1 1,92 1,151 1,154 1,188 1,357 1,600 1,636 1,648 1,786 1,800 1,1306 1,1998 1,2844 1,2878 1,2882 1,2893 1,2899 1}
+{0 worry,24 1,40 1,92 1,113 1,115 1,136 1,151 1,153 1,165 1,352 1,367 1,385 1,682 1,728 1,993 1,1008 1,1024 1,1111 1,1171 1,1172 1,1696 1,1932 1}
+{0 worry,49 1,111 1,115 1,124 1,151 1,162 1,163 1,503 1,831 1,959 1}
+{0 sadness,146 1,158 1,779 1,961 1}
+{0 worry,29 1,416 1,594 1,662 1,807 1,1030 1,1706 1}
+{0 surprise,19 1,31 1,92 1,93 1,109 1,113 1,117 1,118 1,151 1,522 1,843 1,925 1,953 1,1106 1,1351 1,1470 1,1483 1,1877 1,1918 1,2807 1,2818 1,2838 1}
+{0 worry,29 1,77 1,84 1,85 1,136 1,147 1,421 1,427 1,581 1,758 1,807 1,808 1,839 1,938 1,974 1,1008 1,1100 1,1525 1,1611 1,1624 1,1722 1,1814 1}
+{0 worry,19 1,67 1,84 1,116 1,133 1,151 1,158 1,170 1,422 1,869 1,1016 1,1278 1,1397 1}
+{0 worry,24 1,40 1,59 1,84 1,85 1,102 1,113 1,131 1,151 1,345 1,767 1,837 1,844 1,1084 1,1085 1,1166 1,1216 1,1477 1,1849 1}
+{0 worry,40 1,49 1,86 1,90 1,92 1,111 1,118 1,146 1,164 1,170 1,335 1,711 1,837 1,875 1,1012 1,1059 1,1217 1,1306 1,1415 1,1518 1}
+{0 sadness,59 1,86 1,90 1,145 1,295 1,792 1,837 1,961 1,964 1}
+{0 worry,40 1,146 1,236 1,366 1,1486 1,1821 1,1943 1}
+{0 fun,65 1,92 1,116 1,806 1,807 1,843 1,1398 1,1970 1,1991 1,1997 1}
+{0 hate,38 1,146 1,156 1,1372 1,2574 1}
+{0 neutral,19 1,40 1,59 1,84 1,92 1,118 1,156 1,165 1,320 1,345 1,452 1,470 1,698 1,882 1,940 1,953 1,1922 1,2378 1}
+{0 neutral,82 1,84 1,108 1,113 1,136 1,419 1,452 1,629 1,859 1}
